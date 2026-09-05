@@ -5,8 +5,6 @@ from remembering His benefits.
 
 **I love the Lord because ___.**
 
-**Teaching notes**
-
 Invite them to finish that sentence every day this week and notice one
 Psalm 147 moment — welcomed, healed, known, seen.
 
