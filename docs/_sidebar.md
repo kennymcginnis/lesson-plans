@@ -3,6 +3,7 @@
   - [Psalm 100 — Make a Joyful Noise](psalms/100.md)
   - [Psalm 102–103 — When Life Feels Heavy](psalms/102-103.md)
   - [Psalm 105 — Make Known His Deeds](psalms/105.md)
+  - [Psalm 107 — Then They Cried Unto the Lord](psalms/107.md)
   - [Psalms 110 & 118 — Pointing to Christ](psalms/110-118.md)
   - [Psalm 116 — I Love the Lord Because...](psalms/116.md)
   - [Psalm 119 — A Path, Not Just a Lamp](psalms/119.md)
