@@ -1,28 +1,28 @@
 # Let Every Thing That Hath Breath Praise the Lord
 
-Psalms 100–150 — praise and thanksgiving
+100–150 — praise and thanksgiving
 
-Psalms 100–150 are, largely, psalms of praise.
+100–150 are, largely, psalms of praise.
 
 > What does it look like to praise God with your whole life?
 
 We'll walk through several of these psalms and let that question sit rather than answering it right away.
 
-- [Psalm 100 — Make a Joyful Noise](psalms/100.md)
-- [Psalm 102–103 — When Life Feels Heavy](psalms/102-103.md)
-- [Psalm 105 — Make Known His Deeds](psalms/105.md)
-- [Psalm 107 — Then They Cried Unto the Lord](psalms/107.md)
-- [Psalms 110 & 118 — Pointing to Christ](psalms/110-118.md)
-- [Psalm 116 — I Love the Lord Because...](psalms/116.md)
-- [Psalm 119 — A Path, Not Just a Lamp](psalms/119.md)
-- [Psalms of Ascent — Psalms 120–134](psalms/120-134.md)
-- [Psalm 128 — Happy Are We](psalms/128.md)
-- [Psalm 135 — No Idol Compares](psalms/135.md)
-- [Psalm 136 — For His Mercy Endureth for Ever](psalms/136.md)
-- [Psalm 139 — The Lord Knows My Heart](psalms/139.md)
-- [Psalms 145–150 — Let Everything That Hath Breath Praise the Lord](psalms/145-150.md)
-- [Closing — Have a Praising Week](psalms/closing.md)
+- [Make a Joyful Noise (100)](psalms/100.md)
+- [When Life Feels Heavy (102–103)](psalms/102-103.md)
+- [Make Known His Deeds (105)](psalms/105.md)
+- [Then They Cried Unto the Lord (107)](psalms/107.md)
+- [Pointing to Christ (110 & 118)](psalms/110-and-118.md)
+- [I Love the Lord Because... (116)](psalms/116.md)
+- [A Path, Not Just a Lamp (119)](psalms/119.md)
+- [Psalms of Ascent (120–134)](psalms/120-134.md)
+- [Happy Are We (128)](psalms/128.md)
+- [No Idol Compares (135)](psalms/135.md)
+- [For His Mercy Endureth for Ever (136)](psalms/136.md)
+- [The Lord Knows My Heart (139)](psalms/139.md)
+- [Let Everything That Hath Breath Praise the Lord (145–150)](psalms/145-150.md)
+- [Have a Praising Week (Closing)](psalms/closing.md)
 
-> This week's official Come Follow Me reading is Psalms 102-103; 110; 116-119; 127-128; 135-139; 146-150. 
+> This week's official Come Follow Me reading is 102-103; 110; 116-119; 127-128; 135-139; 146-150.
 
-> Psalms 100, 105, and 107 aren't part of that assignment but fit the theme.
+> 100, 105, and 107 aren't part of that assignment but fit the theme.
