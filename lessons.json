@@ -1,0 +1,51 @@
+{
+  "currentLesson": "old-testament/37-proverbs-ecclesiastes",
+  "courses": [
+    {
+      "id": "old-testament",
+      "title": "Old Testament",
+      "lessons": [
+        {
+          "week": 36,
+          "slug": "psalms-100-150",
+          "subject": "Psalms 100-150",
+          "title": "Let Every Thing That Hath Breath Praise the Lord",
+          "legacyPath": "psalms",
+          "pages": [
+            { "file": "100.md", "title": "Make a Joyful Noise (100)" },
+            { "file": "102-103.md", "title": "When Life Feels Heavy (102\u2013103)" },
+            { "file": "105.md", "title": "Make Known His Deeds (105)" },
+            { "file": "107.md", "title": "Then They Cried Unto the Lord (107)" },
+            { "file": "110-and-118.md", "title": "Pointing to Christ (110 & 118)", "legacyFiles": ["110-118.md"] },
+            { "file": "116.md", "title": "I Love the Lord Because (116)..." },
+            { "file": "119.md", "title": "\ud83c\udfb5 A Path, Not Just a Lamp (119)" },
+            { "file": "120-134.md", "title": "Psalms of Ascent (120\u2013134)" },
+            { "file": "128.md", "title": "Happy Are We (128)" },
+            { "file": "135.md", "title": "No Idol Compares (135)" },
+            { "file": "136.md", "title": "\ud83c\udfb5 For His Mercy Endureth for Ever (136)" },
+            { "file": "139.md", "title": "The Lord Knows My Heart (139)" },
+            { "file": "145-150.md", "title": "Let Everything That Hath Breath Praise the Lord (145\u2013150)" },
+            { "file": "closing.md", "title": "Closing \u2014 Have a Praising Week" }
+          ]
+        },
+        {
+          "week": 37,
+          "slug": "proverbs-ecclesiastes",
+          "subject": "Proverbs & Ecclesiastes",
+          "title": "He Shall Direct Thy Paths",
+          "legacyPath": "proverbs-ecclesiastes",
+          "pages": [
+            { "file": "proverbs-3.md", "title": "Trust in the Lord" },
+            { "file": "proverbs-4.md", "title": "A Path That Grows Brighter" },
+            { "file": "proverbs-15-16.md", "title": "Words That Make Peace" },
+            { "file": "proverbs-22.md", "title": "Teach Without Controlling" },
+            { "file": "proverbs-31.md", "title": "Strength, Wisdom, and Reverence" },
+            { "file": "ecclesiastes-3.md", "title": "A Time and a Season" },
+            { "file": "ecclesiastes-12.md", "title": "Reverence, Trust, and Duty" },
+            { "file": "closing.md", "title": "Closing - Let Him Direct Your Path" }
+          ]
+        }
+      ]
+    }
+  ]
+}

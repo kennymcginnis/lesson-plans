@@ -1,66 +1,64 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Lesson Plans</title>
-    <meta name="description" content="Lesson plans and scripture study notes" />
+	<head>
+		<meta charset="UTF-8" />
+		<title>Lesson Plans</title>
+		<meta name="description" content="Lesson plans and scripture study notes" />
 
-    <!-- Themes (light + dark) -->
-    <link
-      rel="stylesheet"
-      media="(prefers-color-scheme: dark)"
-      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
-    />
-    <link
-      rel="stylesheet"
-      media="(prefers-color-scheme: light)"
-      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
-    />
+		<!-- Themes (light + dark) -->
+		<link
+			rel="stylesheet"
+			media="(prefers-color-scheme: dark)"
+			href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+		/>
+		<link
+			rel="stylesheet"
+			media="(prefers-color-scheme: light)"
+			href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+		/>
 
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-    />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 
-    <style>
-      :root {
-        /* Change this value to your preferred width (default is usually 300px) */
-        --sidebar-width: 500px;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="app"></div>
-    <script>
-      window.$docsify = {
-        name: "Lesson Plans",
-        loadSidebar: true,
-        subMaxLevel: 2,
-        auto2top: true,
-        search: "auto",
+		<style>
+			:root {
+				/* Change this value to your preferred width (default is usually 300px) */
+				--sidebar-width: 500px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="app"></div>
+		<script src="lesson-routes.js"></script>
+		<script>
+			window.$docsify = {
+				name: 'Lesson Plans',
+				loadSidebar: true,
+				alias: window.lessonAliases,
+				subMaxLevel: 0,
+				auto2top: true,
+				search: {
+					paths: window.lessonSearchPaths,
+				},
 
-        themeable: {
-          readyTransition: true, // default
-          responsiveTables: true, // default
-        },
-      };
-    </script>
+				themeable: {
+					readyTransition: true, // default
+					responsiveTables: true, // default
+				},
+			}
+		</script>
 
-    <!-- Required -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+		<!-- Required -->
+		<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+		<script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
-    <!-- Sidebar Collapse CSS -->
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"
-    />
+		<!-- Sidebar Collapse CSS -->
+		<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 
-    <!-- Sidebar Collapse Plugin JS -->
-    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+		<!-- Sidebar Collapse Plugin JS -->
+		<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
-    <!-- Recommended -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-  </body>
+		<!-- Recommended -->
+		<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+	</body>
 </html>

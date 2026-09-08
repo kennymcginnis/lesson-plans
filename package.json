@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
+    "docs:build": "node scripts/build-navigation.mjs",
+    "predocs:serve": "npm run docs:build",
+    "test": "node --test scripts/*.test.mjs",
     "docs:serve": "docsify serve docs"
   },
   "devDependencies": {
