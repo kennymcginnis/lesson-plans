@@ -4,8 +4,10 @@
 
 > 7. Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.
 >
+>
 > 18. But the path of the just is as the shining light, that shineth more and more unto the perfect day.
 >
+> 
 > 26. Ponder the path of thy feet, and let all thy ways be established.
 > 27. Turn not to the right hand nor to the left: remove thy foot from evil.
 
