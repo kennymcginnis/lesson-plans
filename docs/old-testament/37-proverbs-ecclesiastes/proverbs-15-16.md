@@ -47,11 +47,35 @@ His message includes the lasting effects of words in texts and social media. The
 
 [Read the Come, Follow Me lesson](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/37?lang=eng)
 
+## Humility makes room for peace
+
+> Pride goeth before destruction, and an haughty spirit before a fall.
+
+Proverbs 16:18, KJV.
+
+[Read Proverbs 16:18](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=eng&id=p18#p18)
+
+Pride can make winning an argument feel more important than understanding a person or repairing harm. Read this warning alongside verse 32's praise of self-restraint. Strength can include listening, admitting an error, and choosing not to humiliate someone.
+
+The proverb invites self-examination; it is not proof that every person's misfortune was caused by pride. Humility also does not require silence about genuine wrongdoing.
+
+## Optional companion: words that heal
+
+> There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
+
+Proverbs 12:18, KJV. This companion verse is outside this week's assigned chapters.
+
+[Read Proverbs 12:18](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=eng&id=p18#p18)
+
+The image sharpens the question in Proverbs 15:1: what are our words doing to the person who hears them? Wise speech can be honest and firm while seeking healing rather than injury. Before sending a difficult message, consider whether its wording serves the truth or merely delivers a wound.
+
 ## Questions to sit with
 
 - When has someone's gentle response changed the direction of a conversation?
 - How can we disagree clearly without humiliating someone?
 - Why might ruling our own spirit take more strength than winning an argument?
 - What would Proverbs 15:1 sound like as advice before sending a text?
+- When does the desire to win keep us from hearing what is true?
+- How could you rephrase a hard truth so that it helps rather than humiliates?
 
 Continue with [Proverbs 22:6 - Teach Without Controlling](old-testament/37-proverbs-ecclesiastes/proverbs-22.md).

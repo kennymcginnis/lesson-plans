@@ -77,6 +77,20 @@
           ]
         },
         {
+          "week": 33,
+          "slug": "job",
+          "subject": "Job",
+          "title": "I Know That My Redeemer Lives",
+          "pages": [
+            { "file": "reading-job.md", "title": "Wisdom beyond Easy Answers (1-42)" },
+            { "file": "suffering.md", "title": "Faith without a Bargain (1-3)" },
+            { "file": "friends.md", "title": "Presence before Explanation (2; 12-14; 21-24)" },
+            { "file": "redeemer.md", "title": "My Redeemer Liveth (19)" },
+            { "file": "gods-answer.md", "title": "Encounter, Humility, and Restoration (38-42)" },
+            { "file": "closing.md", "title": "Closing - Trust, Speak Honestly, and Stay Near (19:25)" }
+          ]
+        },
+        {
           "week": 36,
           "slug": "psalms-100-150",
           "subject": "Psalms 100-150",

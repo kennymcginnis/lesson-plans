@@ -34,11 +34,45 @@ He describes following a prompting to relocate and then facing employment uncert
 
 ["Trust in the Lord," April 2024](https://www.churchofjesuschrist.org/study/general-conference/2024/04/44pieper?lang=eng)
 
+## Trust includes receiving correction
+
+> 11. My son, despise not the chastening of the Lord; neither be weary of his correction:
+> 12. For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.
+
+[Read Proverbs 3:11-12](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng&id=p11-p12#p11)
+
+The invitation to trust in verses 5-7 includes being willing to learn when our direction needs to change. Correction need not mean rejection: verse 12 places it within love and delight in the child.
+
+This does not establish that every hardship is God's correction or that harsh treatment by another person is divinely approved. The application is openness to truthful, loving guidance, not acceptance of abuse.
+
+## Make plans and remain teachable
+
+> A man's heart deviseth his way: but the Lord directeth his steps.
+
+Proverbs 16:9, KJV.
+
+[Read Proverbs 16:9](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=eng&id=p9#p9)
+
+Planning and trusting God need not compete. We can prepare carefully while remaining willing to revise a plan in response to sound guidance. The verse does not require passivity or make every unexpected event a message we can confidently interpret.
+
+### Optional companion: examine our motives
+
+> Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
+
+Proverbs 21:2, KJV. This companion verse is outside this week's assigned chapters.
+
+[Read Proverbs 21:2](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=eng&id=p2#p2)
+
+Feeling certain that we are right does not give us complete insight into our motives. This is an invitation to examine our own heart before God, not to claim that we know someone else's hidden intentions.
+
 ## Questions to sit with
 
 - What does trusting God look like while an important question remains unanswered?
 - How do we distinguish using our understanding from relying on it as our only source of guidance?
 - When have you followed a prompting and still encountered difficulty?
 - What might it mean to acknowledge Him in one ordinary decision this week?
+- What helps you receive a needed correction without hearing it as rejection?
+- How can you plan responsibly while remaining open to the Lord's direction?
+- What might an honest examination of your motives add to a decision you feel certain about?
 
 Continue with [Proverbs 4 - A Path That Grows Brighter](old-testament/37-proverbs-ecclesiastes/proverbs-4.md).
