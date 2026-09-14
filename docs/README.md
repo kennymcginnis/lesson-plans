@@ -32,3 +32,14 @@
 - [Week 15 - Jacob 5-7](book-of-mormon/15-jacob-5-7/README.md)
 - [Week 25 - Alma 8-12](book-of-mormon/25-alma-8-12/README.md)
 - [Week 32 - Alma 39-42](book-of-mormon/32-alma-39-42/README.md)
+
+## New Testament
+
+- [Week 01 - New Testament Introduction](new-testament/01-introduction/README.md)
+- [Week 06 - Matthew 4; Luke 4-5](new-testament/06-matthew-4-luke-4-5/README.md)
+- [Week 10 - Matthew 8; Mark 2-4; Luke 7](new-testament/10-matthew-8-mark-2-4-luke-7/README.md)
+- [Week 32 - Acts 22-28](new-testament/32-acts-22-28/README.md)
+- [Week 36 - 1 Corinthians 8-13](new-testament/36-1-corinthians-8-13/README.md)
+- [Week 42 - Philippians 4:6-23](new-testament/42-philippians-4-6-23/README.md)
+- [Week 45 - Hebrews 1-6](new-testament/45-hebrews-1-6/README.md)
+- [Week 49 - 1-3 John; Jude](new-testament/49-1-3-john-jude/README.md)

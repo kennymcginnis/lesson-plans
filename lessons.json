@@ -308,6 +308,107 @@
           ]
         }
       ]
+    },
+    {
+      "id": "new-testament",
+      "title": "New Testament",
+      "lessons": [
+        {
+          "week": 1,
+          "slug": "introduction",
+          "subject": "New Testament Introduction",
+          "title": "Learn of Me",
+          "pages": [
+            { "file": "learning.md", "title": "Learning That Leads to Discipleship" },
+            { "file": "historical-world.md", "title": "The World of the New Testament" },
+            { "file": "four-gospels.md", "title": "Four Gospel Voices" },
+            { "file": "closing.md", "title": "Closing - Learn and Respond" }
+          ]
+        },
+        {
+          "week": 6,
+          "slug": "matthew-4-luke-4-5",
+          "subject": "Matthew 4; Luke 4-5",
+          "title": "The Spirit of the Lord Is upon Me",
+          "pages": [
+            { "file": "wilderness.md", "title": "Make Room for God (Matthew 4; Luke 4-5)" },
+            { "file": "temptations.md", "title": "It Is Written (Matthew 4:3-11)" },
+            { "file": "follow-him.md", "title": "Good News and a Call to Follow (Luke 4-5)" },
+            { "file": "closing.md", "title": "Closing - Seek His Will" }
+          ]
+        },
+        {
+          "week": 10,
+          "slug": "matthew-8-mark-2-4-luke-7",
+          "subject": "Matthew 8; Mark 2-4; Luke 7",
+          "title": "Come to the Savior",
+          "pages": [
+            { "file": "encounters.md", "title": "Seven Encounters with the Savior (Matthew 8; Mark 2; Luke 7)" },
+            { "file": "compassion.md", "title": "Compassion and Belonging (Matthew 8; Luke 7)" },
+            { "file": "peace.md", "title": "Peace amid Fear (Mark 4; Matthew 8)" },
+            { "file": "closing.md", "title": "Closing - Receive and Reflect His Care" }
+          ]
+        },
+        {
+          "week": 32,
+          "slug": "acts-22-28",
+          "subject": "Acts 22-28",
+          "title": "Whose I Am, and Whom I Serve",
+          "pages": [
+            { "file": "witness.md", "title": "A Witness of What He Has Received (22-26)" },
+            { "file": "storm.md", "title": "Faith and Practical Help in the Storm (27)" },
+            { "file": "closing.md", "title": "Hospitality and an Open Door (28)" }
+          ]
+        },
+        {
+          "week": 36,
+          "slug": "1-corinthians-8-13",
+          "subject": "1 Corinthians 8-13",
+          "title": "Gifts Given for Love",
+          "pages": [
+            { "file": "freedom-to-serve.md", "title": "Freedom to Serve (8-9)" },
+            { "file": "temptation-and-table.md", "title": "A Way to Escape and a Shared Table (10-11)" },
+            { "file": "gifts-and-love.md", "title": "Many Gifts, One Body, and Charity (12-13)" },
+            { "file": "closing.md", "title": "Closing - Use Your Gifts for Love" }
+          ]
+        },
+        {
+          "week": 42,
+          "slug": "philippians-4-6-23",
+          "subject": "Philippians 4:6-23",
+          "title": "Prayer, Gratitude, and the Peace of God",
+          "pages": [
+            { "file": "prayer.md", "title": "Requests with Thanksgiving (4:6-7)" },
+            { "file": "contentment.md", "title": "Practice, Contentment, and Shared Care (4:8-23)" },
+            { "file": "closing.md", "title": "Closing - Gratitude and a Next Step" }
+          ]
+        },
+        {
+          "week": 45,
+          "slug": "hebrews-1-6",
+          "subject": "Hebrews 1-6",
+          "title": "Come Boldly to the Throne of Grace",
+          "pages": [
+            { "file": "the-son.md", "title": "The Son Who Shares Our Life (1-3)" },
+            { "file": "throne-of-grace.md", "title": "Rest and the Throne of Grace (3-5)" },
+            { "file": "hold-to-hope.md", "title": "Let Us Hold to Hope (4-6)" },
+            { "file": "closing.md", "title": "Closing - Come for Grace" }
+          ]
+        },
+        {
+          "week": 49,
+          "slug": "1-3-john-jude",
+          "subject": "1-3 John; Jude",
+          "title": "Love in Deed and Truth",
+          "pages": [
+            { "file": "word-of-life.md", "title": "The Word of Life (1 John 1-2)" },
+            { "file": "love-in-action.md", "title": "How Do I Show Love? (1 John 2-5)" },
+            { "file": "confidence.md", "title": "Confidence in the Son (1 John 3-5)" },
+            { "file": "truth-and-welcome.md", "title": "Truth, Welcome, and Perseverance (2-3 John; Jude)" },
+            { "file": "closing.md", "title": "Closing - Love in Deed and Truth" }
+          ]
+        }
+      ]
     }
   ]
 }
