@@ -4,7 +4,7 @@
 
 Alma 41 connects restoration with works and desires. It warns against assuming that remaining in wrongdoing can simply be transformed into happiness at the end.
 
-> "Wickedness never was happiness."
+> 10. "Wickedness never was happiness."
 
 Alma 41:10, excerpt.
 
@@ -18,7 +18,7 @@ Find the descriptions in Alma 42:8, 13, 15-16: the great plan of happiness, rede
 
 [Read Alma 42:8-16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p8-p16#p8)
 
-> "Mercy cometh because of the atonement."
+> 23. "Mercy cometh because of the atonement."
 
 Alma 42:23, excerpt.
 

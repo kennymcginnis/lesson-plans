@@ -2,7 +2,7 @@
 
 ## Return to the invitation
 
-> "If the Lord be God, follow him."
+> 21. "If the Lord be God, follow him."
 
 1 Kings 18:21, KJV excerpt.
 

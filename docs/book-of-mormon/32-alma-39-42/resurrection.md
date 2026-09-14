@@ -4,7 +4,7 @@
 
 Corianton is troubled about resurrection. Alma does not answer only with an instruction to stop asking. He explains what has been made known to him and identifies questions of timing that he leaves with God.
 
-> "It sufficeth me to know that this is the case—that there is a time appointed that all shall rise from the dead."
+> 5. "It sufficeth me to know that this is the case—that there is a time appointed that all shall rise from the dead."
 
 Alma 40:5, excerpt.
 

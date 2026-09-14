@@ -13,7 +13,7 @@ Isaiah uses the image of a tree and new growth. Rather than guessing that every 
 
 **Scriptural interpretation: Doctrine and Covenants 113:1-2.** The revelation asks who the Stem of Jesse is and answers:
 
-> "It is Christ."
+> 2. "It is Christ."
 
 Verses 3-4 then ask a separate question about the rod. The answer describes a servant in Christ's hands, descended partly from Jesse and partly from Ephraim, or the house of Joseph. Verses 5-6 discuss the root of Jesse in Isaiah 11:10 and describe priesthood, keys, and gathering in the last days.
 

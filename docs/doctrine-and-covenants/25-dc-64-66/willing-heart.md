@@ -8,7 +8,7 @@ D&C 64:20 instructs Isaac Morley to sell his farm. Verse 21 says Frederick G. Wi
 
 The shared concern is a heart responsive to God. The revelation asks for open hearts, willing labor, and the use of resources in the work of Zion.
 
-> "Behold, the Lord requireth the heart and a willing mind."
+> 34. "Behold, the Lord requireth the heart and a willing mind."
 
 D&C 64:34, excerpt.
 

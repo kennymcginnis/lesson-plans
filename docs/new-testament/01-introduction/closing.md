@@ -1,6 +1,6 @@
 # Closing - Learn and Respond
 
-> "Take my yoke upon you, and learn of me."
+> 29. "Take my yoke upon you, and learn of me."
 
 Matthew 11:29, KJV excerpt.
 

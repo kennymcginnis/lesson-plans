@@ -2,7 +2,7 @@
 
 ## A command joined to a promise
 
-> "Open thy mouth, and it shall be filled, and I will give thee utterance, for all flesh is in my hands, and I will do as seemeth me good."
+> 32. "Open thy mouth, and it shall be filled, and I will give thee utterance, for all flesh is in my hands, and I will do as seemeth me good."
 
 Moses 6:32, excerpt.
 
@@ -10,7 +10,7 @@ Moses 6:32, excerpt.
 
 The Lord's answer directs Enoch outward. He is to call people to choose the God who made them. The message is larger than Enoch's personal confidence, yet the help is personal: the Lord's Spirit will be upon him.
 
-> "Thou shalt abide in me, and I in you; therefore walk with me."
+> 34. "Thou shalt abide in me, and I in you; therefore walk with me."
 
 Moses 6:34, excerpt.
 

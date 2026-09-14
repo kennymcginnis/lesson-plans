@@ -12,7 +12,7 @@ The announcement that such power will not last can be heard as hope by people li
 
 ## He knows those who trust Him
 
-> "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+> 7. "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
 
 Nahum 1:7, KJV.
 
@@ -22,7 +22,7 @@ As a Christian application, consider the ways Jesus Christ sustains people throu
 
 ## A broken yoke
 
-> "For now will I break his yoke from off thee, and will burst thy bonds in sunder."
+> 13. "For now will I break his yoke from off thee, and will burst thy bonds in sunder."
 
 Nahum 1:13, KJV.
 

@@ -8,7 +8,7 @@ Alma works in Ammonihah and wrestles with God in prayer for the people. They rej
 
 Notice the angel's encouragement:
 
-> "Thou hast been faithful in keeping the commandments of God."
+> 15. "Thou hast been faithful in keeping the commandments of God."
 
 Alma 8:15, excerpt.
 

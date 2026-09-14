@@ -10,7 +10,7 @@ The passage presents organization as provision for the community. It names diffe
 
 ## What are the offices for?
 
-> "The above offices I have given unto you, and the keys thereof, for helps and for governments, for the work of the ministry and the perfecting of my saints."
+> 143. "The above offices I have given unto you, and the keys thereof, for helps and for governments, for the work of the ministry and the perfecting of my saints."
 
 D&C 124:143.
 

@@ -4,7 +4,7 @@
 
 Eliphaz, Bildad, and Zophar come to mourn with Job. At first they weep, sit on the ground, and say nothing because his grief is so great.
 
-> "None spake a word unto him: for they saw that his grief was very great."
+> 13. "None spake a word unto him: for they saw that his grief was very great."
 
 Job 2:13, KJV excerpt.
 

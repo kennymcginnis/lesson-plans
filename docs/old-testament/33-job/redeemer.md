@@ -6,11 +6,11 @@ Before the familiar verses, Job describes abandonment and asks his friends for p
 
 [Read Job 19:13-27](https://www.churchofjesuschrist.org/study/scriptures/ot/job/19?lang=eng&id=p13-p27#p13)
 
-> "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
+> 25. "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
 
 Job 19:25, KJV.
 
-> "And though after my skin worms destroy this body, yet in my flesh shall I see God:"
+> 26. "And though after my skin worms destroy this body, yet in my flesh shall I see God:"
 
 Job 19:26, KJV.
 

@@ -4,7 +4,7 @@
 
 Genesis 5 names generations, children, years of life, and death. Within that repeated pattern, Enoch's account stands out:
 
-> "And Enoch walked with God: and he was not; for God took him."
+> 24. "And Enoch walked with God: and he was not; for God took him."
 
 Genesis 5:24, KJV.
 
@@ -32,7 +32,7 @@ Verse 54 says that parents' sins are not answered upon their children's heads. R
 
 Verse 59 connects the imagery of physical birth with spiritual rebirth through water, the Spirit, and the blood of the Only Begotten. Verse 60 states:
 
-> "For by the water ye keep the commandment; by the Spirit ye are justified, and by the blood ye are sanctified;"
+> 60. "For by the water ye keep the commandment; by the Spirit ye are justified, and by the blood ye are sanctified;"
 
 Moses 6:60.
 

@@ -6,7 +6,7 @@ Main readings: 1 Samuel 18:1-4; 20:30-33; 23:16-18.
 
 Read about Jonathan's love for David, their covenant, and Jonathan's gift of his robe, clothing, and weapons in 1 Samuel 18:1-4. These are actions, not just expressions of admiration.
 
-> "Jonathan took off the robe he was wearing and gave it to David, along with his tunic, and even his sword..."
+> 4. "Jonathan took off the robe he was wearing and gave it to David, along with his tunic, and even his sword..."
 
 1 Samuel 18:4, NIV.
 
@@ -24,7 +24,7 @@ Jonathan's friendship is not simply pleasant companionship. He speaks for David 
 
 ## Help someone find strength in God
 
-> "Jonathan went to David...and helped him find strength in God."
+> 16. "Jonathan went to David...and helped him find strength in God."
 
 1 Samuel 23:16, NIV.
 

@@ -4,7 +4,7 @@
 
 Before the account of Sodom's destruction, Abraham asks whether the righteous will be swept away with the wicked. He continues to plead as the number of righteous people under discussion decreases.
 
-> "Shall not the Judge of all the earth do right?"
+> 25. "Shall not the Judge of all the earth do right?"
 
 Genesis 18:25, KJV excerpt.
 
@@ -34,7 +34,7 @@ Familiarity can influence what feels normal. That is a useful question to ask ab
 
 The messengers urge Lot and his family to leave. Lot lingers, and they take the family by the hand:
 
-> "The Lord being merciful unto him: and they brought him forth, and set him without the city."
+> 16. "The Lord being merciful unto him: and they brought him forth, and set him without the city."
 
 Genesis 19:16, KJV excerpt.
 

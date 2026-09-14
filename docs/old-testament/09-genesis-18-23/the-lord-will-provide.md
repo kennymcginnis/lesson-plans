@@ -14,7 +14,7 @@ Genesis also knows of Ishmael. The language about Abraham's only son should be r
 
 Isaac asks his father about the missing offering. Abraham answers:
 
-> "My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
+> 8. "My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
 
 Genesis 22:8, KJV excerpt.
 
@@ -28,7 +28,7 @@ Abraham has already lived through other experiences of incomplete understanding:
 
 At the crucial moment, the angel of the Lord calls Abraham by name:
 
-> "Lay not thine hand upon the lad, neither do thou any thing unto him."
+> 12. "Lay not thine hand upon the lad, neither do thou any thing unto him."
 
 Genesis 22:12, KJV excerpt.
 

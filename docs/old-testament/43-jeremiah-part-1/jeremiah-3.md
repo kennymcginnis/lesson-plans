@@ -4,7 +4,7 @@
 
 Jeremiah 3 uses the painful image of an unfaithful marriage to describe covenant betrayal. Read the invitation to return within that setting. The wrongdoing is real, but the Lord does not make abandonment His final word.
 
-> "Return, thou backsliding Israel, saith the Lord; and I will not cause mine anger to fall upon you: for I am merciful, saith the Lord, and I will not keep anger for ever."
+> 12. "Return, thou backsliding Israel, saith the Lord; and I will not cause mine anger to fall upon you: for I am merciful, saith the Lord, and I will not keep anger for ever."
 
 Jeremiah 3:12, KJV excerpt.
 
@@ -30,7 +30,7 @@ The marriage metaphor describes God's covenant with His people. It is not an ins
 
 ## Come to the One who heals
 
-> "Return, ye backsliding children, and I will heal your backslidings."
+> 22. "Return, ye backsliding children, and I will heal your backslidings."
 
 Jeremiah 3:22, KJV excerpt.
 

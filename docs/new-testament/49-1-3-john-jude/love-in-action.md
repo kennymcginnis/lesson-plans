@@ -2,7 +2,7 @@
 
 ## Begin with His love
 
-> "We love him, because he first loved us."
+> 19. "We love him, because he first loved us."
 
 1 John 4:19, KJV.
 
@@ -30,7 +30,7 @@ The letter's contrast between children of God and children of the devil concerns
 
 ## Not words alone
 
-> "Let us not love in word, neither in tongue; but in deed and in truth."
+> 18. "Let us not love in word, neither in tongue; but in deed and in truth."
 
 1 John 3:18, KJV excerpt.
 

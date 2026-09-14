@@ -6,7 +6,7 @@ Abraham welcomes visitors, offers rest and food, and hurries to prepare a meal. 
 
 [Read Genesis 18:1-15](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p1-p15#p1)
 
-> "Is any thing too hard for the Lord?"
+> 14. "Is any thing too hard for the Lord?"
 
 Genesis 18:14, KJV excerpt.
 
@@ -26,7 +26,7 @@ Many English Bibles use small capitals, LORD, to represent the divine name commo
 
 Genesis 21 begins by emphasizing that the Lord does what He has spoken. Isaac is born, and Sarah speaks of laughter shared with others:
 
-> "God hath made me to laugh, so that all that hear will laugh with me."
+> 6. "God hath made me to laugh, so that all that hear will laugh with me."
 
 Genesis 21:6, KJV excerpt.
 

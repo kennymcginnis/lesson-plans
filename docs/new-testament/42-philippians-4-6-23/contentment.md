@@ -12,7 +12,7 @@ This is not permission to ignore injustice, avoid accurate unpleasant informatio
 
 Verses 11-12 describe contentment as something Paul has learned through need and abundance. His declaration of strength follows that account:
 
-> "I can do all things through Christ which strengtheneth me."
+> 13. "I can do all things through Christ which strengtheneth me."
 
 Philippians 4:13, KJV.
 

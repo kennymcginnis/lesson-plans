@@ -4,7 +4,7 @@
 
 After the allegory, Jacob speaks of God's remembrance of Israel, roots and branches. Then he asks his listeners to respond:
 
-> "Cleave unto God as he cleaveth unto you."
+> 5. "Cleave unto God as he cleaveth unto you."
 
 Jacob 6:5, excerpt.
 

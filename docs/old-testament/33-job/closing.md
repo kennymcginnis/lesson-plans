@@ -2,7 +2,7 @@
 
 ## Remember the living Redeemer
 
-> "For I know that my redeemer liveth."
+> 25. "For I know that my redeemer liveth."
 
 Job 19:25, KJV excerpt.
 

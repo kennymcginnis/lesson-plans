@@ -2,7 +2,7 @@
 
 ## Begin with what the text identifies
 
-> "I will liken thee, O house of Israel, like unto a tame olive tree."
+> 3. "I will liken thee, O house of Israel, like unto a tame olive tree."
 
 Jacob 5:3, excerpt.
 

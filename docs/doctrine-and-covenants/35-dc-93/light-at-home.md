@@ -2,7 +2,7 @@
 
 ## Doctrine becomes a responsibility
 
-> "But I have commanded you to bring up your children in light and truth."
+> 40. "But I have commanded you to bring up your children in light and truth."
 
 D&C 93:40.
 

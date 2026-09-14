@@ -2,7 +2,7 @@
 
 ## A house for travelers
 
-> "That the weary traveler may find health and safety while he shall contemplate the word of the Lord."
+> 23. "That the weary traveler may find health and safety while he shall contemplate the word of the Lord."
 
 D&C 124:23, excerpt.
 

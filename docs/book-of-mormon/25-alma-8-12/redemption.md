@@ -24,7 +24,7 @@ The invitation is to receive and live the word, not to seek secret status throug
 
 ## Time to prepare
 
-> "This life became a probationary state; a time to prepare to meet God."
+> 24. "This life became a probationary state; a time to prepare to meet God."
 
 Alma 12:24, excerpt.
 

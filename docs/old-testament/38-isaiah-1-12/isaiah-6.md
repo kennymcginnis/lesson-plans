@@ -18,7 +18,7 @@ The rest of the chapter also keeps us from assuming that willingness guarantees 
 
 **Explicit citation of Isaiah 6:8; quotation from Abraham 3:27.** Elder Pingree, of the Seventy, describes Jesus Christ's premortal willingness to do the Father's work:
 
-> "Here am I, send me"
+> 27. "Here am I, send me"
 
 The address cites Abraham 3:27 and adds "see also Isaiah 6:8." Its primary scene is the premortal Savior, not Isaiah's temple vision. The connection is the willingness to offer ourselves to God and His work.
 

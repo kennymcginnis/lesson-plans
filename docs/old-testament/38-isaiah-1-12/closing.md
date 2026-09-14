@@ -2,7 +2,7 @@
 
 ## Return to Isaiah 12:2
 
-> Behold, God is my salvation; I will trust, and not be afraid: for the Lord Jehovah is my strength and my song; he also is become my salvation.
+> 2. Behold, God is my salvation; I will trust, and not be afraid: for the Lord Jehovah is my strength and my song; he also is become my salvation.
 
 [Read Isaiah 12:2](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=eng&id=p2#p2)
 

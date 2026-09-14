@@ -10,7 +10,7 @@ Consider the decision factors: expertise, convenience, the majority's preference
 
 ## Identity, purpose, and trust
 
-> "The angel of God, whose I am, and whom I serve"
+> 23. "The angel of God, whose I am, and whom I serve"
 
 Acts 27:23, KJV excerpt.
 

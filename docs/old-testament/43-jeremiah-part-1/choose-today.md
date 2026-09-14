@@ -2,7 +2,7 @@
 
 ## A season has passed
 
-> "The harvest is past, the summer is ended, and we are not saved."
+> 20. "The harvest is past, the summer is ended, and we are not saved."
 
 Jeremiah 8:20, KJV.
 
@@ -18,7 +18,7 @@ Use the image to invite action, not to announce that a grieving or struggling pe
 
 Jeremiah 11 recalls the covenant associated with deliverance from Egypt:
 
-> "Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God."
+> 4. "Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God."
 
 Jeremiah 11:4, KJV excerpt.
 
@@ -36,7 +36,7 @@ Jeremiah 17:1 describes Judah's sin as engraved with an iron pen and a diamond p
 
 Later in the same chapter, a different image appears: someone who trusts the Lord is like a tree planted by water. Heat and drought are still present, but the roots reach a sustaining source.
 
-> "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
+> 7. "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
 
 Jeremiah 17:7, KJV.
 
@@ -46,7 +46,7 @@ Let the contrast raise a question about repeated choices. What are we reinforcin
 
 Jeremiah 17:13 returns to the image of the Lord as the fountain of living waters. Verse 14 answers with a prayer:
 
-> "Heal me, O Lord, and I shall be healed; save me, and I shall be saved: for thou art my praise."
+> 14. "Heal me, O Lord, and I shall be healed; save me, and I shall be saved: for thou art my praise."
 
 Jeremiah 17:14, KJV.
 

@@ -4,7 +4,7 @@
 
 The Lord speaks of His own forgiveness before requiring the Saints to forgive one another. He knows the need for repentance within the community; forgiveness is not an instruction given only to people who have never needed mercy themselves.
 
-> "I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men."
+> 10. "I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men."
 
 D&C 64:10.
 

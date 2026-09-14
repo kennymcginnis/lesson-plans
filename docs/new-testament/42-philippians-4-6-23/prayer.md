@@ -1,6 +1,6 @@
 # Philippians 4:6-7 - Requests with Thanksgiving
 
-> "In every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
+> 6. "In every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
 
 Philippians 4:6, KJV excerpt.
 

@@ -12,7 +12,7 @@ This audience is described as a people who have received much. Do not assume tha
 
 Amulek identifies himself as a man with family ties, reputation, and resources. Then he corrects his own account of not knowing God's power:
 
-> "I was called many times and I would not hear; therefore I knew concerning these things, yet I would not know."
+> 6. "I was called many times and I would not hear; therefore I knew concerning these things, yet I would not know."
 
 Alma 10:6, excerpt.
 

@@ -10,7 +10,7 @@ Hear the loneliness in his answer before moving to the next instruction. God doe
 
 ## A still small voice
 
-> "And after the earthquake a fire; but the Lord was not in the fire: and after the fire a still small voice."
+> 12. "And after the earthquake a fire; but the Lord was not in the fire: and after the fire a still small voice."
 
 1 Kings 19:12, KJV.
 
@@ -34,7 +34,7 @@ Elijah's feeling of isolation is real, but it is not the whole picture. There ar
 
 Elijah finds Elisha plowing and casts his mantle upon him. Elisha leaves the oxen, asks to say farewell to his parents, provides food for the people, and follows Elijah.
 
-> "Then he arose, and went after Elijah, and ministered unto him."
+> 21. "Then he arose, and went after Elijah, and ministered unto him."
 
 1 Kings 19:21, KJV excerpt.
 

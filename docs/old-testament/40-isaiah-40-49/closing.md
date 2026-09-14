@@ -4,7 +4,7 @@
 
 Isaiah asks who can measure the waters in God's hand, then speaks of His people engraved upon His palms. Greatness and personal care belong together. The Lord is not too powerful to notice need or too distant to sustain the weary.
 
-> "Yet will I not forget thee."
+> 15. "Yet will I not forget thee."
 
 Isaiah 49:15, KJV excerpt.
 

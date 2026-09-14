@@ -10,11 +10,11 @@ This can expand our picture of service. Preparing a meal, making a plan, keeping
 
 ## Small things and the Lord's timing
 
-> "But all things must come to pass in their time."
+> 32. "But all things must come to pass in their time."
 
 D&C 64:32.
 
-> "Wherefore, be not weary in well-doing, for ye are laying the foundation of a great work. And out of small things proceedeth that which is great."
+> 33. "Wherefore, be not weary in well-doing, for ye are laying the foundation of a great work. And out of small things proceedeth that which is great."
 
 D&C 64:33.
 

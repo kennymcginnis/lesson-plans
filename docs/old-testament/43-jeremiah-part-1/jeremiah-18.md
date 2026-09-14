@@ -6,7 +6,7 @@ The Lord sends Jeremiah to a potter's house. Jeremiah watches a vessel become ma
 
 [Read Jeremiah 18:1-6](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=eng&id=p1-p6#p1)
 
-> "Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel."
+> 6. "Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel."
 
 Jeremiah 18:6, KJV excerpt.
 

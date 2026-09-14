@@ -20,7 +20,7 @@ Leviticus also addresses guilt and offerings related to impurity in passages suc
 
 A man with leprosy comes to Jesus, kneels, and asks whether Jesus is willing to make him clean. Mark describes the response:
 
-> "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+> 41. "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
 
 Mark 1:41, KJV.
 
@@ -32,7 +32,7 @@ Notice compassion, touch, and cleansing together. Jesus also tells the man to sh
 
 A woman who has suffered bleeding for twelve years approaches Jesus through the crowd. Mark describes her long suffering and unsuccessful efforts to obtain help. She touches His clothing and is healed.
 
-> "Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague."
+> 34. "Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague."
 
 Mark 5:34, KJV.
 

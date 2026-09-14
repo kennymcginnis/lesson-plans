@@ -14,7 +14,7 @@ The account condemns their rudeness, rebellion, and mistreatment; it should not 
 
 ## Praise without denying pain
 
-> "Nevertheless, I did look unto my God, and I did praise him all the day long."
+> 16. "Nevertheless, I did look unto my God, and I did praise him all the day long."
 
 1 Nephi 18:16, excerpt.
 

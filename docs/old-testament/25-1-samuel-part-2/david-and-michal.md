@@ -14,7 +14,7 @@ Read these passages as a difficult royal and family history, not as a model cour
 
 ## Celebration becomes conflict
 
-> "David danced before the LORD with all his might."
+> 14. "David danced before the LORD with all his might."
 
 2 Samuel 6:14, KJV.
 
@@ -42,7 +42,7 @@ Compare this exchange with Moroni's accusation and Pahoran's answer in Alma 60-6
 
 Pahoran answers:
 
-> "In your epistle you have censured me, but it mattereth not. I am not angry, but do rejoice in the greatness of your heart."
+> 9. "In your epistle you have censured me, but it mattereth not. I am not angry, but do rejoice in the greatness of your heart."
 
 Alma 61:9.
 

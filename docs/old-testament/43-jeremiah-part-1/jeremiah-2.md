@@ -12,7 +12,7 @@ When we feel abandoned, remembering past help can become a resource for prayer. 
 
 ## A fountain and a broken cistern
 
-> "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water."
+> 13. "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water."
 
 Jeremiah 2:13, KJV.
 

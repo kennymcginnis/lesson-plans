@@ -8,7 +8,7 @@ The family reaches a place of fruit and honey after years of difficulty. Nephi r
 
 When the Lord commands him to build a ship, Nephi asks:
 
-> "Lord, whither shall I go that I may find ore to molten, that I may make tools to construct the ship?"
+> 9. "Lord, whither shall I go that I may find ore to molten, that I may make tools to construct the ship?"
 
 1 Nephi 17:9, excerpt.
 

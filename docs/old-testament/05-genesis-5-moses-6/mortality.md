@@ -8,7 +8,7 @@ Some of the conditions that threaten to break us can become places where we rece
 
 Lehi teaches that opposition belongs to the setting in which agency and redemption have meaning. He also directs our attention to the wisdom of God:
 
-> "But behold, all things have been done in the wisdom of him who knoweth all things."
+> 24. "But behold, all things have been done in the wisdom of him who knoweth all things."
 
 2 Nephi 2:24.
 

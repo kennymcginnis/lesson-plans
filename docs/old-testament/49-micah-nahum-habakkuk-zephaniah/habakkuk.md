@@ -4,7 +4,7 @@
 
 Habakkuk begins with a complaint about violence, strife, and distorted justice. He has cried for help and cannot understand why the wrong continues.
 
-> "O Lord, how long shall I cry, and thou wilt not hear!"
+> 2. "O Lord, how long shall I cry, and thou wilt not hear!"
 
 Habakkuk 1:2, KJV excerpt.
 
@@ -26,7 +26,7 @@ Keep the two complaints in order. The opening prayer concerns injustice around H
 
 Habakkuk takes his place on the watchtower, ready to hear a response. The vision is for an appointed time. Waiting is then joined to a contrast between pride and faith:
 
-> "The just shall live by his faith."
+> 4. "The just shall live by his faith."
 
 Habakkuk 2:4, KJV excerpt.
 
@@ -46,7 +46,7 @@ The woes that follow in Habakkuk 2 insist that oppressive power is accountable. 
 
 The final chapter is a prayer. Its closing verses name failed crops, empty fields, and missing flocks and herds. These are the loss of food and livelihood, not minor inconveniences.
 
-> "Yet I will rejoice in the Lord, I will joy in the God of my salvation."
+> 18. "Yet I will rejoice in the Lord, I will joy in the God of my salvation."
 
 Habakkuk 3:18, KJV.
 

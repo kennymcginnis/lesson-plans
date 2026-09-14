@@ -4,7 +4,7 @@
 
 Section 65 is short enough to read in full. It calls people to prepare for the Lord, pray, make His works known, and seek the coming of His kingdom. Its vision reaches beyond one congregation or community.
 
-> "The keys of the kingdom of God are committed unto man on the earth, and from thence shall the gospel roll forth unto the ends of the earth."
+> 2. "The keys of the kingdom of God are committed unto man on the earth, and from thence shall the gospel roll forth unto the ends of the earth."
 
 D&C 65:2, excerpt.
 

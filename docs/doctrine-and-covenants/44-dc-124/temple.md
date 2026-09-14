@@ -10,7 +10,7 @@ The revelation specifically addresses a baptismal font for baptisms on behalf of
 
 ## Revelation and redemption
 
-> "Let this house be built unto my name, that I may reveal mine ordinances therein unto my people."
+> 40. "Let this house be built unto my name, that I may reveal mine ordinances therein unto my people."
 
 D&C 124:40, excerpt.
 

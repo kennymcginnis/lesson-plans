@@ -2,7 +2,7 @@
 
 ## Return to the invitation
 
-> "Thou shalt abide in me, and I in you; therefore walk with me."
+> 34. "Thou shalt abide in me, and I in you; therefore walk with me."
 
 Moses 6:34, excerpt.
 

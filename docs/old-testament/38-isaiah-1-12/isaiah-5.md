@@ -17,7 +17,7 @@ Read verse 20 with verse 21. Isaiah warns both against reversing good and evil a
 
 **Direct quotation: Isaiah 5:20.** Elder Oaks, then a member of the Quorum of the Twelve Apostles, quotes the warning about those who:
 
-> "call evil good, and good evil"
+> 20. "call evil good, and good evil"
 
 He places the warning in a discussion of preparation for the Savior's return and accountability to God's standards. This is a direct quotation of Isaiah, not merely a talk on a similar topic.
 

@@ -47,7 +47,7 @@ This does not establish that every hardship is God's correction or that harsh tr
 
 ## Make plans and remain teachable
 
-> A man's heart deviseth his way: but the Lord directeth his steps.
+> 9. A man's heart deviseth his way: but the Lord directeth his steps.
 
 Proverbs 16:9, KJV.
 
@@ -57,7 +57,7 @@ Planning and trusting God need not compete. We can prepare carefully while remai
 
 ### Optional companion: examine our motives
 
-> Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
+> 2. Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
 
 Proverbs 21:2, KJV. This companion verse is outside this week's assigned chapters.
 

@@ -6,7 +6,7 @@ Saul, David, and Solomon belong to the story of Israel's united monarchy. After 
 
 Read 1 Kings 12:1-8. The older advisers describe leadership in terms of service:
 
-> "If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever."
+> 7. "If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever."
 
 1 Kings 12:7, KJV.
 

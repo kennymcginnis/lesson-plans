@@ -24,7 +24,7 @@ The caution is against claiming a complete explanation when we do not have one. 
 
 ## Now mine eye seeth thee
 
-> "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
+> 5. "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
 
 Job 42:5, KJV.
 

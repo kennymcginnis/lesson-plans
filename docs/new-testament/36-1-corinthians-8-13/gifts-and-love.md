@@ -2,7 +2,7 @@
 
 ## Given for the common good
 
-> "But the manifestation of the Spirit is given to every man to profit withal."
+> 7. "But the manifestation of the Spirit is given to every man to profit withal."
 
 1 Corinthians 12:7, KJV.
 

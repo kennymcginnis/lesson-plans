@@ -4,7 +4,7 @@
 
 The Lord tells Enoch to anoint his eyes with clay and wash them. Enoch obeys, and the account describes what follows:
 
-> "He beheld also things which were not visible to the natural eye; and from thenceforth came the saying abroad in the land: A seer hath the Lord raised up unto his people."
+> 36. "He beheld also things which were not visible to the natural eye; and from thenceforth came the saying abroad in the land: A seer hath the Lord raised up unto his people."
 
 Moses 6:36, excerpt.
 

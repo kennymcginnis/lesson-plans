@@ -14,7 +14,7 @@ What do the repeated efforts suggest about the Lord's involvement? The trees are
 
 Read verses 7, 11, 32, 46-47, 51, and 66 for the recurring expression of grief over losing the trees. The Lord's question is especially moving:
 
-> "What could I have done more for my vineyard?"
+> 41. "What could I have done more for my vineyard?"
 
 Jacob 5:41, excerpt.
 
@@ -26,7 +26,7 @@ Do not infer that every painful event in a person's life is a particular act of 
 
 ## The Lord works alongside the servants
 
-> "The Lord of the vineyard labored also with them."
+> 72. "The Lord of the vineyard labored also with them."
 
 Jacob 5:72, excerpt.
 

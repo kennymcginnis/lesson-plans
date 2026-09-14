@@ -6,7 +6,7 @@ Ahab calls Elijah the one troubling Israel. Elijah answers that the trouble lies
 
 [Read 1 Kings 18:17-21](https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/18?lang=eng&id=p17-p21#p17)
 
-> "How long halt ye between two opinions? if the Lord be God, follow him: but if Baal, then follow him."
+> 21. "How long halt ye between two opinions? if the Lord be God, follow him: but if Baal, then follow him."
 
 1 Kings 18:21, KJV excerpt.
 
@@ -18,7 +18,7 @@ Here, wavering between two opinions concerns divided worship. It should not beco
 
 Read verses 22-29 and 30-39. The prophets of Baal call repeatedly without receiving an answer. Elijah repairs the Lord's altar and prays that the people will know the Lord and turn their hearts back to Him.
 
-> "Hear me, O Lord, hear me, that this people may know that thou art the Lord God, and that thou hast turned their heart back again."
+> 37. "Hear me, O Lord, hear me, that this people may know that thou art the Lord God, and that thou hast turned their heart back again."
 
 1 Kings 18:37, KJV.
 
@@ -34,7 +34,7 @@ This chapter also contains mockery, self-injury, and the killing of Baal's proph
 
 After the public confrontation, Elijah prays and repeatedly sends his servant to look toward the sea. At first the report is that there is nothing. On the seventh visit, a small cloud appears.
 
-> "Behold, there ariseth a little cloud out of the sea, like a man's hand."
+> 44. "Behold, there ariseth a little cloud out of the sea, like a man's hand."
 
 1 Kings 18:44, KJV excerpt.
 

@@ -2,7 +2,7 @@
 
 ## Begin with the purpose
 
-> "I give unto you these sayings that you may understand and know how to worship, and know what you worship, that you may come unto the Father in my name, and in due time receive of his fulness."
+> 19. "I give unto you these sayings that you may understand and know how to worship, and know what you worship, that you may come unto the Father in my name, and in due time receive of his fulness."
 
 D&C 93:19.
 

@@ -18,7 +18,7 @@ Imagine being Elijah and hearing her answer. Would you wonder whether you had co
 
 Elijah does not offer only a demand. He gives a particular promise in the Lord's name:
 
-> "For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth."
+> 14. "For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth."
 
 1 Kings 17:14, KJV.
 
@@ -38,7 +38,7 @@ This account is not permission to pressure a person in poverty to give away nece
 
 In verses 17-24, the widow's son becomes ill and dies. She voices a painful question, and Elijah cries to the Lord. The Lord hears him, and the child revives.
 
-> "And Elijah said, See, thy son liveth."
+> 23. "And Elijah said, See, thy son liveth."
 
 1 Kings 17:23, KJV excerpt.
 

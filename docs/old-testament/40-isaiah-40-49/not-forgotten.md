@@ -4,7 +4,7 @@
 
 Verse 13 calls heaven, earth, and mountains to rejoice because the Lord comforts His people. Immediately afterward, Zion says:
 
-> "The Lord hath forsaken me, and my Lord hath forgotten me."
+> 14. "The Lord hath forsaken me, and my Lord hath forgotten me."
 
 Isaiah 49:14, KJV excerpt.
 
@@ -18,7 +18,7 @@ The complaint echoes Israel's fear in Isaiah 40:27 that its way is hidden from G
 
 The Lord asks whether a mother can forget her nursing child. The image draws on a relationship of tenderness and dependence, then acknowledges that even human care can fail:
 
-> "Yea, they may forget, yet will I not forget thee."
+> 15. "Yea, they may forget, yet will I not forget thee."
 
 Isaiah 49:15, KJV excerpt.
 
@@ -28,7 +28,7 @@ For someone whose experience of family care is painful, let the final assurance 
 
 ## Engraved upon His hands
 
-> "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me."
+> 16. "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me."
 
 Isaiah 49:16, KJV.
 

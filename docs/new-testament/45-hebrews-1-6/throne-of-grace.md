@@ -14,7 +14,7 @@ Entering rest is not simply a synonym for avoiding activity. It concerns receivi
 
 ## Help in time of need
 
-> "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need."
+> 16. "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need."
 
 Hebrews 4:16, KJV.
 

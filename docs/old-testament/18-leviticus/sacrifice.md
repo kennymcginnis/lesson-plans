@@ -4,7 +4,7 @@ Main readings: Leviticus 1; 4; 22:18-23; Exodus 29:38-39. Companion readings: Is
 
 ## An offering on a person's behalf
 
-> "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+> 4. "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
 
 Leviticus 1:4, KJV.
 
@@ -34,7 +34,7 @@ Leviticus 22:18-23 includes offerings brought in connection with vows or given f
 
 Jesus describes His own offering as voluntary:
 
-> "No man taketh it from me, but I lay it down of myself."
+> 18. "No man taketh it from me, but I lay it down of myself."
 
 John 10:18, KJV excerpt.
 

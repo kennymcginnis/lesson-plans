@@ -18,7 +18,7 @@ Verse 18 similarly connects preaching with meekness. A message about Christ shou
 
 The Lord commends Hyrum Smith:
 
-> "I, the Lord, love him because of the integrity of his heart, and because he loveth that which is right before me."
+> 15. "I, the Lord, love him because of the integrity of his heart, and because he loveth that which is right before me."
 
 D&C 124:15, excerpt.
 

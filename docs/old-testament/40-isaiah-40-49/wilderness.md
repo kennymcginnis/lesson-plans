@@ -2,7 +2,7 @@
 
 ## Prepare the way of the Lord
 
-> "Prepare ye the way of the Lord, make straight in the desert a highway for our God."
+> 3. "Prepare ye the way of the Lord, make straight in the desert a highway for our God."
 
 Isaiah 40:3, KJV excerpt.
 
@@ -24,7 +24,7 @@ Isaiah 41:17 begins with poor and needy people seeking water. The Lord says He h
 
 Isaiah 43 gives a related promise:
 
-> "I will even make a way in the wilderness, and rivers in the desert."
+> 19. "I will even make a way in the wilderness, and rivers in the desert."
 
 Isaiah 43:19, KJV excerpt.
 

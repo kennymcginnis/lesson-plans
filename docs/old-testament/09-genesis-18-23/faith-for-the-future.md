@@ -2,7 +2,7 @@
 
 ## A short warning with a long history
 
-> "Remember Lot's wife."
+> 32. "Remember Lot's wife."
 
 Luke 17:32, KJV.
 

@@ -12,7 +12,7 @@ The question is no longer whether David can defeat an enemy. It is whether he wi
 
 ## Abigail appeals to David's better future
 
-> "Upon me alone, my lord, be the guilt."
+> 24. "Upon me alone, my lord, be the guilt."
 
 1 Samuel 25:24, NRSVue.
 
@@ -20,7 +20,7 @@ In verses 28-31, Abigail appeals to the Lord's promises for David's future and a
 
 David responds:
 
-> "Blessed be your good sense, and blessed be you, who have kept me today from bloodguilt!"
+> 33. "Blessed be your good sense, and blessed be you, who have kept me today from bloodguilt!"
 
 1 Samuel 25:33, NRSVue.
 
@@ -30,7 +30,7 @@ David responds:
 
 Proverbs 15:1 offers a companion principle:
 
-> "A soft answer turns away wrath, but a harsh word stirs up anger."
+> 1. "A soft answer turns away wrath, but a harsh word stirs up anger."
 
 Proverbs 15:1, NKJV.
 
@@ -44,7 +44,7 @@ Abigail's appeal invites us to consider intercession: mediating or pleading on a
 
 **Thematic scriptural connection:** Read Abigail's intervention alongside 1 Peter 2:24 and Hebrews 7:25, which describe Christ bearing our sins and interceding for us. These New Testament passages teach about Christ; they do not explicitly identify Abigail as a prophecy of Him.
 
-> "[Christ] is able for all time to save those who approach God through him, since he always lives to make intercession for them."
+> 25. "[Christ] is able for all time to save those who approach God through him, since he always lives to make intercession for them."
 
 Hebrews 7:25, NRSVue.
 

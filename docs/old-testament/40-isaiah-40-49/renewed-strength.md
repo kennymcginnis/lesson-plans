@@ -6,7 +6,7 @@ Isaiah 40:27 voices Israel's fear that the Lord has overlooked their way and the
 
 [Read Isaiah 40:27-31](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng&id=p27-p31#p27)
 
-> "He giveth power to the faint; and to them that have no might he increaseth strength."
+> 29. "He giveth power to the faint; and to them that have no might he increaseth strength."
 
 Isaiah 40:29, KJV.
 
@@ -14,7 +14,7 @@ The promise is addressed to people who need strength, not only those who already
 
 ## Waiting with hope
 
-> "But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+> 31. "But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
 
 Isaiah 40:31, KJV.
 
@@ -28,7 +28,7 @@ Notice walking as well as soaring. Sometimes strength appears as an ordinary nex
 
 Isaiah 43:1 speaks to Jacob and Israel as created, redeemed, and called by name. The next verse promises presence in danger:
 
-> "When thou passest through the waters, I will be with thee."
+> 2. "When thou passest through the waters, I will be with thee."
 
 Isaiah 43:2, KJV excerpt.
 

@@ -4,7 +4,7 @@
 
 Chapter 19 explains Nephi's record-keeping and bears witness of the Redeemer's suffering and patience. Nephi then explains why he reads scripture to his people:
 
-> "I did liken all scriptures unto us, that it might be for our profit and learning."
+> 23. "I did liken all scriptures unto us, that it might be for our profit and learning."
 
 1 Nephi 19:23, excerpt.
 

@@ -2,7 +2,7 @@
 
 ## A word to people who need hope
 
-> "Comfort ye, comfort ye my people, saith your God."
+> 1. "Comfort ye, comfort ye my people, saith your God."
 
 Isaiah 40:1, KJV.
 
@@ -28,7 +28,7 @@ This teaching invites attentive reading, not unlimited meanings. Begin with the 
 
 ## A word that lasts
 
-> "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
+> 8. "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
 
 Isaiah 40:8, KJV.
 

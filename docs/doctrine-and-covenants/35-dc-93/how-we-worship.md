@@ -8,7 +8,7 @@ Ask, "What did Jesus do that I can follow?" Look for His truthfulness, compassio
 
 In 3 Nephi, Jesus asks His disciples what manner of people they ought to be and answers:
 
-> "Verily I say unto you, even as I am."
+> 27. "Verily I say unto you, even as I am."
 
 3 Nephi 27:27, excerpt.
 

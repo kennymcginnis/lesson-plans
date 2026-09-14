@@ -24,7 +24,7 @@ It might be a prayer about an unanswered question, a gentler response, time spen
 
 ## He shall direct thy paths
 
-> In all thy ways acknowledge him, and he shall direct thy paths. (Proverbs 3:6)
+> 6. In all thy ways acknowledge him, and he shall direct thy paths. (Proverbs 3:6)
 
 [Read Proverbs 3:6](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng&id=p6#p6)
 

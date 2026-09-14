@@ -14,7 +14,7 @@ Alvin had died before the restoration of the Church and had not been baptized fo
 
 Verses 7-8 address people who died without knowledge of the gospel and would have received it wholeheartedly. The Lord knows more than the opportunities visible in a person's earthly biography.
 
-> "For I, the Lord, will judge all men according to their works, according to the desire of their hearts."
+> 9. "For I, the Lord, will judge all men according to their works, according to the desire of their hearts."
 
 D&C 137:9.
 
@@ -24,7 +24,7 @@ This gives us reason for humility about people of other faiths or no faith. We d
 
 ## A promise concerning children
 
-> "All children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
+> 10. "All children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
 
 D&C 137:10, excerpt.
 

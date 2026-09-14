@@ -2,7 +2,7 @@
 
 ## Return to the invitation
 
-> "Behold, the Lord requireth the heart and a willing mind."
+> 34. "Behold, the Lord requireth the heart and a willing mind."
 
 D&C 64:34, excerpt.
 

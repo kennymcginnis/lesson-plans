@@ -31,7 +31,7 @@ This is a suggested pairing with the imagery of Proverbs 4:18, not a claim that 
 
 ## Guard the heart that guides the path
 
-> Keep thy heart with all diligence; for out of it are the issues of life.
+> 23. Keep thy heart with all diligence; for out of it are the issues of life.
 
 Proverbs 4:23, KJV.
 

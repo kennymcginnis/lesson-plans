@@ -6,7 +6,7 @@ Habakkuk asks how violence and injustice can continue. Nahum announces that oppr
 
 The books do not remove every question about how or when the Lord will act. They invite us to live faithfully toward a future in which His justice and saving love prevail.
 
-> "Yet I will rejoice in the Lord, I will joy in the God of my salvation."
+> 18. "Yet I will rejoice in the Lord, I will joy in the God of my salvation."
 
 Habakkuk 3:18, KJV.
 

@@ -18,7 +18,7 @@ He does not merely wait for equipment to appear. Nor does he assume that his own
 
 ## Small means
 
-> "And thus we see that by small means the Lord can bring about great things."
+> 29. "And thus we see that by small means the Lord can bring about great things."
 
 1 Nephi 16:29, excerpt.
 

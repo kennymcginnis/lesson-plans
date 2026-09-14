@@ -14,7 +14,7 @@ Sometimes people assume that a recent success or strong spiritual experience sho
 
 Elijah sleeps. An angel touches him and tells him to eat. He finds food and water, eats and drinks, and rests again. The angel returns:
 
-> "Arise and eat; because the journey is too great for thee."
+> 7. "Arise and eat; because the journey is too great for thee."
 
 1 Kings 19:7, KJV excerpt.
 

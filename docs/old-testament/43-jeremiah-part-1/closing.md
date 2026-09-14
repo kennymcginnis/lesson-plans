@@ -2,7 +2,7 @@
 
 ## Put down roots by the water
 
-> "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
+> 7. "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
 
 Jeremiah 17:7, KJV.
 

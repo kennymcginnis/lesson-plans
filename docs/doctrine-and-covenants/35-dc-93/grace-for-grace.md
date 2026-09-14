@@ -2,7 +2,7 @@
 
 ## Notice the repeated words
 
-> "And he received not of the fulness at first, but continued from grace to grace, until he received a fulness."
+> 13. "And he received not of the fulness at first, but continued from grace to grace, until he received a fulness."
 
 D&C 93:13.
 
@@ -24,7 +24,7 @@ Obedience, righteousness, and sacrifice can be faithful responses to grace. They
 
 D&C 93:19 promises fulness "in due time." A companion revelation offers reassurance:
 
-> "Ye cannot bear all things now; nevertheless, be of good cheer, for I will lead you along."
+> 18. "Ye cannot bear all things now; nevertheless, be of good cheer, for I will lead you along."
 
 D&C 78:18, excerpt.
 

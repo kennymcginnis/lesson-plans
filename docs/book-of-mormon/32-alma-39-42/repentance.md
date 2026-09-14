@@ -16,7 +16,7 @@ The counsel includes humility, attending to instruction, governing desires, and 
 
 ## Return and acknowledge
 
-> "Return unto them, and acknowledge your faults and that wrong which ye have done."
+> 13. "Return unto them, and acknowledge your faults and that wrong which ye have done."
 
 Alma 39:13, excerpt.
 

@@ -10,7 +10,7 @@ Verse 17 describes the body restored and spirit and body united never again to b
 
 ## Why does the body matter?
 
-> "Spirit and element, inseparably connected, receive a fulness of joy."
+> 33. "Spirit and element, inseparably connected, receive a fulness of joy."
 
 D&C 93:33, excerpt.
 

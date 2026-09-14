@@ -12,7 +12,7 @@ Follow the two goats in verses 15-22. One is offered as a sin offering, and its 
 
 The images bring cleansing and removal together. Verse 24 also describes Aaron washing and changing his garments as the ceremony continues. This is not a performance of personal self-sufficiency. The sanctuary, the priest, and the congregation all appear within the provision God makes.
 
-> "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the Lord."
+> 30. "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the Lord."
 
 Leviticus 16:30, KJV.
 
@@ -26,7 +26,7 @@ Hebrews 10:4 says that the blood of bulls and goats cannot take away sins. Read 
 
 **Explicit scriptural interpretation:** Hebrews 9 compares the priest's sanctuary service with Jesus Christ's entry into God's presence on our behalf. This is a connection made by the New Testament itself, not merely a modern analogy.
 
-> "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:"
+> 24. "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:"
 
 Hebrews 9:24, KJV.
 

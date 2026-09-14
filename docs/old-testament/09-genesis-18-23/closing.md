@@ -2,11 +2,11 @@
 
 ## Return to the two questions
 
-> "Is any thing too hard for the Lord?"
+> 14. "Is any thing too hard for the Lord?"
 
 Genesis 18:14, KJV excerpt.
 
-> "Where is the lamb for a burnt offering?"
+> 7. "Where is the lamb for a burnt offering?"
 
 Genesis 22:7, KJV excerpt.
 

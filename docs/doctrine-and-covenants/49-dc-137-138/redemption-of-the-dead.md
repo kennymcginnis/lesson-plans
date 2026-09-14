@@ -4,7 +4,7 @@
 
 Joseph F. Smith wonders how the Savior's ministry could reach the vast world of spirits in the brief time between His death and Resurrection. The vision explains that Christ organizes and commissions messengers.
 
-> "From among the righteous, he organized his forces and appointed messengers, clothed with power and authority, and commissioned them to go forth and carry the light of the gospel to them that were in darkness."
+> 30. "From among the righteous, he organized his forces and appointed messengers, clothed with power and authority, and commissioned them to go forth and carry the light of the gospel to them that were in darkness."
 
 D&C 138:30, excerpt.
 

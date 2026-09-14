@@ -8,7 +8,7 @@ Isaiah 49 opens with a servant called from the womb and prepared for the Lord's 
 
 Verse 4 gives voice to disappointment:
 
-> "I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the Lord, and my work with my God."
+> 4. "I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the Lord, and my work with my God."
 
 Isaiah 49:4, KJV excerpt.
 
@@ -16,7 +16,7 @@ The sense that effort has accomplished nothing is not the end of the passage. Th
 
 ## More than restoring one people
 
-> "I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth."
+> 6. "I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth."
 
 Isaiah 49:6, KJV excerpt.
 

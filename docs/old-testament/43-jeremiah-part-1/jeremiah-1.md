@@ -4,7 +4,7 @@
 
 Jeremiah's call begins with the Lord's knowledge of him, not a list of qualifications he has assembled:
 
-> "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
+> 5. "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
 
 Jeremiah 1:5, KJV.
 
@@ -16,7 +16,7 @@ Jeremiah answers that he cannot speak and is a child. The Lord does not tell him
 
 ## I am with thee
 
-> "Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord."
+> 8. "Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord."
 
 Jeremiah 1:8, KJV.
 

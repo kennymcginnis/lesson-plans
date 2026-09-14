@@ -4,7 +4,7 @@
 
 Isaiah 40:12 pictures the waters in the hollow of God's hand and mountains weighed in scales. Verse 13 asks who has instructed Him. These questions expose the limits of the comparisons we make.
 
-> "To whom then will ye liken God? or what likeness will ye compare unto him?"
+> 18. "To whom then will ye liken God? or what likeness will ye compare unto him?"
 
 Isaiah 40:18, KJV.
 
@@ -24,7 +24,7 @@ Good tools are not automatically idols. Research, thoughtful questions, professi
 
 ## Peace like a river
 
-> "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:"
+> 18. "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:"
 
 Isaiah 48:18, KJV.
 

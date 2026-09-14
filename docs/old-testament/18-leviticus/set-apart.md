@@ -2,7 +2,7 @@
 
 ## Be holy, for I am holy
 
-> "Ye shall be holy: for I the Lord your God am holy."
+> 2. "Ye shall be holy: for I the Lord your God am holy."
 
 Leviticus 19:2, KJV excerpt.
 
@@ -34,7 +34,7 @@ For Latter-day Saints, Sabbath worship, the Word of Wisdom, and choices consiste
 
 Do not stop with the most visible differences. Leviticus 19 also requires leaving food for the poor and the stranger, honesty, fair treatment, and refusing revenge.
 
-> "Thou shalt love thy neighbour as thyself: I am the Lord."
+> 18. "Thou shalt love thy neighbour as thyself: I am the Lord."
 
 Leviticus 19:18, KJV excerpt.
 

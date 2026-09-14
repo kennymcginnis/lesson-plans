@@ -4,7 +4,7 @@ Main readings: 2 Samuel 7:16; Matthew 1:1; Mark 10:47; Matthew 22:42; 21:9.
 
 ## The promise to David's house
 
-> "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever."
+> 16. "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever."
 
 2 Samuel 7:16, KJV.
 
@@ -16,7 +16,7 @@ David's story includes an enduring promise associated with his house and kingdom
 
 Matthew's Gospel opens with these words:
 
-> "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+> 1. "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
 
 Matthew 1:1, KJV.
 
@@ -26,7 +26,7 @@ Matthew presents Jesus within Israel's covenant history. The title connects Him 
 
 ## A cry for mercy
 
-> "Jesus, thou Son of David, have mercy on me."
+> 47. "Jesus, thou Son of David, have mercy on me."
 
 Mark 10:47, KJV.
 
@@ -42,7 +42,7 @@ Read Jesus' question in Matthew 22:42 and the answer identifying Christ as David
 
 At Jesus' entry into Jerusalem, the crowd cries:
 
-> "Hosanna to the Son of David"
+> 9. "Hosanna to the Son of David"
 
 Matthew 21:9, KJV excerpt.
 

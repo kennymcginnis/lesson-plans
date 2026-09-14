@@ -49,7 +49,7 @@ His message includes the lasting effects of words in texts and social media. The
 
 ## Humility makes room for peace
 
-> Pride goeth before destruction, and an haughty spirit before a fall.
+> 18. Pride goeth before destruction, and an haughty spirit before a fall.
 
 Proverbs 16:18, KJV.
 
@@ -61,7 +61,7 @@ The proverb invites self-examination; it is not proof that every person's misfor
 
 ## Optional companion: words that heal
 
-> There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
+> 18. There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
 
 Proverbs 12:18, KJV. This companion verse is outside this week's assigned chapters.
 

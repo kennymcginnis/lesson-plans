@@ -4,7 +4,7 @@
 
 Before offering a definition of your own, find the word truth in section 93:
 
-> "And truth is knowledge of things as they are, and as they were, and as they are to come;"
+> 24. "And truth is knowledge of things as they are, and as they were, and as they are to come;"
 
 D&C 93:24.
 

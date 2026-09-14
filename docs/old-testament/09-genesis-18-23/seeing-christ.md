@@ -4,7 +4,7 @@
 
 Jacob explains that the law of Moses points souls toward Christ and describes Abraham's offering of Isaac as:
 
-> "a similitude of God and his Only Begotten Son."
+> 5. "a similitude of God and his Only Begotten Son."
 
 Jacob 4:5, excerpt.
 
@@ -26,7 +26,7 @@ Read Genesis 22:2 with John 3:16 and Romans 8:32. Genesis speaks of Abraham's be
 
 [Read John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16#p16)
 
-> "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
+> 32. "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
 
 Romans 8:32, KJV.
 

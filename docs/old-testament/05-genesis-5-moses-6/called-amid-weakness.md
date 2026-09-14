@@ -2,7 +2,7 @@
 
 ## Enoch's first response
 
-> "Why is it that I have found favor in thy sight, and am but a lad, and all the people hate me; for I am slow of speech; wherefore am I thy servant?"
+> 31. "Why is it that I have found favor in thy sight, and am but a lad, and all the people hate me; for I am slow of speech; wherefore am I thy servant?"
 
 Moses 6:31, excerpt.
 

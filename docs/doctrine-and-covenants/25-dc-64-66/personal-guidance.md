@@ -4,7 +4,7 @@
 
 Section 66 addresses William E. McLellin. The opening acknowledges that he has turned from iniquity and received the Lord's truth and everlasting covenant. The next words do not cancel that progress, but they identify more work to do:
 
-> "You are clean, but not all; repent, therefore, of those things which are not pleasing in my sight, saith the Lord, for the Lord will show them unto you."
+> 3. "You are clean, but not all; repent, therefore, of those things which are not pleasing in my sight, saith the Lord, for the Lord will show them unto you."
 
 D&C 66:3, excerpt.
 
@@ -42,7 +42,7 @@ Choose a concrete, proportionate response: repair a wrong, keep a commitment, as
 
 ## Continue in these things
 
-> "Continue in these things even unto the end, and you shall have a crown of eternal life at the right hand of my Father, who is full of grace and truth."
+> 12. "Continue in these things even unto the end, and you shall have a crown of eternal life at the right hand of my Father, who is full of grace and truth."
 
 D&C 66:12.
 

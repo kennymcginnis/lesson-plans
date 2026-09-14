@@ -16,7 +16,7 @@ God's people contribute more than money. Wisdom, skill, teaching, time, and will
 
 Exodus 37-39 describes the furnishings, priestly clothing, and completion of the work. In chapter 40, the tabernacle is set up and the Lord's glory fills it:
 
-> "And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the Lord filled the tabernacle."
+> 35. "And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the Lord filled the tabernacle."
 
 Exodus 40:35, KJV.
 
@@ -28,7 +28,7 @@ The presence of God is the purpose of the sanctuary, not a decorative addition t
 
 Leviticus begins:
 
-> "And the Lord called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,"
+> 1. "And the Lord called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,"
 
 Leviticus 1:1, KJV.
 

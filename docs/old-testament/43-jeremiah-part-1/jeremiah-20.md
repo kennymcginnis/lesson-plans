@@ -12,7 +12,7 @@ Jeremiah's complaint in verse 7 is startling. The KJV uses "deceived" as he addr
 
 Jeremiah considers no longer speaking in the Lord's name, but he describes the word within him as fire:
 
-> "His word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay."
+> 9. "His word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay."
 
 Jeremiah 20:9, KJV excerpt.
 

@@ -20,7 +20,7 @@ This does not mean avoiding every hard conversation or calling all criticism sin
 
 Verse 14 invites Zion and Jerusalem to sing and rejoice. Verse 15 speaks of the Lord in their midst, removed judgment, and relief from their enemy. Then comes a striking description of God's response:
 
-> "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+> 17. "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
 
 Zephaniah 3:17, KJV.
 

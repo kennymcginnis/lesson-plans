@@ -8,15 +8,15 @@ Read Goliath's challenge in 1 Samuel 17:8-9 alongside the description of his hei
 
 The point is not simply that one person is large and another small. Saul and the Israelites see the challenge and are terrified; David speaks about the Lord who has already delivered him.
 
-> "The LORD...will deliver me."
+> 37. "The LORD...will deliver me."
 
 1 Samuel 17:37, KJV.
 
-> "I come to thee in the name of the LORD of hosts."
+> 45. "I come to thee in the name of the LORD of hosts."
 
 1 Samuel 17:45, KJV.
 
-> "The battle is the LORD'S."
+> 47. "The battle is the LORD'S."
 
 1 Samuel 17:47, KJV.
 
