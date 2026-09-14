@@ -13,6 +13,13 @@
   - [I Will Trust and Not Be Afraid (12)](old-testament/38-isaiah-1-12/isaiah-12.md)
   - [Closing - God Is My Salvation](old-testament/38-isaiah-1-12/closing.md)
 - Old Testament
+  - [Week 09 - Genesis 18-23](old-testament/09-genesis-18-23/README.md)
+    - [From Disbelief to Joy (18; 21)](old-testament/09-genesis-18-23/sarah.md)
+    - [Choices, Mercy, and Intercession (18-19)](old-testament/09-genesis-18-23/lot.md)
+    - [Faith for the Future (19; Luke 17:32)](old-testament/09-genesis-18-23/faith-for-the-future.md)
+    - [The Lord Will Provide (22)](old-testament/09-genesis-18-23/the-lord-will-provide.md)
+    - [Seeing Christ Carefully (22; Jacob 4:5)](old-testament/09-genesis-18-23/seeing-christ.md)
+    - [Closing - Trust the God Who Provides](old-testament/09-genesis-18-23/closing.md)
   - [Week 18 - Exodus 35-40; Leviticus](old-testament/18-leviticus/README.md)
     - [A Place for God's Presence (Exodus 35-40)](old-testament/18-leviticus/tabernacle.md)
     - [Set Apart to Belong to God (Leviticus 19)](old-testament/18-leviticus/set-apart.md)

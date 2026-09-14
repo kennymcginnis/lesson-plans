@@ -6,6 +6,13 @@ window.lessonAliases = {
 };
 window.lessonSearchPaths = [
   "/",
+  "/old-testament/09-genesis-18-23/README",
+  "/old-testament/09-genesis-18-23/sarah",
+  "/old-testament/09-genesis-18-23/lot",
+  "/old-testament/09-genesis-18-23/faith-for-the-future",
+  "/old-testament/09-genesis-18-23/the-lord-will-provide",
+  "/old-testament/09-genesis-18-23/seeing-christ",
+  "/old-testament/09-genesis-18-23/closing",
   "/old-testament/18-leviticus/README",
   "/old-testament/18-leviticus/tabernacle",
   "/old-testament/18-leviticus/set-apart",

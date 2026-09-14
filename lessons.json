@@ -6,6 +6,20 @@
       "title": "Old Testament",
       "lessons": [
         {
+          "week": 9,
+          "slug": "genesis-18-23",
+          "subject": "Genesis 18-23",
+          "title": "Is Anything Too Hard for the Lord?",
+          "pages": [
+            { "file": "sarah.md", "title": "From Disbelief to Joy (18; 21)" },
+            { "file": "lot.md", "title": "Choices, Mercy, and Intercession (18-19)" },
+            { "file": "faith-for-the-future.md", "title": "Faith for the Future (19; Luke 17:32)" },
+            { "file": "the-lord-will-provide.md", "title": "The Lord Will Provide (22)" },
+            { "file": "seeing-christ.md", "title": "Seeing Christ Carefully (22; Jacob 4:5)" },
+            { "file": "closing.md", "title": "Closing - Trust the God Who Provides" }
+          ]
+        },
+        {
           "week": 18,
           "slug": "leviticus",
           "subject": "Exodus 35-40; Leviticus",
