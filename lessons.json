@@ -241,6 +241,73 @@
           ]
         }
       ]
+    },
+    {
+      "id": "book-of-mormon",
+      "title": "Book of Mormon",
+      "lessons": [
+        {
+          "week": 1,
+          "slug": "introductory-pages",
+          "subject": "Introductory Pages",
+          "title": "Another Testament of Jesus Christ",
+          "pages": [
+            { "file": "title-page.md", "title": "The Title Page - Who, How, and Why?" },
+            { "file": "witnesses.md", "title": "Listen to the Witnesses" },
+            { "file": "study-and-live.md", "title": "Study to Come Nearer to God" },
+            { "file": "closing.md", "title": "Closing - Begin with Christ" }
+          ]
+        },
+        {
+          "week": 5,
+          "slug": "1-nephi-16-22",
+          "subject": "1 Nephi 16-22",
+          "title": "By Small Means",
+          "pages": [
+            { "file": "guidance.md", "title": "A New Bow and a Willing Response (16)" },
+            { "file": "building-a-ship.md", "title": "Tools for the Work (17)" },
+            { "file": "the-voyage.md", "title": "Prayer on the Journey (18)" },
+            { "file": "liken-scripture.md", "title": "Liken Scripture to Learn of Christ (19-22)" },
+            { "file": "closing.md", "title": "Closing - A Faithful Next Step" }
+          ]
+        },
+        {
+          "week": 15,
+          "slug": "jacob-5-7",
+          "subject": "Jacob 5-7",
+          "title": "The Lord Labors with Us",
+          "pages": [
+            { "file": "vineyard.md", "title": "Understanding the Vineyard (5)" },
+            { "file": "labor-with-him.md", "title": "The Lord's Labor and Grief (5)" },
+            { "file": "cleave-unto-god.md", "title": "Cleave unto God and Witness of Christ (6-7)" },
+            { "file": "closing.md", "title": "Closing - Receive His Care, Join His Work" }
+          ]
+        },
+        {
+          "week": 25,
+          "slug": "alma-8-12",
+          "subject": "Alma 8-12",
+          "title": "Return, Remember, and Receive",
+          "pages": [
+            { "file": "return-and-receive.md", "title": "Return and Receive Help (8)" },
+            { "file": "remember-and-listen.md", "title": "Remember and Listen (9-10)" },
+            { "file": "redemption.md", "title": "The Plan of Redemption (11-12)" },
+            { "file": "closing.md", "title": "Closing - Receive the Next Invitation" }
+          ]
+        },
+        {
+          "week": 32,
+          "slug": "alma-39-42",
+          "subject": "Alma 39-42",
+          "title": "God's Intent Is to Bring You Home",
+          "pages": [
+            { "file": "repentance.md", "title": "Correction with a Future (39)" },
+            { "file": "resurrection.md", "title": "What We Know and What God Knows (40)" },
+            { "file": "justice-and-mercy.md", "title": "Justice, Mercy, and God's Intent (41-42)" },
+            { "file": "closing.md", "title": "Closing - Let Mercy Have Claim" }
+          ]
+        }
+      ]
     }
   ]
 }

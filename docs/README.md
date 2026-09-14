@@ -24,3 +24,11 @@
 - [Week 35 - Doctrine and Covenants 93](doctrine-and-covenants/35-dc-93/README.md)
 - [Week 44 - Doctrine and Covenants 124](doctrine-and-covenants/44-dc-124/README.md)
 - [Week 49 - Doctrine and Covenants 137-138](doctrine-and-covenants/49-dc-137-138/README.md)
+
+## Book of Mormon
+
+- [Week 01 - Introductory Pages](book-of-mormon/01-introductory-pages/README.md)
+- [Week 05 - 1 Nephi 16-22](book-of-mormon/05-1-nephi-16-22/README.md)
+- [Week 15 - Jacob 5-7](book-of-mormon/15-jacob-5-7/README.md)
+- [Week 25 - Alma 8-12](book-of-mormon/25-alma-8-12/README.md)
+- [Week 32 - Alma 39-42](book-of-mormon/32-alma-39-42/README.md)
