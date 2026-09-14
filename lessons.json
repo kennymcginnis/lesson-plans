@@ -134,6 +134,20 @@
             { "file": "isaiah-12.md", "title": "I Will Trust and Not Be Afraid (12)" },
             { "file": "closing.md", "title": "Closing - God Is My Salvation" }
           ]
+        },
+        {
+          "week": 49,
+          "slug": "micah-nahum-habakkuk-zephaniah",
+          "subject": "Nahum; Habakkuk; Zephaniah",
+          "title": "Yet I Will Rejoice in the Lord",
+          "pages": [
+            { "file": "study-method.md", "title": "Understand, Identify, Apply" },
+            { "file": "nahum.md", "title": "A Stronghold in Trouble (Nahum 1)" },
+            { "file": "habakkuk.md", "title": "Faith with Questions Still Open (Habakkuk 1-3)" },
+            { "file": "zephaniah.md", "title": "The Lord Rejoices over His People (Zephaniah 3)" },
+            { "file": "promises.md", "title": "Find the Promise (Nahum 1; Zephaniah 3)" },
+            { "file": "closing.md", "title": "Closing - Rehearse for Rejoicing (Habakkuk 3; Zephaniah 3)" }
+          ]
         }
       ]
     }

@@ -77,5 +77,12 @@ window.lessonSearchPaths = [
   "/old-testament/38-isaiah-1-12/isaiah-11-peace",
   "/old-testament/38-isaiah-1-12/isaiah-11-gathering",
   "/old-testament/38-isaiah-1-12/isaiah-12",
-  "/old-testament/38-isaiah-1-12/closing"
+  "/old-testament/38-isaiah-1-12/closing",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/README",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/study-method",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/nahum",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/habakkuk",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/zephaniah",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/promises",
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/closing"
 ];
