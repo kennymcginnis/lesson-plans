@@ -13,6 +13,13 @@
   - [I Will Trust and Not Be Afraid (12)](old-testament/38-isaiah-1-12/isaiah-12.md)
   - [Closing - God Is My Salvation](old-testament/38-isaiah-1-12/closing.md)
 - Old Testament
+  - [Week 18 - Exodus 35-40; Leviticus](old-testament/18-leviticus/README.md)
+    - [A Place for God's Presence (Exodus 35-40)](old-testament/18-leviticus/tabernacle.md)
+    - [Set Apart to Belong to God (Leviticus 19)](old-testament/18-leviticus/set-apart.md)
+    - [Wholehearted, Willing, and Daily (Leviticus 1; 4; 22)](old-testament/18-leviticus/sacrifice.md)
+    - [Christ Draws Near (Leviticus 13; 15; Mark 1; 5)](old-testament/18-leviticus/purity.md)
+    - [Christ Opens the Way (Leviticus 16; Hebrews 9)](old-testament/18-leviticus/atonement.md)
+    - [Closing - Come to the Throne of Grace (Hebrews 4:16)](old-testament/18-leviticus/closing.md)
   - [Week 25 - David's Rise](old-testament/25-1-samuel-part-2/README.md)
     - [David and Goliath (1 Samuel 17)](old-testament/25-1-samuel-part-2/david-and-goliath.md)
     - [David and Michal (1 Samuel 18; 2 Samuel 3; 6)](old-testament/25-1-samuel-part-2/david-and-michal.md)

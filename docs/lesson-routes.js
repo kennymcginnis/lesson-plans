@@ -6,6 +6,13 @@ window.lessonAliases = {
 };
 window.lessonSearchPaths = [
   "/",
+  "/old-testament/18-leviticus/README",
+  "/old-testament/18-leviticus/tabernacle",
+  "/old-testament/18-leviticus/set-apart",
+  "/old-testament/18-leviticus/sacrifice",
+  "/old-testament/18-leviticus/purity",
+  "/old-testament/18-leviticus/atonement",
+  "/old-testament/18-leviticus/closing",
   "/old-testament/25-1-samuel-part-2/README",
   "/old-testament/25-1-samuel-part-2/david-and-goliath",
   "/old-testament/25-1-samuel-part-2/david-and-michal",

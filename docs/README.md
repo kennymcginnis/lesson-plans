@@ -6,6 +6,7 @@
 
 ## Old Testament
 
+- [Week 18 - Exodus 35-40; Leviticus](old-testament/18-leviticus/README.md)
 - [Week 25 - David's Rise](old-testament/25-1-samuel-part-2/README.md)
 - [Week 27 - 1 Kings 17-19](old-testament/27-1-kings/README.md)
 - [Week 36 - Psalms 100-150](old-testament/36-psalms-100-150/README.md)
