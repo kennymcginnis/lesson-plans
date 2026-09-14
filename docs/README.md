@@ -17,3 +17,7 @@
 - [Week 40 - Isaiah 40-49](old-testament/40-isaiah-40-49/README.md)
 - [Week 43 - Jeremiah, Part 1](old-testament/43-jeremiah-part-1/README.md)
 - [Week 49 - Nahum; Habakkuk; Zephaniah](old-testament/49-micah-nahum-habakkuk-zephaniah/README.md)
+
+## Doctrine and Covenants
+
+- [Week 25 - Doctrine and Covenants 64-66](doctrine-and-covenants/25-dc-64-66/README.md)

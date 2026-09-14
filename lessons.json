@@ -180,6 +180,27 @@
           ]
         }
       ]
+    },
+    {
+      "id": "doctrine-and-covenants",
+      "title": "Doctrine and Covenants",
+      "lessons": [
+        {
+          "week": 25,
+          "slug": "dc-64-66",
+          "subject": "Doctrine and Covenants 64-66",
+          "title": "The Heart and a Willing Mind",
+          "pages": [
+            { "file": "seeking-good.md", "title": "A Heart That Seeks Good (64:6-8, 16)" },
+            { "file": "forgiveness.md", "title": "Forgive One Another (64:1-13)" },
+            { "file": "willing-heart.md", "title": "The Heart and a Willing Mind (64:20-25, 34)" },
+            { "file": "well-doing.md", "title": "Be Not Weary in Well-Doing (64:29-34)" },
+            { "file": "kingdom.md", "title": "Prepare Ye the Way of the Lord (65)" },
+            { "file": "personal-guidance.md", "title": "Guidance That Encourages and Corrects (66)" },
+            { "file": "closing.md", "title": "Closing - Offer a Willing Heart (64:34)" }
+          ]
+        }
+      ]
     }
   ]
 }

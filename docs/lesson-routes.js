@@ -100,5 +100,13 @@ window.lessonSearchPaths = [
   "/old-testament/49-micah-nahum-habakkuk-zephaniah/habakkuk",
   "/old-testament/49-micah-nahum-habakkuk-zephaniah/zephaniah",
   "/old-testament/49-micah-nahum-habakkuk-zephaniah/promises",
-  "/old-testament/49-micah-nahum-habakkuk-zephaniah/closing"
+  "/old-testament/49-micah-nahum-habakkuk-zephaniah/closing",
+  "/doctrine-and-covenants/25-dc-64-66/README",
+  "/doctrine-and-covenants/25-dc-64-66/seeking-good",
+  "/doctrine-and-covenants/25-dc-64-66/forgiveness",
+  "/doctrine-and-covenants/25-dc-64-66/willing-heart",
+  "/doctrine-and-covenants/25-dc-64-66/well-doing",
+  "/doctrine-and-covenants/25-dc-64-66/kingdom",
+  "/doctrine-and-covenants/25-dc-64-66/personal-guidance",
+  "/doctrine-and-covenants/25-dc-64-66/closing"
 ];

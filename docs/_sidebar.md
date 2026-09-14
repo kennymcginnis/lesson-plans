@@ -108,3 +108,12 @@
     - [The Lord Rejoices over His People (Zephaniah 3)](old-testament/49-micah-nahum-habakkuk-zephaniah/zephaniah.md)
     - [Find the Promise (Nahum 1; Zephaniah 3)](old-testament/49-micah-nahum-habakkuk-zephaniah/promises.md)
     - [Closing - Rehearse for Rejoicing (Habakkuk 3; Zephaniah 3)](old-testament/49-micah-nahum-habakkuk-zephaniah/closing.md)
+- Doctrine and Covenants
+  - [Week 25 - Doctrine and Covenants 64-66](doctrine-and-covenants/25-dc-64-66/README.md)
+    - [A Heart That Seeks Good (64:6-8, 16)](doctrine-and-covenants/25-dc-64-66/seeking-good.md)
+    - [Forgive One Another (64:1-13)](doctrine-and-covenants/25-dc-64-66/forgiveness.md)
+    - [The Heart and a Willing Mind (64:20-25, 34)](doctrine-and-covenants/25-dc-64-66/willing-heart.md)
+    - [Be Not Weary in Well-Doing (64:29-34)](doctrine-and-covenants/25-dc-64-66/well-doing.md)
+    - [Prepare Ye the Way of the Lord (65)](doctrine-and-covenants/25-dc-64-66/kingdom.md)
+    - [Guidance That Encourages and Corrects (66)](doctrine-and-covenants/25-dc-64-66/personal-guidance.md)
+    - [Closing - Offer a Willing Heart (64:34)](doctrine-and-covenants/25-dc-64-66/closing.md)
