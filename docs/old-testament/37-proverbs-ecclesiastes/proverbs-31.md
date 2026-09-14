@@ -4,9 +4,12 @@
 
 > 10. Who can find a virtuous woman? for her price is far above rubies.
 >
+>
 > 20. She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
 >
+>
 > 26. She openeth her mouth with wisdom; and in her tongue is the law of kindness.
+>
 >
 > 30. Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.
 > 31. Give her of the fruit of her hands; and let her own works praise her in the gates.

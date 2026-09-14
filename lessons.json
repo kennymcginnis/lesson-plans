@@ -1,5 +1,5 @@
 {
-  "currentLesson": "old-testament/37-proverbs-ecclesiastes",
+  "currentLesson": "old-testament/38-isaiah-1-12",
   "courses": [
     {
       "id": "old-testament",
@@ -35,14 +35,33 @@
           "title": "He Shall Direct Thy Paths",
           "legacyPath": "proverbs-ecclesiastes",
           "pages": [
-            { "file": "proverbs-3.md", "title": "Trust in the Lord" },
-            { "file": "proverbs-4.md", "title": "A Path That Grows Brighter" },
-            { "file": "proverbs-15-16.md", "title": "Words That Make Peace" },
-            { "file": "proverbs-22.md", "title": "Teach Without Controlling" },
-            { "file": "proverbs-31.md", "title": "Strength, Wisdom, and Reverence" },
-            { "file": "ecclesiastes-3.md", "title": "A Time and a Season" },
-            { "file": "ecclesiastes-12.md", "title": "Reverence, Trust, and Duty" },
+            { "file": "proverbs-3.md", "title": "Trust in the Lord (Proverbs 3)" },
+            { "file": "proverbs-4.md", "title": "A Path That Grows Brighter (Proverbs 4)" },
+            { "file": "proverbs-15-16.md", "title": "Words That Make Peace (Proverbs 15-16)" },
+            { "file": "proverbs-22.md", "title": "Teach Without Controlling (Proverbs 22)" },
+            { "file": "proverbs-31.md", "title": "Strength, Wisdom, and Reverence (Proverbs 31)" },
+            { "file": "ecclesiastes-3.md", "title": "A Time and a Season (Ecclesiastes 3)" },
+            { "file": "ecclesiastes-12.md", "title": "Reverence, Trust, and Duty (Ecclesiastes 12)" },
             { "file": "closing.md", "title": "Closing - Let Him Direct Your Path" }
+          ]
+        },
+        {
+          "week": 38,
+          "slug": "isaiah-1-12",
+          "subject": "Isaiah 1-12",
+          "title": "God Is My Salvation",
+          "pages": [
+            { "file": "isaiah-1.md", "title": "Scarlet to Snow (1)" },
+            { "file": "isaiah-2.md", "title": "Come to the Lord's House (2)" },
+            { "file": "isaiah-5.md", "title": "Learning to Discern (5)" },
+            { "file": "isaiah-6.md", "title": "Here Am I; Send Me (6)" },
+            { "file": "isaiah-7.md", "title": "Immanuel, God with Us (7)" },
+            { "file": "isaiah-9.md", "title": "The Prince of Peace (9)" },
+            { "file": "isaiah-11-stem-of-jesse.md", "title": "The Stem of Jesse (11:1-5)" },
+            { "file": "isaiah-11-peace.md", "title": "A World Without Hurt (11:6-9)" },
+            { "file": "isaiah-11-gathering.md", "title": "An Ensign for the Nations (11:10-12)" },
+            { "file": "isaiah-12.md", "title": "I Will Trust and Not Be Afraid (12)" },
+            { "file": "closing.md", "title": "Closing - God Is My Salvation" }
           ]
         }
       ]

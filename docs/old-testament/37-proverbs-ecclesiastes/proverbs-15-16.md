@@ -4,9 +4,12 @@
 
 > 1. A soft answer turneth away wrath: but grievous words stir up anger. (15:1)
 >
+>
 > 4. A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit. (15:4)
 >
+>
 > 24. Pleasant words are as an honeycomb, sweet to the soul, and health to the bones. (16:24)
+>
 >
 > 32. He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city. (16:32)
 

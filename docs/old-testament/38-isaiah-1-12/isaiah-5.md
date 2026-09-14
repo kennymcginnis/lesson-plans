@@ -1,0 +1,41 @@
+# Isaiah 5:20 - Learning to Discern
+
+## Isaiah 5:20-21
+
+> 20. Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
+> 21. Woe unto them that are wise in their own eyes, and prudent in their own sight!
+
+[Read Isaiah 5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng&id=p20-p21#p20)
+
+## Begin with the vineyard
+
+In verses 1-7, the Lord has cared for a vineyard and looks for good fruit. Verse 7 names what is missing: judgment and righteousness have given way to oppression and a cry of distress. The warnings that follow concern concrete wrongs, not simply people whose opinions differ from ours.
+
+Read verse 20 with verse 21. Isaiah warns both against reversing good and evil and against confidence in our own wisdom. Discernment requires conviction and humility together.
+
+### Dallin H. Oaks - Preparation for the Second Coming
+
+**Direct quotation: Isaiah 5:20.** Elder Oaks, then a member of the Quorum of the Twelve Apostles, quotes the warning about those who:
+
+> "call evil good, and good evil"
+
+He places the warning in a discussion of preparation for the Savior's return and accountability to God's standards. This is a direct quotation of Isaiah, not merely a talk on a similar topic.
+
+["Preparation for the Second Coming," April 2004](https://www.churchofjesuschrist.org/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng)
+
+## Examine the names we give our choices
+
+Use an ordinary example: calling a harmful rumor "just being honest," or calling indifference "staying out of it." Ask what the action actually does to another person, not just what the speaker names it.
+
+Then consider the opposite mistake: dismissing kindness as weakness or sincere repentance as hypocrisy. Isaiah's warning goes in both directions.
+
+Avoid turning the discussion into a list of political opponents or supposedly inferior groups. The passage can first ask whether our own words make disobedience easier to excuse.
+
+## Questions to sit with
+
+- How does the vineyard's missing fruit help us understand verse 20?
+- When can a respectable label conceal a harmful choice?
+- How do scripture, prayer, and prophetic counsel help us test our assumptions?
+- How can we hold to a moral conviction while listening carefully and treating others with dignity?
+
+Continue with [Isaiah 6 - Here Am I; Send Me](old-testament/38-isaiah-1-12/isaiah-6.md).

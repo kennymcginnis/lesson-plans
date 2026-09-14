@@ -73,6 +73,9 @@ export function buildNavigation(catalog) {
 		home.push(`## ${course.title}`, '')
 		for (const lesson of course.lessons) {
 			sidebar.push(`  - [${lesson.label}](${lesson.path}/README.md)`)
+			for (const page of lesson.pages) {
+				sidebar.push(`    - [${page.title}](${lesson.path}/${page.file})`)
+			}
 			home.push(`- [${lesson.label}](${lesson.path}/README.md)`)
 		}
 		home.push('')

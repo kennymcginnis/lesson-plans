@@ -29,5 +29,17 @@ window.lessonSearchPaths = [
   "/old-testament/37-proverbs-ecclesiastes/proverbs-31",
   "/old-testament/37-proverbs-ecclesiastes/ecclesiastes-3",
   "/old-testament/37-proverbs-ecclesiastes/ecclesiastes-12",
-  "/old-testament/37-proverbs-ecclesiastes/closing"
+  "/old-testament/37-proverbs-ecclesiastes/closing",
+  "/old-testament/38-isaiah-1-12/README",
+  "/old-testament/38-isaiah-1-12/isaiah-1",
+  "/old-testament/38-isaiah-1-12/isaiah-2",
+  "/old-testament/38-isaiah-1-12/isaiah-5",
+  "/old-testament/38-isaiah-1-12/isaiah-6",
+  "/old-testament/38-isaiah-1-12/isaiah-7",
+  "/old-testament/38-isaiah-1-12/isaiah-9",
+  "/old-testament/38-isaiah-1-12/isaiah-11-stem-of-jesse",
+  "/old-testament/38-isaiah-1-12/isaiah-11-peace",
+  "/old-testament/38-isaiah-1-12/isaiah-11-gathering",
+  "/old-testament/38-isaiah-1-12/isaiah-12",
+  "/old-testament/38-isaiah-1-12/closing"
 ];

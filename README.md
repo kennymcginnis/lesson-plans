@@ -29,7 +29,7 @@ npm run docs:build
 
 Refresh the site if the preview is already running. Selection is manual, so holidays and changes to your teaching schedule do not move the lesson unexpectedly.
 
-Only this lesson's pages appear in the detailed sidebar section. The course archive lists every prepared lesson in ascending week order and links to each overview. An archived overview lists that lesson's individual pages.
+The selected lesson's pages appear in the This Week section. The course archive lists every prepared lesson in ascending week order, with its pages nested beneath its overview link. Use the arrow beside a lesson to expand or collapse its pages; the overview link opens the lesson itself. Lessons with no topic pages remain simple overview links.
 
 Search indexes all catalog pages, including archived lessons that are not expanded in the sidebar.
 

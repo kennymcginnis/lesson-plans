@@ -4,7 +4,9 @@
 
 > 1. To every thing there is a season, and a time to every purpose under the heaven:
 >
+>
 > 4. A time to weep, and a time to laugh; a time to mourn, and a time to dance;
+>
 >
 > 6. A time to get, and a time to lose; a time to keep, and a time to cast away;
 

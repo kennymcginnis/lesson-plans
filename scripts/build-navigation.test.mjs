@@ -37,11 +37,20 @@ function catalog() {
 	}
 }
 
-test('expands only the current lesson and sorts populated course archives by week', () => {
+test('nests every lesson page under its archive entry and sorts populated courses by week', () => {
 	const result = buildNavigation(catalog())
 	assert.match(result.sidebar, /- This Week\n  - \[He Shall Direct Thy Paths\]/)
 	assert.match(result.sidebar, /\[Trust\]\(old-testament\/37-proverbs-ecclesiastes\/trust.md\)/)
-	assert.ok(!result.sidebar.includes('[Covenants]'))
+	assert.ok(
+		result.sidebar.includes(
+			'  - [Week 09 - Genesis](old-testament/09-genesis/README.md)\n    - [Covenants](old-testament/09-genesis/covenants.md)',
+		),
+	)
+	assert.ok(
+		result.sidebar.includes(
+			'  - [Week 37 - Proverbs & Ecclesiastes](old-testament/37-proverbs-ecclesiastes/README.md)\n    - [Trust](old-testament/37-proverbs-ecclesiastes/trust.md)',
+		),
+	)
 	assert.ok(result.sidebar.indexOf('Week 09') < result.sidebar.indexOf('Week 37'))
 	assert.ok(!result.sidebar.includes('New Testament'))
 	assert.match(result.home, /## This Week/)
@@ -54,7 +63,8 @@ test('switches This Week with one setting while retaining the archive and old ro
 	const result = buildNavigation(input)
 	assert.match(result.sidebar, /- This Week\n  - \[Genesis Lesson\]/)
 	assert.ok(result.sidebar.includes('[Covenants]'))
-	assert.ok(!result.sidebar.includes('[Trust]'))
+	assert.ok(result.sidebar.includes('    - [Trust](old-testament/37-proverbs-ecclesiastes/trust.md)'))
+	assert.ok(!result.sidebar.split('- Old Testament')[0].includes('[Trust]'))
 	assert.ok(result.sidebar.includes('Week 37'))
 	assert.equal(result.aliases['/proverbs-ecclesiastes/(.*)'], '/old-testament/37-proverbs-ecclesiastes/$1')
 	assert.equal(result.aliases['/.*/_sidebar.md'], '/_sidebar.md')
