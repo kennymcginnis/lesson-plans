@@ -6,6 +6,13 @@ window.lessonAliases = {
 };
 window.lessonSearchPaths = [
   "/",
+  "/old-testament/05-genesis-5-moses-6/README",
+  "/old-testament/05-genesis-5-moses-6/mortality",
+  "/old-testament/05-genesis-5-moses-6/seers",
+  "/old-testament/05-genesis-5-moses-6/called-amid-weakness",
+  "/old-testament/05-genesis-5-moses-6/open-thy-mouth",
+  "/old-testament/05-genesis-5-moses-6/remember-and-teach",
+  "/old-testament/05-genesis-5-moses-6/closing",
   "/old-testament/09-genesis-18-23/README",
   "/old-testament/09-genesis-18-23/sarah",
   "/old-testament/09-genesis-18-23/lot",

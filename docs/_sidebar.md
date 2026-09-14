@@ -13,6 +13,13 @@
   - [I Will Trust and Not Be Afraid (12)](old-testament/38-isaiah-1-12/isaiah-12.md)
   - [Closing - God Is My Salvation](old-testament/38-isaiah-1-12/closing.md)
 - Old Testament
+  - [Week 05 - Genesis 5; Moses 6](old-testament/05-genesis-5-moses-6/README.md)
+    - [Hope amid Opposition and Unfairness (2 Nephi 2; Moses 6)](old-testament/05-genesis-5-moses-6/mortality.md)
+    - [Seeing a Wider View (Moses 6:35-36)](old-testament/05-genesis-5-moses-6/seers.md)
+    - [Called amid Weakness (Moses 6:31)](old-testament/05-genesis-5-moses-6/called-amid-weakness.md)
+    - [Open Thy Mouth (Moses 6:32-37)](old-testament/05-genesis-5-moses-6/open-thy-mouth.md)
+    - [Remember, Teach, and Be Born Again (Genesis 5; Moses 6)](old-testament/05-genesis-5-moses-6/remember-and-teach.md)
+    - [Closing - Walk with Me (Moses 6:34)](old-testament/05-genesis-5-moses-6/closing.md)
   - [Week 09 - Genesis 18-23](old-testament/09-genesis-18-23/README.md)
     - [From Disbelief to Joy (18; 21)](old-testament/09-genesis-18-23/sarah.md)
     - [Choices, Mercy, and Intercession (18-19)](old-testament/09-genesis-18-23/lot.md)

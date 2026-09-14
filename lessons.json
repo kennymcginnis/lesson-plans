@@ -6,6 +6,20 @@
       "title": "Old Testament",
       "lessons": [
         {
+          "week": 5,
+          "slug": "genesis-5-moses-6",
+          "subject": "Genesis 5; Moses 6",
+          "title": "Walk with Me",
+          "pages": [
+            { "file": "mortality.md", "title": "Hope amid Opposition and Unfairness (2 Nephi 2; Moses 6)" },
+            { "file": "seers.md", "title": "Seeing a Wider View (Moses 6:35-36)" },
+            { "file": "called-amid-weakness.md", "title": "Called amid Weakness (Moses 6:31)" },
+            { "file": "open-thy-mouth.md", "title": "Open Thy Mouth (Moses 6:32-37)" },
+            { "file": "remember-and-teach.md", "title": "Remember, Teach, and Be Born Again (Genesis 5; Moses 6)" },
+            { "file": "closing.md", "title": "Closing - Walk with Me (Moses 6:34)" }
+          ]
+        },
+        {
           "week": 9,
           "slug": "genesis-18-23",
           "subject": "Genesis 18-23",
