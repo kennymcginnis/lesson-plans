@@ -136,6 +136,21 @@
           ]
         },
         {
+          "week": 40,
+          "slug": "isaiah-40-49",
+          "subject": "Isaiah 40-49",
+          "title": "I Will Not Forget Thee",
+          "pages": [
+            { "file": "comfort.md", "title": "Comfort Ye My People (40:1-11)" },
+            { "file": "wilderness.md", "title": "A Way in the Wilderness (40; 41; 43; 48)" },
+            { "file": "renewed-strength.md", "title": "They That Wait upon the Lord (40:27-31; 43:1-3)" },
+            { "file": "trust-the-creator.md", "title": "Trust the Creator, Not the Substitute (40; 41; 48)" },
+            { "file": "light-to-the-nations.md", "title": "A Light beyond Israel (49:1-6)" },
+            { "file": "not-forgotten.md", "title": "I Will Not Forget Thee (49:13-16)" },
+            { "file": "closing.md", "title": "Closing - Remember the Savior" }
+          ]
+        },
+        {
           "week": 43,
           "slug": "jeremiah-part-1",
           "subject": "Jeremiah, Part 1",

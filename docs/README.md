@@ -14,5 +14,6 @@
 - [Week 36 - Psalms 100-150](old-testament/36-psalms-100-150/README.md)
 - [Week 37 - Proverbs & Ecclesiastes](old-testament/37-proverbs-ecclesiastes/README.md)
 - [Week 38 - Isaiah 1-12](old-testament/38-isaiah-1-12/README.md)
+- [Week 40 - Isaiah 40-49](old-testament/40-isaiah-40-49/README.md)
 - [Week 43 - Jeremiah, Part 1](old-testament/43-jeremiah-part-1/README.md)
 - [Week 49 - Nahum; Habakkuk; Zephaniah](old-testament/49-micah-nahum-habakkuk-zephaniah/README.md)
