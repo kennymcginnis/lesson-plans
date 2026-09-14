@@ -136,6 +136,21 @@
           ]
         },
         {
+          "week": 43,
+          "slug": "jeremiah-part-1",
+          "subject": "Jeremiah, Part 1",
+          "title": "Return to the Fountain of Living Waters",
+          "pages": [
+            { "file": "jeremiah-1.md", "title": "Called before Feeling Ready (1)" },
+            { "file": "jeremiah-2.md", "title": "Return to the Living Water (2)" },
+            { "file": "jeremiah-3.md", "title": "Return, Acknowledge, and Be Healed (3)" },
+            { "file": "choose-today.md", "title": "Begin the Future Today (8; 11; 17)" },
+            { "file": "jeremiah-18.md", "title": "In the Potter's Hands (18)" },
+            { "file": "jeremiah-20.md", "title": "Faith That Can Lament (20)" },
+            { "file": "closing.md", "title": "Closing - Return and Be Renewed (17:7-8)" }
+          ]
+        },
+        {
           "week": 49,
           "slug": "micah-nahum-habakkuk-zephaniah",
           "subject": "Nahum; Habakkuk; Zephaniah",
