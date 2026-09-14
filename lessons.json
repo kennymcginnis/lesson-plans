@@ -6,6 +6,21 @@
       "title": "Old Testament",
       "lessons": [
         {
+          "week": 25,
+          "slug": "1-samuel-part-2",
+          "subject": "David's Rise",
+          "title": "The Battle Is the Lord's (David's Rise)",
+          "pages": [
+            { "file": "david-and-goliath.md", "title": "David and Goliath (1 Samuel 17)" },
+            { "file": "david-and-michal.md", "title": "David and Michal (1 Samuel 18; 2 Samuel 3; 6)" },
+            { "file": "david-and-abigail.md", "title": "David and Abigail (1 Samuel 25)" },
+            { "file": "david-and-jonathan.md", "title": "David and Jonathan (1 Samuel 18; 20; 23)" },
+            { "file": "son-of-david.md", "title": "The Son of David (2 Samuel 7; New Testament)" },
+            { "file": "closing.md", "title": "Closing - Every Heart Has a Throne" },
+            { "file": "source-notes.md", "title": "Source Notes and Scripture References" }
+          ]
+        },
+        {
           "week": 36,
           "slug": "psalms-100-150",
           "subject": "Psalms 100-150",

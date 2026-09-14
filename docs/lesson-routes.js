@@ -6,6 +6,14 @@ window.lessonAliases = {
 };
 window.lessonSearchPaths = [
   "/",
+  "/old-testament/25-1-samuel-part-2/README",
+  "/old-testament/25-1-samuel-part-2/david-and-goliath",
+  "/old-testament/25-1-samuel-part-2/david-and-michal",
+  "/old-testament/25-1-samuel-part-2/david-and-abigail",
+  "/old-testament/25-1-samuel-part-2/david-and-jonathan",
+  "/old-testament/25-1-samuel-part-2/son-of-david",
+  "/old-testament/25-1-samuel-part-2/closing",
+  "/old-testament/25-1-samuel-part-2/source-notes",
   "/old-testament/36-psalms-100-150/README",
   "/old-testament/36-psalms-100-150/100",
   "/old-testament/36-psalms-100-150/102-103",
