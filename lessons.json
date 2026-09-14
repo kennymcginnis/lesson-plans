@@ -21,6 +21,20 @@
           ]
         },
         {
+          "week": 27,
+          "slug": "1-kings",
+          "subject": "1 Kings 17-19",
+          "title": "If the Lord Be God, Follow Him",
+          "pages": [
+            { "file": "leadership.md", "title": "Leadership That Serves (12:6-8)" },
+            { "file": "1-kings-17.md", "title": "Trust When There Seems to Be Too Little (17)" },
+            { "file": "1-kings-18.md", "title": "If the Lord Be God, Follow Him (18)" },
+            { "file": "1-kings-19-care.md", "title": "Care for the Weary (19:1-8)" },
+            { "file": "1-kings-19-voice.md", "title": "Listen and Follow (19:9-21)" },
+            { "file": "closing.md", "title": "Closing - Trust, Listen, and Follow" }
+          ]
+        },
+        {
           "week": 36,
           "slug": "psalms-100-150",
           "subject": "Psalms 100-150",
