@@ -21,3 +21,6 @@
 ## Doctrine and Covenants
 
 - [Week 25 - Doctrine and Covenants 64-66](doctrine-and-covenants/25-dc-64-66/README.md)
+- [Week 35 - Doctrine and Covenants 93](doctrine-and-covenants/35-dc-93/README.md)
+- [Week 44 - Doctrine and Covenants 124](doctrine-and-covenants/44-dc-124/README.md)
+- [Week 49 - Doctrine and Covenants 137-138](doctrine-and-covenants/49-dc-137-138/README.md)

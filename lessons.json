@@ -199,6 +199,46 @@
             { "file": "personal-guidance.md", "title": "Guidance That Encourages and Corrects (66)" },
             { "file": "closing.md", "title": "Closing - Offer a Willing Heart (64:34)" }
           ]
+        },
+        {
+          "week": 35,
+          "slug": "dc-93",
+          "subject": "Doctrine and Covenants 93",
+          "title": "Grow in Light and Truth",
+          "pages": [
+            { "file": "whom-we-worship.md", "title": "Whom We Worship (93:1-19)" },
+            { "file": "how-we-worship.md", "title": "Worship through Following (93:19-20)" },
+            { "file": "grace-for-grace.md", "title": "Grace for Grace (93:12-20)" },
+            { "file": "light-and-agency.md", "title": "Identity, Truth, and Agency (93:21-39)" },
+            { "file": "light-at-home.md", "title": "Light and Truth at Home (93:40-53)" },
+            { "file": "closing.md", "title": "Closing - One Step in Light and Truth" }
+          ]
+        },
+        {
+          "week": 44,
+          "slug": "dc-124",
+          "subject": "Doctrine and Covenants 124",
+          "title": "Build a House unto My Name",
+          "pages": [
+            { "file": "integrity.md", "title": "Integrity and Meekness (124:1-21)" },
+            { "file": "nauvoo-house.md", "title": "A Resting Place for the Weary (124:22-24, 60-61)" },
+            { "file": "temple.md", "title": "A House for Ordinances (124:26-55)" },
+            { "file": "given-for-service.md", "title": "Given for the Work of Ministry (124:123-145)" },
+            { "file": "closing.md", "title": "Closing - Build through Faithful Service" }
+          ]
+        },
+        {
+          "week": 49,
+          "slug": "dc-137-138",
+          "subject": "Doctrine and Covenants 137-138",
+          "title": "Redemption through Jesus Christ",
+          "pages": [
+            { "file": "vision-of-heaven.md", "title": "Known by Works and Desires (137)" },
+            { "file": "pondering.md", "title": "Pondering and Revelation (138:1-11)" },
+            { "file": "resurrection.md", "title": "A Fulness of Joy (138:12-24; 93:33-34)" },
+            { "file": "redemption-of-the-dead.md", "title": "Christ Sends Messengers (138:29-60)" },
+            { "file": "closing.md", "title": "Closing - Trust the Redeemer's Reach" }
+          ]
         }
       ]
     }
