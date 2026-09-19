@@ -4,14 +4,38 @@ A Docsify site with reusable scripture-study lessons organized by course and cur
 
 ## Preview
 
-Requires Node.js 18 or later and npm.
+Requires Node.js 22.12 or later and npm.
 
 ```sh
 npm install
 npm run docs:serve
 ```
 
-Starting the preview rebuilds navigation automatically. The site is served at http://localhost:3000.
+Starting the preview rebuilds navigation and the presentation automatically. The site is served at http://localhost:3000.
+
+## Presentations
+
+This week's sidebar includes **Presentation - Come Now**, a ten-slide [Slidev](https://sli.dev) deck for the 25-minute Isaiah 1:16-18 teen lesson. Its presentation page opens either the audience slides or presenter view with timing and discussion notes.
+
+Edit [presentations/isaiah-1-12/slides.md](presentations/isaiah-1-12/slides.md) and preview changes live:
+
+```sh
+npm run slides:dev
+```
+
+Slidev runs at http://localhost:3030. Use its presenter view to open a separate audience window. Notes are part of the published deck, not confidential storage.
+
+```sh
+npm run slides:build
+```
+
+This produces the static presentation under `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds both navigation and slides. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
+
+Keep the generated presentation with the other generated docs when publishing this static site. Rebuild after source changes; do not hand-edit the compiled assets. The build clears only this deck's output directory, so put source material in `presentations/`, not in its generated directory under `docs/`.
+
+The snow photograph is bundled locally from [Unsplash](https://images.unsplash.com/photo-1454496522488-7a8e488e8606), and the deck uses local system fonts. After building, the slides need no external image or font services. Slidev 51.8.2 is pinned because the configured package registry quarantines a dependency in version 53; do not bypass registry restrictions when upgrading.
+
+Run `npm run test:slides` for desktop/mobile browser checks. Install the test browser once with `npx playwright install chromium`, or use an installed Chrome with `PLAYWRIGHT_CHANNEL=chrome npm run test:slides`. The check starts its own preview on port 3002, verifies all ten slides and their launch links, and saves screenshots in the ignored `test-results/` folder. `npm test` remains the fast navigation and scripture-formatting check.
 
 ## Select This Week
 

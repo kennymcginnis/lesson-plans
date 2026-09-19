@@ -3,12 +3,18 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "docs:build": "node scripts/build-navigation.mjs",
+    "docs:build": "node scripts/build-navigation.mjs && npm run slides:build",
     "predocs:serve": "npm run docs:build",
+    "slides:dev": "slidev presentations/isaiah-1-12/slides.md --bind 127.0.0.1",
+    "slides:build": "slidev build presentations/isaiah-1-12/slides.md --base ./ --out ../../docs/presentations/isaiah-1-12",
     "test": "node --test scripts/*.test.mjs",
+    "test:slides": "playwright test --config scripts/playwright.config.mjs",
     "docs:serve": "docsify serve docs"
   },
   "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@slidev/cli": "51.8.2",
+    "@slidev/theme-default": "0.25.0",
     "docsify-cli": "^4.4.4"
   }
 }

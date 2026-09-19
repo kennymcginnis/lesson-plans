@@ -1,6 +1,7 @@
 - [Home](/)
 - This Week
   - [God Is My Salvation](old-testament/38-isaiah-1-12/README.md)
+  - [Presentation - Come Now](old-testament/38-isaiah-1-12/presentation.md)
   - [Scarlet to Snow (1)](old-testament/38-isaiah-1-12/isaiah-1.md)
   - [Come to the Lord's House (2)](old-testament/38-isaiah-1-12/isaiah-2.md)
   - [Learning to Discern (5)](old-testament/38-isaiah-1-12/isaiah-5.md)
@@ -81,6 +82,7 @@
     - [Reverence, Trust, and Duty (Ecclesiastes 12)](old-testament/37-proverbs-ecclesiastes/ecclesiastes-12.md)
     - [Closing - Let Him Direct Your Path](old-testament/37-proverbs-ecclesiastes/closing.md)
   - [Week 38 - Isaiah 1-12](old-testament/38-isaiah-1-12/README.md)
+    - [Presentation - Come Now](old-testament/38-isaiah-1-12/presentation.md)
     - [Scarlet to Snow (1)](old-testament/38-isaiah-1-12/isaiah-1.md)
     - [Come to the Lord's House (2)](old-testament/38-isaiah-1-12/isaiah-2.md)
     - [Learning to Discern (5)](old-testament/38-isaiah-1-12/isaiah-5.md)

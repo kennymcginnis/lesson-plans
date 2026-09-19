@@ -8,6 +8,9 @@ This week's assigned reading is Isaiah 1-12.
 
 Isaiah invites us to turn to the Lord, receive His cleansing, and find hope in the promised Savior.
 
+**Teaching teens this week:** Use the [25-minute "Come now" lesson](old-testament/38-isaiah-1-12/isaiah-1.md) on Isaiah 1:16-18. One picture, one principle, and time to respond: you do not have to wait until you are better to turn to God. The remaining topic pages are optional study, not a class checklist.
+
+- [Presentation - Come Now](old-testament/38-isaiah-1-12/presentation.md)
 - [Isaiah 1:16-18 - Scarlet to Snow](old-testament/38-isaiah-1-12/isaiah-1.md)
 - [Isaiah 2:2-5 - Come to the Lord's House](old-testament/38-isaiah-1-12/isaiah-2.md)
 - [Isaiah 5:20 - Learning to Discern](old-testament/38-isaiah-1-12/isaiah-5.md)
@@ -36,20 +39,21 @@ The topic pages are selected teaching discussions, not a verse-by-verse commenta
 
 The official lesson recommends considering Isaiah's day, the Savior's mortal ministry, and the latter days. Some prophecies have multiple fulfillments; these categories help us ask questions without forcing every image into only one setting.
 
-## A 25-minute class
+## A 25-minute class for teens: Come now
 
-Keep one central question in view: what do these passages help us trust about Jesus Christ? Plan for two main discussions rather than trying to cover every topic page. The times below include reading and class responses.
+Teach one principle from Isaiah 1:16-18: **you do not have to wait until you are better to turn to God.** Through Jesus Christ, cleansing is possible, and repentance changes how we treat people. The times include reading and student responses.
 
-1. **Begin with the destination, 3 minutes:** Read Isaiah 12:2 and introduce the central question. Briefly explain that Isaiah teaches through images and promises; save the broader historical overview for questions that arise.
-2. **Christ can cleanse us, 8 minutes:** Read Isaiah 1:16-18. Ask how the promise of cleansing connects with caring for others in verse 17. Choose one brief teaching from Hinckley, Packer, or Eubank rather than reading all three.
-3. **Who the Savior is, 9 minutes:** Read Isaiah 9:6-7. Invite class members to choose a title and discuss what it teaches them about Jesus Christ. Use one modern teaching if helpful. Add Isaiah 7:14 and Matthew 1:23 only if time permits.
-4. **Return to trust, 5 minutes:** Reread Isaiah 12:2. Ask which promise or title class members want to remember this week. Allow a quiet moment to choose one personal response, then close with your testimony.
+1. **0-4 minutes - Start with a situation:** Someone avoids prayer because they feel embarrassed about their choices. Why might they think they need to improve before returning to God? Allow thinking and partner discussion without personal disclosures.
+2. **4-8 minutes - Discover the invitation:** Briefly explain the disconnect between worship and treatment of others in Isaiah 1. Read verses 16-18. Have students find words that invite them to God and words that ask for change.
+3. **8-14 minutes - Stay with one picture:** Explore scarlet becoming white as snow. What does that contrast suggest about forgiveness and the belief that mistakes define us?
+4. **14-21 minutes - Make it concrete:** Return to the opening situation. If the person has joined in ridiculing someone, what might turning toward God look like tomorrow? Use verses 16-17 to guide suggestions.
+5. **21-25 minutes - Respond privately:** Reread verse 18. Invite students to choose one step toward God now, rather than waiting. Sharing is optional. Close with a brief testimony of Christ's power to help us repent.
 
-If discussion runs long, omit the optional cross-reference or modern quotation and protect the closing five minutes. Temple worship, discernment, service, and gathering remain available for personal study or a future discussion; they are not additional items to squeeze into this class.
+The [full teaching guide](old-testament/38-isaiah-1-12/isaiah-1.md) includes ready-to-use prompts and teacher notes. If discussion runs long, take fewer responses and protect the closing four minutes. Skip extra quotations and chapter summaries; the goal is one understood passage and one remembered invitation.
 
 ## Scriptures to emphasize
 
-For this 25-minute class, prioritize Isaiah 1:16-18, 9:6-7, and 12:2. Isaiah 7:14 with Matthew 1:23 is an optional companion reading. Isaiah 2:2-3, 5:20, 6:8, and 11:10-12 offer additional study on worship, discernment, service, and gathering.
+For this 25-minute class, stay with Isaiah 1:16-18. Read Isaiah 1:11-20 during preparation to keep the invitation in context. Isaiah 2:2-3, 5:20, 6:8, 7:14, 9:6-7, 11:10-12, and 12:2 remain available for personal study, not additional class readings.
 
 This is a teaching shortlist, not a statistical ranking of the passages most often quoted in general conference.
 

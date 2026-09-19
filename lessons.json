@@ -136,6 +136,7 @@
           "subject": "Isaiah 1-12",
           "title": "God Is My Salvation",
           "pages": [
+            { "file": "presentation.md", "title": "Presentation - Come Now" },
             { "file": "isaiah-1.md", "title": "Scarlet to Snow (1)" },
             { "file": "isaiah-2.md", "title": "Come to the Lord's House (2)" },
             { "file": "isaiah-5.md", "title": "Learning to Discern (5)" },

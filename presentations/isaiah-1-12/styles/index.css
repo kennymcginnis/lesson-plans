@@ -1,0 +1,175 @@
+.slidev-layout.lesson {
+	--ink: #242727;
+	--scarlet: #a51c36;
+	--teal: #236b64;
+	background: #fcfcfa;
+	color: var(--ink);
+	padding: 56px 64px;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 27px;
+	line-height: 1.45;
+	letter-spacing: 0;
+}
+
+.slidev-layout.lesson h1,
+.slidev-layout.lesson h2 {
+	font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+	font-weight: 400;
+	letter-spacing: 0;
+}
+
+.slidev-layout.lesson h1 {
+	font-size: 58px;
+	line-height: 1.12;
+	margin: 22px 0 24px;
+}
+
+.slidev-layout.lesson p {
+	margin: 18px 0;
+	opacity: 1;
+}
+
+.slidev-layout.lesson .eyebrow {
+	color: var(--teal);
+	font-size: 19px;
+	font-weight: 700;
+	margin: 0 0 24px;
+}
+
+.slidev-layout.lesson .question {
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 1.35;
+	margin-top: 30px;
+}
+
+.slidev-layout.lesson.opening {
+	background: var(--scarlet);
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.slidev-layout.lesson.opening h1 {
+	font-size: 108px;
+	margin: 0 0 22px;
+}
+
+.slidev-layout.lesson.opening .eyebrow {
+	color: #fff;
+}
+
+.slidev-layout.lesson .subtitle {
+	font-size: 30px;
+	line-height: 1.4;
+}
+
+.slidev-layout.lesson.scripture .verse {
+	font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+	font-size: 32px;
+	line-height: 1.42;
+	margin: 22px 0;
+}
+
+.slidev-layout.lesson .verse-number {
+	color: var(--scarlet);
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 21px;
+	font-weight: 700;
+	margin-right: 10px;
+}
+
+.slidev-layout.lesson.invitation {
+	border-left: 14px solid var(--scarlet);
+}
+
+.slidev-layout.lesson.invitation .verse {
+	font-size: 38px;
+}
+
+.slidev-layout.lesson.snow {
+	position: relative;
+	isolation: isolate;
+	color: #172329;
+}
+
+.slidev-layout.lesson .snow-image {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	z-index: -1;
+}
+
+.slidev-layout.lesson .snow-copy {
+	text-shadow: 0 1px 8px #ffffff90;
+}
+
+.slidev-layout.lesson.snow .eyebrow {
+	color: #172329;
+}
+
+.slidev-layout.lesson.snow h1 {
+	font-size: 76px;
+}
+
+.slidev-layout.lesson.snow .question {
+	position: absolute;
+	bottom: 44px;
+	color: #fff;
+	text-shadow: 0 2px 6px #172329;
+}
+
+.slidev-layout.lesson .contrast-line {
+	font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+	font-size: 48px;
+	line-height: 1.2;
+	margin: 44px 0;
+}
+
+.slidev-layout.lesson .fixed-label {
+	color: var(--scarlet);
+}
+
+.slidev-layout.lesson .actions {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 28px;
+	margin-top: 40px;
+}
+
+.slidev-layout.lesson .actions h2 {
+	color: var(--teal);
+	font-size: 46px;
+	margin: 0;
+}
+
+.slidev-layout.lesson .actions p {
+	font-size: 22px;
+	margin: 10px 0;
+}
+
+.slidev-layout.lesson.closing {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-top: 12px solid var(--teal);
+}
+
+.slidev-layout.lesson.closing h1 {
+	font-size: 60px;
+}
+
+#slidev-goto-dialog:has(#slidev-goto-input:disabled) {
+	visibility: hidden;
+	pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.slidev-vclick-target,
+	.slidev-layout {
+		transition: none !important;
+	}
+}

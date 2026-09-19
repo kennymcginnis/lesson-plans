@@ -74,6 +74,7 @@ window.lessonSearchPaths = [
   "/old-testament/37-proverbs-ecclesiastes/ecclesiastes-12",
   "/old-testament/37-proverbs-ecclesiastes/closing",
   "/old-testament/38-isaiah-1-12/README",
+  "/old-testament/38-isaiah-1-12/presentation",
   "/old-testament/38-isaiah-1-12/isaiah-1",
   "/old-testament/38-isaiah-1-12/isaiah-2",
   "/old-testament/38-isaiah-1-12/isaiah-5",
