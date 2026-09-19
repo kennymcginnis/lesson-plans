@@ -6,7 +6,7 @@
 
 [Read Isaiah 12:2](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/12?lang=eng&id=p2#p2)
 
-## Gather the lesson into one question
+## What will you remember?
 
 What have these chapters helped us trust about Jesus Christ?
 
@@ -18,7 +18,7 @@ What have these chapters helped us trust about Jesus Christ?
 - In Isaiah 11, His work brings righteous rule, gathering, and the promise of a world without hurt.
 - In Isaiah 12, His people respond with trust, joy, and praise.
 
-This is our thematic route through the chapters, not a requirement to discuss every passage in class.
+Which of these promises or invitations matters most to you right now?
 
 ## Questions to sit with
 
@@ -26,12 +26,12 @@ This is our thematic route through the chapters, not a requirement to discuss ev
 - What does that verse invite you to believe about the Savior?
 - What is one small response you can make to His invitation?
 
-Allow a quiet moment to write a private answer. Class members may share a verse or an insight without explaining personal circumstances.
+You can write a private answer or share a verse or insight. You do not need to explain personal circumstances.
 
 ## One invitation for the week
 
 Choose one passage and one response: make a needed repair, prepare for worship, reconsider an excuse, offer a small act of service, welcome someone, or give thanks in prayer. Return to the passage during the week and notice how it shapes that choice.
 
-Close with your own testimony of Jesus Christ and His saving work. A personal witness does not need to answer every historical or symbolic question raised by Isaiah.
+You can grow in trust in Jesus Christ while still having questions about Isaiah's history and symbols.
 
-Return to the [lesson overview](old-testament/38-isaiah-1-12/README.md).
+Return to [God Is My Salvation](old-testament/38-isaiah-1-12/README.md).

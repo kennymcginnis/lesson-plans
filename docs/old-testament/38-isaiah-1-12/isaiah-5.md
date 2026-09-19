@@ -25,11 +25,11 @@ He places the warning in a discussion of preparation for the Savior's return and
 
 ## Examine the names we give our choices
 
-Use an ordinary example: calling a harmful rumor "just being honest," or calling indifference "staying out of it." Ask what the action actually does to another person, not just what the speaker names it.
+Consider calling a harmful rumor "just being honest," or calling indifference "staying out of it." What does the action actually do to another person, regardless of what the speaker calls it?
 
 Then consider the opposite mistake: dismissing kindness as weakness or sincere repentance as hypocrisy. Isaiah's warning goes in both directions.
 
-Avoid turning the discussion into a list of political opponents or supposedly inferior groups. The passage can first ask whether our own words make disobedience easier to excuse.
+Before applying this warning to others, we can ask whether our own words make disobedience easier to excuse.
 
 ## Questions to sit with
 

@@ -19,19 +19,19 @@ Verses 3-4 then ask a separate question about the rod. The answer describes a se
 
 [Read Doctrine and Covenants 113:1-6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/113?lang=eng&id=p1-p6#p1)
 
-### The 2026 Seminary lesson
+### Understanding the symbols
 
 **Curriculum interpretation: Isaiah 11:1-5, 10 and Doctrine and Covenants 113:1-6.** The teacher manual labels the stem or trunk as Jesus Christ and applies the rod and root to Joseph Smith. It connects the imagery with the Savior's latter-day work and the Restoration.
 
-Keep the sources distinct when teaching: D&C 113 explicitly names Christ as the stem; the manual supplies the named application to Joseph Smith for the rod and root. Do not present "Joseph Smith" as a name written in the text of D&C 113 itself.
+D&C 113 explicitly names Christ as the stem. The identification of the rod and root with Joseph Smith comes from the manual's interpretation; D&C 113 itself describes these figures without naming Joseph Smith.
 
 ["Isaiah 11-12: An Ensign for the Nations," Old Testament Seminary Teacher Manual, 2026](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/37-isaiah-1-12/374-isaiah-11-12?lang=eng)
 
 ## Move from identifying symbols to knowing the Savior
 
-After discussing the tree, read verses 2-5 for qualities of righteous rule: wisdom, understanding, righteousness, and faithfulness. Verse 3 contrasts judging by outward appearances with the judgment described in verse 4.
+Read verses 2-5 for qualities of righteous rule: wisdom, understanding, righteousness, and faithfulness. Verse 3 contrasts judging by outward appearances with the judgment described in verse 4.
 
-The purpose of identifying the image is not to win a symbolism quiz. It is to understand the Savior and the work accomplished under His direction.
+Understanding these symbols can help us know the Savior and recognize the work accomplished under His direction.
 
 ## Questions to sit with
 

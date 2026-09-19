@@ -22,8 +22,6 @@ The rest of the chapter also keeps us from assuming that willingness guarantees 
 
 The address cites Abraham 3:27 and adds "see also Isaiah 6:8." Its primary scene is the premortal Savior, not Isaiah's temple vision. The connection is the willingness to offer ourselves to God and His work.
 
-This address is by John C. Pingree Jr., not D. Todd Christofferson.
-
 ["I Have a Work for Thee," October 2017](https://www.churchofjesuschrist.org/study/general-conference/2017/10/i-have-a-work-for-thee?lang=eng)
 
 ### Susan H. Porter - Here Am I, Send Me
@@ -32,7 +30,7 @@ This address is by John C. Pingree Jr., not D. Todd Christofferson.
 
 > "Heavenly Father can provide miracles when you simply offer what you have."
 
-Her examples include comforting someone who is lonely, helping family, and teaching someone to pray. She also explains that children do not need to solve every problem around them. That combination of willingness and appropriate limits is useful for adults too.
+Her examples include comforting someone who is lonely, helping family, and teaching someone to pray. She also explains that children do not need to solve every problem around them. We can offer what we have without expecting ourselves to fix everything.
 
 ["Here Am I, Send Me," April 2026](https://www.churchofjesuschrist.org/study/general-conference/2026/04/54porter?lang=eng)
 

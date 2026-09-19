@@ -10,7 +10,7 @@
 
 Verse 2 describes light reaching people who walk in darkness. Verses 6-7 describe the promised Son and His reign of judgment, justice, and peace. Read the birth announcement with the promise of His government; Isaiah's vision reaches beyond the manger.
 
-Invite the class to choose one title and consider what it teaches about Jesus Christ. "Counsellor" suggests someone whose guidance we can seek. "The mighty God" directs us to His divine power. "The Prince of Peace" connects His rule with the peace we cannot fully create ourselves.
+Choose one title and consider what it teaches you about Jesus Christ. "Counsellor" suggests someone whose guidance we can seek. "The mighty God" directs us to His divine power. "The Prince of Peace" connects His rule with the peace we cannot fully create ourselves.
 
 These are prompts for reflection, not exhaustive definitions of the titles. Isaiah's title "The everlasting Father" should not be used to erase the distinction between Heavenly Father and His Son. Mosiah 5:7 offers a related scriptural image: becoming Christ's sons and daughters through covenant and spiritual rebirth.
 
@@ -42,9 +42,25 @@ His use of the verse centers faith on the living Son of God, not merely on admir
 
 > "I love the Lord Jesus Christ."
 
-The titles become words of personal witness. As a class application, consider how the words we use about the Savior can express what we have come to trust about Him.
+The titles become words of personal witness. Consider how the words you use about the Savior can express what you have come to trust about Him.
 
 ["Words Matter," April 2024](https://www.churchofjesuschrist.org/study/general-conference/2024/04/41rasband?lang=eng)
+
+## Light comes into the darkness
+
+Read Isaiah 8:22 alongside Isaiah 9:1-2. The chapter boundary can hide the contrast: anguish and darkness are followed by a promise of light. The video emphasizes this movement from distress to hope. Isaiah does not pretend the darkness is imaginary; he announces that it will not have the final word.
+
+Then read Isaiah 9:6-7. The promised ruler is introduced as a child, yet His reign reaches toward enduring justice and peace. These familiar Christmas words belong within a much larger hope for the world.
+
+- How does the promise sound different when you read it after the end of chapter 8?
+- Which title of the Savior would you want to remember during a difficult week, and why?
+- What might help you recognize a reason for hope without pretending everything is already resolved?
+
+## From a promise to a song
+
+The video pairs these promises with Isaiah 12's song of gratitude. Try reading Isaiah 9:6-7 and then Isaiah 12:1-6. What happens between needing rescue and being able to give thanks for it? Which words in the song describe something you hope to experience more fully?
+
+Continue that reflection in [Isaiah 12 - I Will Trust and Not Be Afraid](old-testament/38-isaiah-1-12/isaiah-12.md).
 
 ## Questions to sit with
 

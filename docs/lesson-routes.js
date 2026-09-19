@@ -77,6 +77,7 @@ window.lessonSearchPaths = [
   "/old-testament/38-isaiah-1-12/presentation",
   "/old-testament/38-isaiah-1-12/isaiah-1",
   "/old-testament/38-isaiah-1-12/isaiah-2",
+  "/old-testament/38-isaiah-1-12/isaiah-3-4",
   "/old-testament/38-isaiah-1-12/isaiah-5",
   "/old-testament/38-isaiah-1-12/isaiah-6",
   "/old-testament/38-isaiah-1-12/isaiah-7",

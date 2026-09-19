@@ -1,13 +1,11 @@
 # Come Now
 
-Isaiah 1:16-18 | A 25-minute lesson for teens
+Isaiah 1:16-18
 
 [Open the presentation](presentations/isaiah-1-12/index.html ':ignore')
 
-[Open presenter view](presentations/isaiah-1-12/index.html#/presenter/1 ':ignore')
+You do not have to wait until you are better to turn to God. Explore Isaiah's invitation through the slides or read [Scarlet to Snow](old-testament/38-isaiah-1-12/isaiah-1.md).
 
-The slides follow the five timed sections of the [teaching guide](old-testament/38-isaiah-1-12/isaiah-1.md). Presenter notes include timing, discussion prompts, and reminders to keep personal responses private. Notes are included in the published presentation; do not add confidential information.
+As you reflect, consider one step toward God you can take now. Personal responses can stay private.
 
-Use the arrow keys to move through the slides. Presenter view keeps teaching notes separate from the projected slide; open its audience window for the class.
-
-[Return to this week's lesson](old-testament/38-isaiah-1-12/README.md)
+[Return to God Is My Salvation](old-testament/38-isaiah-1-12/README.md)

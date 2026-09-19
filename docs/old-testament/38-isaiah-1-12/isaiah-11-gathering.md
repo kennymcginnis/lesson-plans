@@ -20,7 +20,7 @@ This is more than a modern thematic resemblance. Isaiah 11 was explicitly part o
 
 [Read Joseph Smith-History 1:40](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p40#p40)
 
-### The 2026 Seminary lesson
+### The latter-day gathering
 
 **Curriculum interpretation: Isaiah 11:10-12.** The teacher manual identifies the recovery in verse 11 with the latter-day gathering of Israel. It connects the ensign in verse 12 with the restored Church, including its ordinances and covenants, and teaches:
 
