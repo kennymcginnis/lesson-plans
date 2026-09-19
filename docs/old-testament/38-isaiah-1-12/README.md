@@ -32,8 +32,6 @@ Read Isaiah's images in their surrounding verses before applying them to our liv
 
 ## Pictures to explore with the video
 
-The [video discussion of Isaiah 1-12](https://www.youtube.com/watch?v=9NdaZW7MJWo) approaches Isaiah through memorable images of God's character. These pages develop several of its reflections, with links to the relevant moments:
-
 - **Isaiah 2:** Swords become farming tools. How could an ability once used to hurt someone become a way to help?
 - **Isaiah 3-4:** Outward splendor gives way to a promise of cleansing and refuge. Where do we seek worth and security?
 - **Isaiah 7-8:** Immanuel is named amid fear and overwhelming danger. What does God's presence mean before a problem is resolved?

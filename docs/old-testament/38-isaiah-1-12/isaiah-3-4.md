@@ -10,8 +10,6 @@ Keep those scenes together. The chapter's concerns include pride, injustice, and
 
 The video uses the long list of accessories as a starting point for a personal question: what do we rely on to feel impressive, accepted, or protected from being known? That is a reflective application, not a claim that each accessory has a hidden spiritual meaning.
 
-[Watch the discussion of Isaiah 3-4](https://www.youtube.com/watch?v=9NdaZW7MJWo&t=2346s).
-
 ## When being impressive feels safer than being honest
 
 Imagine someone who always plays the expert because admitting confusion feels embarrassing. Or someone whose online life looks effortless, even while they feel lonely. These are examples of how an outward image can become something we feel we must maintain.
@@ -44,6 +42,6 @@ The video connects these scenes as a contrast between the security we try to con
 - Where have you found a place to seek help without having to pretend?
 - How could you make it easier for someone else to feel safe, included, and respected?
 
-[Read Exodus 13:21-22](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=eng&id=p21-p22#p21). [Watch the discussion of cleansing and refuge](https://www.youtube.com/watch?v=9NdaZW7MJWo&t=2707s).
+[Read Exodus 13:21-22](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=eng&id=p21-p22#p21). 
 
 Continue with [Isaiah 5 - Learning to Discern](old-testament/38-isaiah-1-12/isaiah-5.md).
