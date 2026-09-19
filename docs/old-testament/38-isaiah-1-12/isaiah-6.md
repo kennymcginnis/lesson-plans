@@ -34,6 +34,46 @@ Her examples include comforting someone who is lonely, helping family, and teach
 
 ["Here Am I, Send Me," April 2026](https://www.churchofjesuschrist.org/study/general-conference/2026/04/54porter?lang=eng)
 
+## What do you expect God to do?
+
+Imagining the scene before explaining its symbols. Try reading verses 1-5 that way: a throne, a temple filled with the Lord's train, voices declaring His holiness, shaking doorposts, and smoke. Here, "train" means the trailing part of a robe.
+
+What would you notice first? Which detail helps you understand why Isaiah responds with such alarm?
+
+Isaiah identifies himself as a person of unclean lips among a people of unclean lips. The speakers imagine that he feels he does not belong in such a holy place. That is their way of entering the scene; the text directly records his distress and acknowledgment of uncleanness.
+
+Before reading further, ask: **what do you expect to happen when someone admits their need before God?** Then read verses 6-7. What actually happens?
+
+## The surprise is cleansing
+
+A seraph brings a live coal from the altar to Isaiah's lips. The message is that his iniquity is taken away and his sin purged. The place he names as unclean becomes the place where he receives cleansing.
+
+David imagines expecting punishment and instead encountering God's redeeming love. Isaiah does not state that he thought the coal would destroy him, so that expectation is a reflective question, not an extra event in the story.
+
+Now compare Isaiah's words in verse 5 with his response in verse 8. What happened between his distress and his willingness to go? He receives cleansing before he offers himself for service. His usefulness does not depend on a past without mistakes.
+
+- What difference is there between recognizing a wrong and deciding you can never be useful to God?
+- Why might receiving help make someone more willing to help others?
+- What does this scene help you trust about the Lord?
+
+[Watch the discussion of cleansing and willingness](https://www.youtube.com/watch?v=6KGWt8ilFao&t=3435s).
+
+## A connection with the sacrament
+
+David describes how the scene reminded him of entering sacrament meeting feeling unworthy, then receiving symbols of Christ's sacrifice. This is his personal devotional comparison, not a claim that Isaiah 6 is directly describing the sacrament or that taking the sacrament automatically removes sin.
+
+In our own worship, we can remember Jesus Christ, repent, and renew our willingness to follow Him. You do not need to announce private mistakes to explore what His mercy means. What could help you approach worship as an opportunity to turn toward Him rather than a performance of already being perfect?
+
+[Watch David's sacrament reflection](https://www.youtube.com/watch?v=6KGWt8ilFao&t=3651s).
+
+## Willing does not mean everything becomes easy
+
+Read verses 9-13 as well as verse 8. Isaiah's commission includes difficult words about people not understanding and devastation ahead. These verses are more sobering than a promise that everyone will welcome his message.
+
+The video draws a personal invitation to keep sharing what we have learned of Christ. We can do that patiently and respectfully, without pressuring others or measuring our faith by their response. A sincere witness can also be a small act of care or an honest statement of something we are still learning.
+
+Privately finish one thought: **"Something I am beginning to understand about Jesus Christ is..."** Questions and unfinished understanding are welcome too.
+
 ## Questions to sit with
 
 - What difference does it make that Isaiah receives cleansing before volunteering?

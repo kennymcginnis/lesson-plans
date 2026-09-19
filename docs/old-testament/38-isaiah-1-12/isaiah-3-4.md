@@ -10,6 +10,18 @@ Keep those scenes together. The chapter's concerns include pride, injustice, and
 
 The video uses the long list of accessories as a starting point for a personal question: what do we rely on to feel impressive, accepted, or protected from being known? That is a reflective application, not a claim that each accessory has a hidden spiritual meaning.
 
+## Try seeing the whole picture
+
+Drawing the imagery helps them notice a movement through three scenes. You could sketch objects or write a few words in three spaces:
+
+1. **Splendor, Isaiah 3:16-23:** Notice the accumulation of finery. What impression does the long list create?
+2. **Loss, Isaiah 3:24-26:** Notice the reversals and the city's mourning. What once seemed secure?
+3. **Refuge, Isaiah 4:2-6:** Notice cleansing, shelter, and the Lord's protection. How is this different from the first scene?
+
+You do not need to draw a person's body or judge anyone's appearance. Keep Isaiah 3:13-15's concern for people harmed by injustice in view. The images of devastation are not a reason to assume that someone experiencing poverty, illness, or loss has done something wrong.
+
+The video uses these scenes to ask what we want to depend on for security. What can admiration offer, and what can it never guarantee? What does the final picture invite you to seek from God?
+
 ## When being impressive feels safer than being honest
 
 Imagine someone who always plays the expert because admitting confusion feels embarrassing. Or someone whose online life looks effortless, even while they feel lonely. These are examples of how an outward image can become something we feel we must maintain.

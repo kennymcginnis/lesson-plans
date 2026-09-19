@@ -62,6 +62,16 @@ The video pairs these promises with Isaiah 12's song of gratitude. Try reading I
 
 Continue that reflection in [Isaiah 12 - I Will Trust and Not Be Afraid](old-testament/38-isaiah-1-12/isaiah-12.md).
 
+## Let one unfamiliar place become meaningful
+
+Begin with the unfamiliar places in Isaiah 9:1. Zebulun and Naphtali were northern Israelite territories affected by Assyrian conquest; compare 2 Kings 15:29. The promise of light addresses people in a setting of real danger and loss.
+
+Try reading Isaiah 9:1-2 in the King James Version alongside another translation, then read Matthew 4:12-16. Matthew connects this passage with Jesus' ministry in Galilee. How does knowing something about the place change the way you hear the promise?
+
+Now return to verses 6-7. What would a ruler characterized by wisdom, justice, and peace mean to people unsure whom they could trust? That question can help the familiar Christmas words become more than a list of titles.
+
+[Read 2 Kings 15:29](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=eng&id=p29#p29). [Read Matthew 4:12-16](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng&id=p12-p16#p12).
+
 ## Questions to sit with
 
 - Which title helps you understand something you need from the Savior?

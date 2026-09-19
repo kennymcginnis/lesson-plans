@@ -96,6 +96,19 @@ This is her explanation of Isaiah's imagery, not a claim that human effort can a
 
 ["Christ: The Light That Shines in Darkness," April 2019](https://www.churchofjesuschrist.org/study/general-conference/2019/04/42eubank?lang=eng)
 
+## Trace the movement toward hope
+
+We suggest looking for a problem, a consequence, a cure, and hope. This is a reading tool, not a formula every passage has to follow.
+
+Try it with Isaiah 1:11-20. Write four headings and place a phrase from the passage under each. Some phrases may fit more than one heading.
+
+- **Problem:** What does verses 11-15's description of worship reveal when read beside the people's conduct?
+- **Consequence:** What does the Lord say about their offerings and prayers? What warning appears in verse 20?
+- **Cure:** Which actions in verses 16-17 would change how people live together?
+- **Hope:** What does verse 18 promise? What response is invited in verse 19?
+
+Which part would you miss if you read only the warning, or only the promise? The invitation to return holds accountability and mercy together.
+
 ## Questions to sit with
 
 - What changes when we read the promise in verse 18 alongside the responsibilities in verse 17?

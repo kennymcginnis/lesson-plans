@@ -29,6 +29,16 @@ Our present efforts cannot produce the whole promised world. Still, Christ's pro
 
 Peace is not asking someone to remain in danger or pretend that mistreatment is acceptable. Protecting people from harm fits the vision of verse 9.
 
+## A place where nobody has to be a target
+
+Notice more than unusual animal pairings. See a picture of life without predation, fear, or people being treated as disposable. This personal application does not replace Isaiah's promise of the Savior's future peace.
+
+Imagine a group chat where nobody becomes the target everyone bonds over mocking. Or a school friendship where being accepted does not depend on excluding someone else. Which habits would have to change for those places to become safer?
+
+Verse 9 links the absence of harm with knowledge of the Lord. Read verses 2-5 for the qualities of His rule, then ask: **if we are learning to know Him, what might someone experience differently in the way we treat them?** Knowing facts about Christ is not the same as allowing His character to shape our actions.
+
+Verse 12 adds the gathering of people described as outcasts. The video connects gathering with helping others come to know Christ. What would an invitation look like that communicates belonging rather than pressure? Respecting someone's choice and protecting them from harm remain important.
+
 ## Questions to sit with
 
 - Which detail of Isaiah's picture helps you feel the difference between this world and the world he describes?

@@ -50,6 +50,18 @@ Verse 3 gives us a place to start: people want to learn God's ways and walk in H
 
 Some conflicts in families or across the world are beyond our ability to resolve alone. Verse 4 places the hope for lasting peace in the Lord, not in our ability to fix everything. What is one peaceful choice within your reach while you trust Him with what is not?
 
+## Two pictures of security
+
+Read verses 6-8, then verses 2-5. Make two short lists: what fills the land in the first scene, and what people seek in the second?
+
+The first includes wealth, military resources, and idols made by human hands. The second shows people coming to learn from the Lord and moving toward peace. Verse 8 concerns worship of handmade idols, not a condemnation of work or creativity themselves.
+
+As a personal application, imagine someone who needs to be the richest, most admired, or most powerful person in a group to feel secure. How might the invitation to learn, walk in God's light, and make peace change that goal?
+
+Read verses 17-21 as well. Human pride and idols do not retain their importance before the Lord's majesty. The video asks what discovering God's goodness might make us willing to stop treating as ultimate.
+
+**What would draw you toward God beyond the fear of breaking a rule?** Look for an answer in the promise of verse 4, not just in an imagined list of restrictions.
+
 ## Questions to sit with
 
 - What does the phrase "he will teach us" suggest about our attitude toward worship?

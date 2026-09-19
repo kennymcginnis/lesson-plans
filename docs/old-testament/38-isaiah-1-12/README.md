@@ -50,6 +50,22 @@ These pages explore selected passages. As you read Isaiah 1-12, keep the surroun
 
 Come, Follow Me invites us to consider Isaiah's day, the Savior's mortal ministry, and the latter days. Some prophecies have multiple fulfillments; these categories help us ask questions without forcing every image into only one setting.
 
+## A place to start when Isaiah feels difficult
+
+Begin with what Isaiah helps us learn about Jesus Christ. You do not have to solve every symbol before a passage can matter to you.
+
+Read [2 Nephi 25:1-8](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p1-p8#p1). Nephi acknowledges that Isaiah was difficult for his people. He points to prophetic language, the Spirit, historical knowledge, and the fulfillment of prophecy as helps to understanding.
+
+Try one of these approaches rather than doing all of them at once:
+
+1. **Look for Christ's character.** In Isaiah 12, find one thing the Lord does and one reason someone might trust Him.
+2. **Notice counsel and warnings.** In Isaiah 1:11-20, look for the problem, its consequences, the invitation to change, and the promise of hope.
+3. **Consider relevance without erasing context.** In Isaiah 2, compare trust in possessions and power with learning the Lord's ways. Ask about your own choices before labeling other people.
+4. **Read prayerfully.** Ask for help to understand and respond. Confusing words are not evidence of weak faith; questions and careful study belong here too.
+5. **Use a study aid for one obstacle.** Look up an unfamiliar word, follow a footnote, or compare a passage with the ESV or NIV. Translations and commentaries involve interpretation; compare their explanations with the surrounding verses.
+
+For a story to explore, turn to [Isaiah 6](old-testament/38-isaiah-1-12/isaiah-6.md). Read verses 1-5, pause to imagine what might happen next, then read verses 6-8. **What changes between Isaiah's distress and his willingness to serve?**
+
 ## As you read
 
 - What picture or phrase stands out to you?

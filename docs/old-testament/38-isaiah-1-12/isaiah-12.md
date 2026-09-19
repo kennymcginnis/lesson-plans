@@ -53,6 +53,20 @@ Gratitude and unresolved sorrow can exist together. This is not a test of whethe
 
 The speakers also reflect on a future when today's suffering no longer defines life. That is a hope in God's completed redeeming work, not a promise that every difficulty will disappear on our preferred schedule. Isaiah 12:6 centers the joy in the Holy One of Israel being among His people. Compare that with [Immanuel, God with Us](old-testament/38-isaiah-1-12/isaiah-7.md): His presence matters now as well as in the future.
 
+## Build a picture of Christ from the words
+
+Read for the Lord's character before trying to explain every detail. Read all six verses and make two short lists: **what the Lord does** and **how His people respond**. Keep the verse number beside each discovery.
+
+For example, verse 1 describes comfort; verse 2 speaks of salvation and strength; verse 6 celebrates His presence. Praise, trust, joy, and declaring His works are responses. Keeping those lists distinct helps us see both God's action and the relationship it invites.
+
+Choose one image to explore:
+
+- **Strength:** What kind of help might someone need even when their circumstances cannot change immediately?
+- **Song:** What can a meaningful song do for you that a list of instructions cannot? Why might someone call the Lord their song?
+- **Presence:** How is being accompanied different from being handed a solution and left alone?
+
+The speakers ask what draws our hearts toward God, not merely what rules we associate with religion. Which discovery in the passage gives you a reason to want to know Him better? You can answer from the words themselves; a dramatic personal experience is not required.
+
 ## Questions to sit with
 
 - What changes between the fear in Isaiah 7 and the trust expressed here?

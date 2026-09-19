@@ -1,6 +1,7 @@
 import { expect, test } from '@playwright/test'
 
 const deckPath = '/presentations/isaiah-1-12/index.html'
+const slideCount = 18
 
 test('closed slide navigation stays hidden and remains usable when opened', async ({ page }) => {
 	await page.goto(`${deckPath}#/1`)
@@ -29,12 +30,12 @@ test('closed slide navigation stays hidden and remains usable when opened', asyn
 	await expect(dialog.getByRole('button')).toHaveCount(0)
 })
 
-test('all ten slides fit, load local assets, navigate, and expose presenter notes', async ({ page }, testInfo) => {
+test('all slides fit, load local assets, navigate, and expose presenter notes', async ({ page }, testInfo) => {
 	const errors = []
 	page.on('pageerror', error => errors.push(error.message))
 	await page.goto(`${deckPath}#/1`)
 
-	for (let slideNumber = 1; slideNumber <= 10; slideNumber++) {
+	for (let slideNumber = 1; slideNumber <= slideCount; slideNumber++) {
 		await page.goto(`${deckPath}#/${slideNumber}`)
 		const slide = page.locator(`.slidev-page-${slideNumber} .slidev-layout`)
 		await expect(slide).toBeVisible()
@@ -63,21 +64,23 @@ test('all ten slides fit, load local assets, navigate, and expose presenter note
 			)
 		}
 
-		if ([1, 3, 5, 10].includes(slideNumber)) {
+		if ([1, 3, 5, 10, 11, 13, 15, 17, 18].includes(slideNumber)) {
 			await page.mouse.move(0, 0)
 			await page.screenshot({ path: testInfo.outputPath(`slide-${slideNumber}.png`) })
 		}
 	}
 
 	await page.keyboard.press('ArrowLeft')
-	await expect(page).toHaveURL(/#\/9$/)
+	await expect(page).toHaveURL(new RegExp(`#/${slideCount - 1}$`))
 	await page.keyboard.press('ArrowRight')
-	await expect(page).toHaveURL(/#\/10$/)
+	await expect(page).toHaveURL(new RegExp(`#/${slideCount}$`))
 	await page.reload()
-	await expect(page.locator('.slidev-page-10 .slidev-layout')).toBeVisible()
+	await expect(page.locator(`.slidev-page-${slideCount} .slidev-layout`)).toBeVisible()
 
 	await page.goto(`${deckPath}#/presenter/1`)
 	await expect(page.getByText('0-4 minutes, slides 1-2: Start with a situation.', { exact: false })).toBeVisible()
+	await page.goto(`${deckPath}#/presenter/11`)
+	await expect(page.getByText('Alternative path, 0-4 minutes:', { exact: false })).toBeVisible()
 	expect(errors).toEqual([])
 })
 
