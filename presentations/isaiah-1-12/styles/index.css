@@ -151,6 +151,91 @@
 	margin: 10px 0;
 }
 
+.slidev-layout.lesson.comparison h1 {
+	font-size: 50px;
+	margin: 12px 0 20px;
+}
+
+.slidev-layout.lesson .comparison-columns {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 36px;
+}
+
+.slidev-layout.lesson .comparison-columns section {
+	min-width: 0;
+	border-top: 3px solid var(--scarlet);
+	padding-top: 12px;
+}
+
+.slidev-layout.lesson .comparison-columns section + section {
+	border-color: var(--teal);
+}
+
+.slidev-layout.lesson .comparison-columns h2 {
+	font-size: 30px;
+	line-height: 1.2;
+	margin: 0;
+}
+
+.slidev-layout.lesson .comparison-columns .reference {
+	font-size: 18px;
+	margin: 4px 0 10px;
+}
+
+.slidev-layout.lesson .comparison-columns ul {
+	font-size: 22px;
+	line-height: 1.4;
+	margin: 0;
+	padding-left: 24px;
+}
+
+.slidev-layout.lesson .comparison-columns li {
+	margin: 2px 0;
+	padding: 0;
+}
+
+.slidev-layout.lesson.comparison .question {
+	font-size: 26px;
+	margin: 20px 0 0;
+}
+
+.slidev-layout.lesson.wardrobe {
+	padding: 44px 56px;
+}
+
+.slidev-layout.lesson.wardrobe .eyebrow {
+	margin-bottom: 16px;
+}
+
+.slidev-layout.lesson.wardrobe h1 {
+	font-size: 48px;
+	margin: 12px 0 22px;
+}
+
+.slidev-layout.lesson .wardrobe-items {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 26px;
+}
+
+.slidev-layout.lesson .wardrobe-items ul {
+	font-size: 22px;
+	line-height: 1.35;
+	margin: 0;
+	padding-left: 24px;
+}
+
+.slidev-layout.lesson .wardrobe-items li {
+	margin: 4px 0;
+	padding: 0;
+}
+
+.slidev-layout.lesson.wardrobe .question {
+	font-size: 26px;
+	margin: 20px 0 0;
+}
+
 .slidev-layout.lesson.closing {
 	display: flex;
 	flex-direction: column;

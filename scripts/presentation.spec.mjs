@@ -1,7 +1,7 @@
 import { expect, test } from '@playwright/test'
 
 const deckPath = '/presentations/isaiah-1-12/index.html'
-const slideCount = 18
+const slideCount = 19
 
 test('closed slide navigation stays hidden and remains usable when opened', async ({ page }) => {
 	await page.goto(`${deckPath}#/1`)
@@ -42,7 +42,7 @@ test('all slides fit, load local assets, navigate, and expose presenter notes', 
 		await expect.poll(() => slide.evaluate(element => element.getBoundingClientRect().width)).toBeGreaterThan(0)
 		const overflow = await slide.evaluate(element => {
 			const bounds = element.getBoundingClientRect()
-			return [...element.querySelectorAll('h1, h2, p')]
+			return [...element.querySelectorAll('h1, h2, p, li')]
 				.filter(child => {
 					const rect = child.getBoundingClientRect()
 					return (
@@ -64,7 +64,13 @@ test('all slides fit, load local assets, navigate, and expose presenter notes', 
 			)
 		}
 
-		if ([1, 3, 5, 10, 11, 13, 15, 17, 18].includes(slideNumber)) {
+		if (slideNumber === 12) {
+			await expect(slide.locator('.wardrobe-items ul')).toHaveCount(3)
+			await expect(slide.locator('.wardrobe-items li')).toHaveCount(21)
+			await expect(slide.locator('.eyebrow')).toContainText('World English Bible (WEB)')
+		}
+
+		if ([1, 3, 5, 10, 11, 12, 14, 16, 18, 19].includes(slideNumber)) {
 			await page.mouse.move(0, 0)
 			await page.screenshot({ path: testInfo.outputPath(`slide-${slideNumber}.png`) })
 		}
@@ -79,7 +85,7 @@ test('all slides fit, load local assets, navigate, and expose presenter notes', 
 
 	await page.goto(`${deckPath}#/presenter/1`)
 	await expect(page.getByText('0-4 minutes, slides 1-2: Start with a situation.', { exact: false })).toBeVisible()
-	await page.goto(`${deckPath}#/presenter/11`)
+	await page.goto(`${deckPath}#/presenter/14`)
 	await expect(page.getByText('Alternative path, 0-4 minutes:', { exact: false })).toBeVisible()
 	expect(errors).toEqual([])
 })

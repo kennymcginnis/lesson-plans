@@ -15,7 +15,7 @@ Starting the preview rebuilds navigation and the presentation automatically. The
 
 ## Presentations
 
-This week's sidebar includes **Presentation - Come Now**, an eighteen-slide [Slidev](https://sli.dev) deck with two alternative 25-minute paths: Isaiah 1:16-18 (slides 1-10), or Isaiah 6 with an Isaiah 12 reflection (slides 11-15). Slides 16-18 offer optional studies of Isaiah 2, 3-4, and 11. Choose one path rather than trying to cover everything. The student-facing presentation page links directly to these sections; timing and discussion guidance remain in Slidev's presenter notes.
+This week's sidebar includes **Presentation - Come Now**, a nineteen-slide [Slidev](https://sli.dev) deck arranged in chapter order: Isaiah 1, 2, 3-4, 6, 11, and 12. There are two alternative 25-minute paths: Isaiah 1:16-18 (slides 1-10), or Isaiah 6 (slides 14-17) with an Isaiah 12 reflection (slide 19). Slides 11-13 and 18 offer optional studies of Isaiah 2, 3-4, and 11. The Isaiah 3 clothing and accessories list uses the public-domain World English Bible. Choose one path rather than trying to cover everything. The student-facing presentation page links directly to these sections; timing and discussion guidance remain in Slidev's presenter notes.
 
 Edit [presentations/isaiah-1-12/slides.md](presentations/isaiah-1-12/slides.md) and preview changes live:
 
@@ -35,7 +35,7 @@ Keep the generated presentation with the other generated docs when publishing th
 
 The snow photograph is bundled locally from [Unsplash](https://images.unsplash.com/photo-1454496522488-7a8e488e8606), and the deck uses local system fonts. After building, the slides need no external image or font services. Slidev 51.8.2 is pinned because the configured package registry quarantines a dependency in version 53; do not bypass registry restrictions when upgrading.
 
-Run `npm run test:slides` for desktop/mobile browser checks. Install the test browser once with `npx playwright install chromium`, or use an installed Chrome with `PLAYWRIGHT_CHANNEL=chrome npm run test:slides`. The check starts its own preview on port 3002, verifies all eighteen slides and their launch links, and saves screenshots in the ignored `test-results/` folder. `npm test` remains the fast navigation and scripture-formatting check.
+Run `npm run test:slides` for desktop/mobile browser checks. Install the test browser once with `npx playwright install chromium`, or use an installed Chrome with `PLAYWRIGHT_CHANNEL=chrome npm run test:slides`. The check starts its own preview on port 3002, verifies all nineteen slides and their launch links, and saves screenshots in the ignored `test-results/` folder. `npm test` remains the fast navigation and scripture-formatting check.
 
 ## Select This Week
 

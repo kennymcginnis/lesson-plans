@@ -17,8 +17,8 @@ A reader might expect Isaiah to be rejected because he acknowledges his uncleann
 
 </details>
 
-[Explore Isaiah 6 in the slides](presentations/isaiah-1-12/index.html#/11 ':ignore') or read [Here Am I; Send Me](old-testament/38-isaiah-1-12/isaiah-6.md). Follow the movement from Isaiah's distress to cleansing and willingness, then consider what Isaiah 12 teaches about the Lord's character.
+[Explore Isaiah 6 in the slides](presentations/isaiah-1-12/index.html#/14 ':ignore') or read [Here Am I; Send Me](old-testament/38-isaiah-1-12/isaiah-6.md). Follow the movement from Isaiah's distress to cleansing and willingness, then consider what [Isaiah 12](presentations/isaiah-1-12/index.html#/19 ':ignore') teaches about the Lord's character.
 
-Further slides explore [security in Isaiah 2](presentations/isaiah-1-12/index.html#/16 ':ignore'), [splendor and refuge in Isaiah 3-4](presentations/isaiah-1-12/index.html#/17 ':ignore'), and [a world without hurt in Isaiah 11](presentations/isaiah-1-12/index.html#/18 ':ignore').
+The slides follow chapter order, including [security in Isaiah 2](presentations/isaiah-1-12/index.html#/11 ':ignore'), [clothing and accessories in Isaiah 3](presentations/isaiah-1-12/index.html#/12 ':ignore'), [splendor and refuge in Isaiah 3-4](presentations/isaiah-1-12/index.html#/13 ':ignore'), and [a world without hurt in Isaiah 11](presentations/isaiah-1-12/index.html#/18 ':ignore').
 
 [Return to God Is My Salvation](old-testament/38-isaiah-1-12/README.md)

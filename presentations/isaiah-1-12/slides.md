@@ -38,8 +38,8 @@ class: lesson opening
 Introduce the invitation briefly, then move to the scenario. Do not begin with a chapter survey.
 This week's reading is Isaiah 1-12, but today's class stays with one passage and one principle.
 All timings include scripture reading and student responses. Protect minutes 21-25 for the closing.
-Alternative: start at slide 11 for a complete 25-minute Isaiah 6 discussion ending with Isaiah 12 on slide 15.
-Slides 16-18 are optional studies, not extra content to squeeze into either path.
+Alternative: start at slide 14 for a complete 25-minute Isaiah 6 discussion, using slides 14-17 and ending with Isaiah 12 on slide 19.
+Slides 11-13 and 18 are optional studies, not extra content to squeeze into either path. The deck is arranged in chapter order.
 -->
 
 ---
@@ -219,6 +219,124 @@ Leave this question on screen as you close. The lesson ends here.
 -->
 
 ---
+class: lesson comparison
+title: What makes us secure?
+---
+
+<p class="eyebrow">Isaiah 2:2-8</p>
+
+# What makes us secure?
+
+<div class="comparison-columns">
+<section>
+<h2>What fills the land</h2>
+<p class="reference">Isaiah 2:6-8</p>
+<ul>
+<li>Soothsaying and divination</li>
+<li>Silver, gold, and treasures</li>
+<li>Horses and chariots</li>
+<li>Idols made by human hands</li>
+</ul>
+</section>
+<section>
+<h2>What people seek</h2>
+<p class="reference">Isaiah 2:2-5</p>
+<ul>
+<li>The house of the Lord</li>
+<li>His teaching and His paths</li>
+<li>Peace instead of war</li>
+<li>Walking in the Lord's light</li>
+</ul>
+</section>
+</div>
+
+<p class="question">What would draw you toward God<br>beyond the fear of breaking a rule?</p>
+
+<!--
+Optional standalone discussion. Read both passages and compare them with the two columns. These points summarize the verses rather than quote them.
+Soothsaying refers to divination, seeking knowledge through practices condemned here by Isaiah.
+Verse 8 describes worship of handmade idols, not a condemnation of employment or creativity.
+Apply the warning to our own priorities, not supposedly inferior groups outside the Church.
+Ask what the promised peace offers that status and possessions cannot guarantee.
+-->
+
+---
+class: lesson wardrobe
+title: The finery of the daughters of Zion
+---
+
+<p class="eyebrow">Isaiah 3:18-23 | World English Bible (WEB)</p>
+
+# Clothing, jewelry, and accessories
+
+<div class="wardrobe-items">
+<ul>
+<li>Anklets</li>
+<li>Headbands</li>
+<li>Crescent necklaces</li>
+<li>Earrings</li>
+<li>Bracelets</li>
+<li>Veils</li>
+<li>Headdresses</li>
+</ul>
+<ul>
+<li>Ankle chains</li>
+<li>Sashes</li>
+<li>Perfume containers</li>
+<li>Charms</li>
+<li>Signet rings</li>
+<li>Nose rings</li>
+<li>Fine robes</li>
+</ul>
+<ul>
+<li>Capes</li>
+<li>Cloaks</li>
+<li>Purses</li>
+<li>Hand mirrors</li>
+<li>Fine linen garments</li>
+<li>Tiaras</li>
+<li>Shawls</li>
+</ul>
+</div>
+
+<p class="question">What impression does this long list create?</p>
+
+<!--
+Optional introduction to the Isaiah 3-4 comparison on the next slide.
+Item names are extracted in verse order from Isaiah 3:18-23, World English Bible (public domain), with capitalization adjusted for the list.
+This includes things worn and carried. The passage describes the daughters of Zion collectively, not a named girl or a required outfit.
+Some ancient item names are uncertain, so translations differ. A signet ring bears a seal used to identify or authorize something; a sash is a band worn around the waist or over the shoulder.
+Read Isaiah 3:13-16 for the context of injustice and pride. The point is not to judge classmates' clothing, bodies, or jewelry.
+Possible observation: the accumulation suggests wealth, display, and status. Then compare what is lost in 3:24-26 with the refuge promised in 4:2-6.
+Source: https://www.biblegateway.com/passage/?search=Isaiah%203%3A18-23&version=WEB
+-->
+
+---
+class: lesson response
+title: Three pictures of security
+---
+
+<p class="eyebrow">Isaiah 3-4</p>
+
+# What can we depend on?
+
+<div class="actions">
+<div><h2>Splendor.</h2><p>Isaiah 3:16-23</p></div>
+<div><h2>Loss.</h2><p>Isaiah 3:24-26</p></div>
+<div><h2>Refuge.</h2><p>Isaiah 4:2-6</p></div>
+</div>
+
+<p class="question">How is being cared for<br>different from being admired?</p>
+
+<!--
+Optional visual exercise. Students can sketch objects or record words for each scene.
+Keep Isaiah 3:13-15's condemnation of oppression in context. Do not draw caricatures of girls or scrutinize students' clothing or bodies.
+Do not equate illness, poverty, insecurity, or loss with personal wrongdoing.
+Compare sources of security. The text depicts judgment and restoration, not a rule that possessions or style are inherently wrong.
+Protect private experiences. Students can discuss hypothetical examples.
+-->
+
+---
 class: lesson scenario
 title: What do you expect God to do?
 ---
@@ -293,73 +411,8 @@ title: What changed for Isaiah?
 Ask how receiving help could make someone more willing to help another person.
 Verse 8 is followed by a difficult commission in verses 9-13. Willingness does not guarantee an easy task or a receptive audience.
 Sharing faith must respect others' agency. Do not assign public disclosures or make belonging conditional on volunteering.
+For the 25-minute Isaiah 6 path, skip the optional Isaiah 11 slide and go to slide 19 for the closing reflection.
 Scripture: https://www.churchofjesuschrist.org/study/scriptures/ot/isa/6?lang=eng&id=p8#p8
--->
-
----
-class: lesson closing
-title: What are you learning about Him?
----
-
-<p class="eyebrow">Isaiah 12:1-2</p>
-
-# What are you learning<br>about Him?
-
-Find one word or action that gives you<br>a reason to want to know God better.
-
-<p class="question">"Something I am beginning to understand<br>about Jesus Christ is..."</p>
-
-<!--
-20-25 minutes: Read Isaiah 12:1-2 as a companion reflection, not the next chronological event in Isaiah 6.
-Look for comfort, salvation, strength, song, and trust. Have students support their observations from the passage.
-Invite a private response to the sentence on screen. They may write a question or something they hope to understand instead.
-No dramatic experience or public sharing is required. Close with a brief personal testimony tied to the discoveries.
-Stop here. The following slides are optional alternatives for another discussion, not part of the 25-minute path.
--->
-
----
-class: lesson response
-title: What makes us secure?
----
-
-<p class="eyebrow">Isaiah 2:2-8</p>
-
-# What makes us secure?
-
-Compare what fills the land in verses 6-8<br>with what people seek in verses 2-5.
-
-<p class="question">What would draw you toward God<br>beyond the fear of breaking a rule?</p>
-
-<!--
-Optional standalone discussion. Make two lists using the actual passage: wealth, military resources, idols; learning, walking, peace.
-Verse 8 describes worship of handmade idols, not a condemnation of employment or creativity.
-Apply the warning to our own priorities, not supposedly inferior groups outside the Church.
-Ask what the promised peace offers that status and possessions cannot guarantee.
--->
-
----
-class: lesson response
-title: Three pictures of security
----
-
-<p class="eyebrow">Isaiah 3-4</p>
-
-# What can we depend on?
-
-<div class="actions">
-<div><h2>Splendor.</h2><p>Isaiah 3:16-23</p></div>
-<div><h2>Loss.</h2><p>Isaiah 3:24-26</p></div>
-<div><h2>Refuge.</h2><p>Isaiah 4:2-6</p></div>
-</div>
-
-<p class="question">How is being cared for<br>different from being admired?</p>
-
-<!--
-Optional visual exercise. Students can sketch objects or record words for each scene.
-Keep Isaiah 3:13-15's condemnation of oppression in context. Do not draw caricatures of girls or scrutinize students' clothing or bodies.
-Do not equate illness, poverty, insecurity, or loss with personal wrongdoing.
-Compare sources of security. The text depicts judgment and restoration, not a rule that possessions or style are inherently wrong.
-Protect private experiences. Students can discuss hypothetical examples.
 -->
 
 ---
@@ -381,4 +434,24 @@ The application does not replace the prophecy of millennial peace. Verse 12 also
 Ask for one concrete choice that protects someone from harm without asking students to name people or recount bullying publicly.
 Knowing Christ is more than knowing facts; His character can shape our treatment of others.
 Peace does not mean remaining in danger or avoiding help from a trusted adult.
+-->
+
+---
+class: lesson closing
+title: What are you learning about Him?
+---
+
+<p class="eyebrow">Isaiah 12:1-2</p>
+
+# What are you learning<br>about Him?
+
+Find one word or action that gives you<br>a reason to want to know God better.
+
+<p class="question">"Something I am beginning to understand<br>about Jesus Christ is..."</p>
+
+<!--
+20-25 minutes: Read Isaiah 12:1-2 as a companion reflection, not the next chronological event in Isaiah 6.
+Look for comfort, salvation, strength, song, and trust. Have students support their observations from the passage.
+Invite a private response to the sentence on screen. They may write a question or something they hope to understand instead.
+No dramatic experience or public sharing is required. Close with a brief personal testimony tied to the discoveries.
 -->
