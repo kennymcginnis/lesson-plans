@@ -32,7 +32,7 @@ Temple worship, preparing for temple covenants, family history, and treating oth
 
 Read verse 4. A plowshare is the cutting part of a plow: metal once used to hurt people becomes a tool for growing food. Isaiah pictures more than a pause in fighting. Under the Lord's judgment, nations no longer learn war.
 
-In the video's discussion, one speaker describes seeing a sculpture of this transformation at the United Nations. She draws a personal application from it: an ability we have used to hurt others can be redirected toward good. Isaiah's promise concerns peace among nations; applying the image to our own choices is one way to reflect on that promise.
+Isaiah's promise concerns peace among nations. As a personal application, consider how an ability we have used to hurt others could be redirected toward good.
 
 Think about the difference between rejecting yourself and changing what you do:
 
@@ -44,7 +44,7 @@ Harmful behavior needs to stop. But changing it does not require believing that 
 
 ## Drawn toward God's ways
 
-Verse 2 pictures nations flowing toward the Lord's mountain. The video notices something surprising about the image: rivers normally flow downhill, while these people move toward a mountain. As a reflection on the poetry, it asks what could draw us beyond our usual habits.
+Verse 2 pictures nations flowing toward the Lord's mountain. Notice something surprising about the image: rivers normally flow downhill, while these people move toward a mountain. What could draw us beyond our usual habits?
 
 Verse 3 gives us a place to start: people want to learn God's ways and walk in His paths. What about Jesus Christ makes you want to change, rather than merely feel that you have to?
 
@@ -58,7 +58,7 @@ The first includes wealth, military resources, and idols made by human hands. Th
 
 As a personal application, imagine someone who needs to be the richest, most admired, or most powerful person in a group to feel secure. How might the invitation to learn, walk in God's light, and make peace change that goal?
 
-Read verses 17-21 as well. Human pride and idols do not retain their importance before the Lord's majesty. The video asks what discovering God's goodness might make us willing to stop treating as ultimate.
+Read verses 17-21 as well. Human pride and idols do not retain their importance before the Lord's majesty. What might discovering God's goodness make us willing to stop treating as ultimate?
 
 **What would draw you toward God beyond the fear of breaking a rule?** Look for an answer in the promise of verse 4, not just in an imagined list of restrictions.
 

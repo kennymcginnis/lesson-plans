@@ -236,8 +236,6 @@ Alternative path, 0-4 minutes: Begin here instead of slide 1. This is not an app
 Read Isaiah 6:1-5. Let pairs choose one detail and explain what it contributes to the scene.
 Explain train as the trailing part of a robe. Do not spend the discussion decoding every wing or object.
 One central question: What changes between Isaiah's distress and his willingness to serve?
-Adapted from David Butler and Emily Freeman, Don't Miss This: https://www.youtube.com/watch?v=6KGWt8ilFao&t=3325s
-The prompts are adaptations of the supplied transcript, not verbatim quotations from the speakers.
 -->
 
 ---
@@ -256,9 +254,8 @@ Isaiah acknowledges his uncleanness<br>in the presence of the holy Lord.
 <!--
 4-9 minutes: Stay with Isaiah's situation rather than asking students to disclose their own mistakes.
 Ask for a prediction, then ask what in the text supports it. Different expectations are useful, not wrong answers to expose.
-David imagines Isaiah expecting punishment. The text does not report that specific expectation.
+Distinguish students' predictions from the text, which does not report what Isaiah expected the coal to do.
 After hearing a few thoughts, read verses 6-7 together before showing the next slide.
-Source discussion: https://www.youtube.com/watch?v=6KGWt8ilFao&t=3435s
 -->
 
 ---
@@ -276,11 +273,8 @@ title: The surprise is cleansing
 9-15 minutes: Compare the students' predictions with what actually happens in verses 6-7.
 The coal comes from the altar; the angel announces cleansing. Keep the image in the vision, never imitate it physically.
 Ask what this reveals about God's response to Isaiah's need. Receiving help comes before volunteering.
-Optional, only if it helps: David compares this with receiving symbols of Christ's sacrifice at sacrament meeting.
-Label that a personal devotional comparison, not the direct meaning of Isaiah's vision or automatic forgiveness through partaking.
 Do not imply that all distress is sin, or that persistent difficult feelings mean forgiveness has been refused.
 Scripture: https://www.churchofjesuschrist.org/study/scriptures/ot/isa/6?lang=eng&id=p6-p7#p6
-Video reflection: https://www.youtube.com/watch?v=6KGWt8ilFao&t=3651s
 -->
 
 ---
@@ -321,7 +315,6 @@ Look for comfort, salvation, strength, song, and trust. Have students support th
 Invite a private response to the sentence on screen. They may write a question or something they hope to understand instead.
 No dramatic experience or public sharing is required. Close with a brief personal testimony tied to the discoveries.
 Stop here. The following slides are optional alternatives for another discussion, not part of the 25-minute path.
-Adapted from the video's Christ-character exercise: https://www.youtube.com/watch?v=6KGWt8ilFao&t=1518s
 -->
 
 ---
@@ -342,7 +335,6 @@ Optional standalone discussion. Make two lists using the actual passage: wealth,
 Verse 8 describes worship of handmade idols, not a condemnation of employment or creativity.
 Apply the warning to our own priorities, not supposedly inferior groups outside the Church.
 Ask what the promised peace offers that status and possessions cannot guarantee.
-Source: https://www.youtube.com/watch?v=6KGWt8ilFao&t=1955s
 -->
 
 ---
@@ -363,12 +355,11 @@ title: Three pictures of security
 <p class="question">How is being cared for<br>different from being admired?</p>
 
 <!--
-Optional visual exercise adapted from the transcript. Students can sketch objects or record words for each scene.
+Optional visual exercise. Students can sketch objects or record words for each scene.
 Keep Isaiah 3:13-15's condemnation of oppression in context. Do not draw caricatures of girls or scrutinize students' clothing or bodies.
 Do not equate illness, poverty, insecurity, or loss with personal wrongdoing.
-The video compares sources of security. The text depicts judgment and restoration, not a rule that possessions or style are inherently wrong.
+Compare sources of security. The text depicts judgment and restoration, not a rule that possessions or style are inherently wrong.
 Protect private experiences. Students can discuss hypothetical examples.
-Source: https://www.youtube.com/watch?v=6KGWt8ilFao&t=803s
 -->
 
 ---
@@ -390,5 +381,4 @@ The application does not replace the prophecy of millennial peace. Verse 12 also
 Ask for one concrete choice that protects someone from harm without asking students to name people or recount bullying publicly.
 Knowing Christ is more than knowing facts; His character can shape our treatment of others.
 Peace does not mean remaining in danger or avoiding help from a trusted adult.
-Source: https://www.youtube.com/watch?v=6KGWt8ilFao&t=2401s
 -->

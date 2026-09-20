@@ -37,7 +37,7 @@ Imagine a group chat where nobody becomes the target everyone bonds over mocking
 
 Verse 9 links the absence of harm with knowledge of the Lord. Read verses 2-5 for the qualities of His rule, then ask: **if we are learning to know Him, what might someone experience differently in the way we treat them?** Knowing facts about Christ is not the same as allowing His character to shape our actions.
 
-Verse 12 adds the gathering of people described as outcasts. The video connects gathering with helping others come to know Christ. What would an invitation look like that communicates belonging rather than pressure? Respecting someone's choice and protecting them from harm remain important.
+Verse 12 adds the gathering of people described as outcasts. As we help others come to know Christ, what would an invitation look like that communicates belonging rather than pressure? Respecting someone's choice and protecting them from harm remain important.
 
 ## Questions to sit with
 

@@ -30,7 +30,7 @@ These chapters move between warnings, invitations, and promises. They explore Ch
 
 Read Isaiah's images in their surrounding verses before applying them to our lives. Let the warnings invite personal repentance rather than become labels for other people.
 
-## Pictures to explore with the video
+## Pictures to explore
 
 - **Isaiah 2:** Swords become farming tools. How could an ability once used to hurt someone become a way to help?
 - **Isaiah 3-4:** Outward splendor gives way to a promise of cleansing and refuge. Where do we seek worth and security?
@@ -38,7 +38,7 @@ Read Isaiah's images in their surrounding verses before applying them to our liv
 - **Isaiah 9:** Light follows darkness, and a child is promised. How do those images deepen the familiar names of Christ?
 - **Isaiah 12:** Promises become a song of gratitude. What could that song mean in your own life?
 
-The video-based sections paraphrase the discussion and offer questions for reflection. Personal applications are distinguished from the passages' historical setting and direct meaning. Read the surrounding verses as well as the images that stand out to you.
+These questions invite personal reflection without replacing the passages' historical setting and direct meaning. Read the surrounding verses as well as the images that stand out to you.
 
 ## Explore the surrounding chapters
 

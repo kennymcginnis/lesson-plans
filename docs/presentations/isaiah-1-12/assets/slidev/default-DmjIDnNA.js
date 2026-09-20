@@ -1,1 +1,0 @@
-import{o as s,a as o,aa as t}from"../modules/vue-CPihUsLS.js";import{_ as a}from"../index-e1_9209V.js";const l={},n={class:"slidev-layout default"};function c(e,r){return s(),o("div",n,[t(e.$slots,"default")])}const i=a(l,[["render",c],["__file","/Users/kmcgin1/workspace/lesson-plans/node_modules/@slidev/client/layouts/default.vue"]]);export{i as I};

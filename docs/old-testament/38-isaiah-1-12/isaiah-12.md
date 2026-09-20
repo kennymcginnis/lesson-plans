@@ -33,7 +33,7 @@ Read Isaiah 12:2 slowly. What does it mean to you to call God your strength and 
 
 ## A song you can make your own
 
-The video notices how personal the opening of Isaiah 12 sounds. Look for "I," "me," and "my" in verses 1-2. The Lord's saving work concerns His people together, but it also reaches individual lives. The chapter then opens outward into an invitation to declare His works and rejoice together.
+Notice how personal the opening of Isaiah 12 sounds. Look for "I," "me," and "my" in verses 1-2. The Lord's saving work concerns His people together, but it also reaches individual lives. The chapter then opens outward into an invitation to declare His works and rejoice together.
 
 Read verse 2 again, slowly. What changes when "God is my salvation" becomes a statement you are considering for yourself, not only something someone else believes?
 
@@ -41,7 +41,7 @@ You do not have to force certainty you do not feel. You could begin with a praye
 
 ## Remembering what God has done
 
-Verse 5 invites praise for the excellent things the Lord has done. The video suggests making those things specific. Think of something for which you can sincerely give thanks: an opportunity to begin again, help from another person, a moment of comfort, or something you have learned about Christ.
+Verse 5 invites praise for the excellent things the Lord has done. Think of something specific for which you can sincerely give thanks: an opportunity to begin again, help from another person, a moment of comfort, or something you have learned about Christ.
 
 You might write a few private lines:
 
@@ -51,7 +51,7 @@ You might write a few private lines:
 
 Gratitude and unresolved sorrow can exist together. This is not a test of whether you have enough positive experiences or a reason to compare your life with someone else's.
 
-The speakers also reflect on a future when today's suffering no longer defines life. That is a hope in God's completed redeeming work, not a promise that every difficulty will disappear on our preferred schedule. Isaiah 12:6 centers the joy in the Holy One of Israel being among His people. Compare that with [Immanuel, God with Us](old-testament/38-isaiah-1-12/isaiah-7.md): His presence matters now as well as in the future.
+We can hope for a future when today's suffering no longer defines life. That is a hope in God's completed redeeming work, not a promise that every difficulty will disappear on our preferred schedule. Isaiah 12:6 centers the joy in the Holy One of Israel being among His people. Compare that with [Immanuel, God with Us](old-testament/38-isaiah-1-12/isaiah-7.md): His presence matters now as well as in the future.
 
 ## Build a picture of Christ from the words
 
@@ -65,7 +65,7 @@ Choose one image to explore:
 - **Song:** What can a meaningful song do for you that a list of instructions cannot? Why might someone call the Lord their song?
 - **Presence:** How is being accompanied different from being handed a solution and left alone?
 
-The speakers ask what draws our hearts toward God, not merely what rules we associate with religion. Which discovery in the passage gives you a reason to want to know Him better? You can answer from the words themselves; a dramatic personal experience is not required.
+What draws your heart toward God beyond the rules you associate with religion? Which discovery in the passage gives you a reason to want to know Him better? You can answer from the words themselves; a dramatic personal experience is not required.
 
 ## Questions to sit with
 

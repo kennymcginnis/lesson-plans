@@ -48,7 +48,7 @@ The titles become words of personal witness. Consider how the words you use abou
 
 ## Light comes into the darkness
 
-Read Isaiah 8:22 alongside Isaiah 9:1-2. The chapter boundary can hide the contrast: anguish and darkness are followed by a promise of light. The video emphasizes this movement from distress to hope. Isaiah does not pretend the darkness is imaginary; he announces that it will not have the final word.
+Read Isaiah 8:22 alongside Isaiah 9:1-2. The chapter boundary can hide the contrast: anguish and darkness are followed by a promise of light. Notice this movement from distress to hope. Isaiah does not pretend the darkness is imaginary; he announces that it will not have the final word.
 
 Then read Isaiah 9:6-7. The promised ruler is introduced as a child, yet His reign reaches toward enduring justice and peace. These familiar Christmas words belong within a much larger hope for the world.
 
@@ -58,7 +58,7 @@ Then read Isaiah 9:6-7. The promised ruler is introduced as a child, yet His rei
 
 ## From a promise to a song
 
-The video pairs these promises with Isaiah 12's song of gratitude. Try reading Isaiah 9:6-7 and then Isaiah 12:1-6. What happens between needing rescue and being able to give thanks for it? Which words in the song describe something you hope to experience more fully?
+Read Isaiah 9:6-7 and then Isaiah 12:1-6, pairing the promises with a song of gratitude. What happens between needing rescue and being able to give thanks for it? Which words in the song describe something you hope to experience more fully?
 
 Continue that reflection in [Isaiah 12 - I Will Trust and Not Be Afraid](old-testament/38-isaiah-1-12/isaiah-12.md).
 
