@@ -1,5 +1,7 @@
 # Closing - God Is My Salvation
 
+Example answers are starting points, not the only right responses. Personal examples are hypothetical.
+
 ## Return to Isaiah 12:2
 
 > 2. Behold, God is my salvation; I will trust, and not be afraid: for the Lord Jehovah is my strength and my song; he also is become my salvation.
@@ -9,6 +11,13 @@
 ## What will you remember?
 
 What have these chapters helped us trust about Jesus Christ?
+
+<details>
+<summary>Show an example answer</summary>
+
+He offers cleansing, teaches a way of peace, and remembers people who feel forgotten. We can turn toward Him without first having every problem solved.
+
+</details>
 
 - In Isaiah 1, He offers cleansing and calls us to change how we live.
 - In Isaiah 2, His house is a place to learn His ways and walk in His paths.
@@ -20,11 +29,27 @@ What have these chapters helped us trust about Jesus Christ?
 
 Which of these promises or invitations matters most to you right now?
 
+<details>
+<summary>Show an example answer</summary>
+
+"The invitation to serve in Isaiah 6 matters to me because I sometimes assume I have too little to offer. Isaiah receives help before he volunteers."
+
+</details>
+
 ## Questions to sit with
 
 - Which verse would you like to carry into the coming week?
 - What does that verse invite you to believe about the Savior?
 - What is one small response you can make to His invitation?
+
+<details>
+<summary>Show example answers</summary>
+
+- **A verse:** Isaiah 1:18, especially "Come now."
+- **What it invites me to believe:** The Lord offers a way back; I do not have to avoid Him because I need to repent.
+- **A small response:** Pray honestly and begin repairing one hurtful choice rather than waiting until everything feels easier.
+
+</details>
 
 You can write a private answer or share a verse or insight. You do not need to explain personal circumstances.
 

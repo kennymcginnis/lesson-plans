@@ -1,5 +1,7 @@
 # Isaiah 11:1-5 - The Stem of Jesse
 
+Example answers are starting points, not the only right responses. Personal examples are hypothetical.
+
 ## Isaiah 11:1-2
 
 > 1. And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
@@ -39,5 +41,15 @@ Understanding these symbols can help us know the Savior and recognize the work a
 - Why does it matter to distinguish the stem, rod, and root?
 - Which quality in verses 2-5 strengthens your trust in the Savior?
 - How could we become less dependent on appearances when responding to another person?
+
+<details>
+<summary>Show example answers</summary>
+
+- **D&C 113's help:** It explicitly identifies the Stem of Jesse as Christ and gives separate descriptions of the rod and root.
+- **Distinct symbols:** Treating every part as the same person would miss the separate questions and answers in D&C 113. The named Joseph Smith application comes from the manual, not directly from that revelation's wording.
+- **A trustworthy quality:** Righteous judgment means the Savior does not decide someone's worth by wealth, popularity, or outward presentation.
+- **Our response:** Listen before deciding what someone is like, ask respectful questions, and notice needs that appearances may conceal.
+
+</details>
 
 Continue with [Isaiah 11:6-9 - A World Without Hurt](old-testament/38-isaiah-1-12/isaiah-11-peace.md).

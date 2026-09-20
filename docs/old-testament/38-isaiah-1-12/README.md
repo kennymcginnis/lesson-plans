@@ -6,6 +6,15 @@ This week's assigned reading is Isaiah 1-12.
 
 > What does it mean to trust God as our salvation?
 
+<details>
+<summary>Show an example answer</summary>
+
+It means relying on Him for forgiveness, help, and lasting hope rather than believing achievement or willpower alone can save us.
+
+</details>
+
+Example answers throughout these pages are starting points, not the only right responses. Personal examples are hypothetical; your own reflections can stay private.
+
 Isaiah invites us to turn to the Lord, receive His cleansing, and find hope in the promised Savior.
 
 Start with ["Come now" in Isaiah 1:16-18](old-testament/38-isaiah-1-12/isaiah-1.md): you do not have to wait until you are better to turn to God. Explore the passages below to discover more of Isaiah's invitations and promises.
@@ -38,6 +47,17 @@ Read Isaiah's images in their surrounding verses before applying them to our liv
 - **Isaiah 9:** Light follows darkness, and a child is promised. How do those images deepen the familiar names of Christ?
 - **Isaiah 12:** Promises become a song of gratitude. What could that song mean in your own life?
 
+<details>
+<summary>Show example answers</summary>
+
+- **Isaiah 2:** Quick wit could help someone feel included instead of making them a target.
+- **Isaiah 3-4:** Approval and achievements can feel reassuring, but God's care does not depend on always impressing people.
+- **Isaiah 7-8:** God's presence means we can seek help and take a faithful next step without knowing the whole outcome.
+- **Isaiah 9:** "Prince of Peace" becomes a promise of righteous rule amid real danger, not just a familiar Christmas title.
+- **Isaiah 12:** I could give thanks for one good thing while still asking for help with something painful.
+
+</details>
+
 These questions invite personal reflection without replacing the passages' historical setting and direct meaning. Read the surrounding verses as well as the images that stand out to you.
 
 ## Explore the surrounding chapters
@@ -66,12 +86,31 @@ Try one of these approaches rather than doing all of them at once:
 
 For a story to explore, turn to [Isaiah 6](old-testament/38-isaiah-1-12/isaiah-6.md). Read verses 1-5, pause to imagine what might happen next, then read verses 6-8. **What changes between Isaiah's distress and his willingness to serve?**
 
+<details>
+<summary>Show an example answer</summary>
+
+Isaiah receives cleansing and then hears the Lord's call. He volunteers after receiving help, not because he has never needed it.
+
+</details>
+
 ## As you read
 
 - What picture or phrase stands out to you?
 - What do the surrounding verses help you understand?
 - What does this passage help you trust about Jesus Christ?
 - What is one way you could respond to its invitation?
+
+<details>
+<summary>Show example answers</summary>
+
+Using Isaiah 1:16-18 as an example:
+
+- **A picture:** Scarlet becoming white as snow makes cleansing memorable.
+- **Context:** Verses 16-17 connect cleansing with stopping wrongdoing and caring for vulnerable people.
+- **Trust:** Christ offers a way to return and change instead of leaving us defined by our sins.
+- **Response:** Ask for His help while taking a concrete step to repair harm.
+
+</details>
 
 You do not need to understand every symbol at once. Choose a passage to return to during the week and notice what you learn as you read it again.
 

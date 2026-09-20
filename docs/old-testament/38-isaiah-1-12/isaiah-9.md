@@ -1,5 +1,7 @@
 # Isaiah 9:2, 6-7 - The Prince of Peace
 
+Example answers are starting points, not the only right responses. Personal examples are hypothetical.
+
 ## Isaiah 9:6
 
 > 6. For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
@@ -56,9 +58,25 @@ Then read Isaiah 9:6-7. The promised ruler is introduced as a child, yet His rei
 - Which title of the Savior would you want to remember during a difficult week, and why?
 - What might help you recognize a reason for hope without pretending everything is already resolved?
 
+<details>
+<summary>Show example answers</summary>
+
+- **After chapter 8:** The light sounds like an answer to real anguish rather than a decorative image.
+- **A title to remember:** "Counsellor" could remind me that I can seek the Savior's guidance when I do not know what to do.
+- **Hope amid difficulty:** Notice a small act of care, a helpful next step, or a promise worth holding onto while still acknowledging what hurts.
+
+</details>
+
 ## From a promise to a song
 
 Read Isaiah 9:6-7 and then Isaiah 12:1-6, pairing the promises with a song of gratitude. What happens between needing rescue and being able to give thanks for it? Which words in the song describe something you hope to experience more fully?
+
+<details>
+<summary>Show an example answer</summary>
+
+God's saving work gives His people a reason to praise Him. "Strength" and "comfort" could express what I hope to experience more fully. These passages connect promise and praise; they do not give a timetable for every personal difficulty.
+
+</details>
 
 Continue that reflection in [Isaiah 12 - I Will Trust and Not Be Afraid](old-testament/38-isaiah-1-12/isaiah-12.md).
 
@@ -68,7 +86,21 @@ Begin with the unfamiliar places in Isaiah 9:1. Zebulun and Naphtali were northe
 
 Try reading Isaiah 9:1-2 in the King James Version alongside another translation, then read Matthew 4:12-16. Matthew connects this passage with Jesus' ministry in Galilee. How does knowing something about the place change the way you hear the promise?
 
+<details>
+<summary>Show an example answer</summary>
+
+The unfamiliar place names become homes of people affected by conquest and loss. Matthew's connection with Galilee helps me see Christ's ministry as light reaching real communities.
+
+</details>
+
 Now return to verses 6-7. What would a ruler characterized by wisdom, justice, and peace mean to people unsure whom they could trust? That question can help the familiar Christmas words become more than a list of titles.
+
+<details>
+<summary>Show an example answer</summary>
+
+Such a ruler would offer hope of fair judgment and dependable care rather than exploitation or unpredictable power. His character would matter as much as His ability to rule.
+
+</details>
 
 [Read 2 Kings 15:29](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=eng&id=p29#p29). [Read Matthew 4:12-16](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng&id=p12-p16#p12).
 
@@ -78,5 +110,15 @@ Now return to verses 6-7. What would a ruler characterized by wisdom, justice, a
 - What changes when we read verse 6 together with verse 7?
 - How can trust in Christ's future reign affect the way we live now?
 - How can we seek and offer peace without pretending grief or conflict is already resolved?
+
+<details>
+<summary>Show example answers</summary>
+
+- **A needed quality:** "Prince of Peace" reminds me to seek Christ's help instead of believing retaliation is my only option.
+- **Verses 6 and 7 together:** The child's birth is connected with enduring government, justice, and peace. The promise reaches beyond the manger.
+- **Living now:** Hope in His reign can encourage fairness and peacemaking even when those choices do not bring immediate rewards.
+- **Honest peace:** Listen to someone's grief, acknowledge harm, set needed boundaries, and offer practical help without demanding that they feel fine.
+
+</details>
 
 Continue with [Isaiah 11:1-5 - The Stem of Jesse](old-testament/38-isaiah-1-12/isaiah-11-stem-of-jesse.md).

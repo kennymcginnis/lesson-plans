@@ -1,5 +1,7 @@
 # Isaiah 7:14 - Immanuel, God with Us
 
+Example answers are starting points, not the only right responses. Personal examples are hypothetical.
+
 ## Isaiah 7:14
 
 > 14. Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
@@ -35,6 +37,14 @@ You might worry about choosing classes, a changing friendship, or an uncertain f
 - Why might we want a complete plan more than the assurance of God's presence?
 - What could seeking His help look like before you feel calm or certain?
 
+<details>
+<summary>Show example answers</summary>
+
+- **Wanting a plan:** A complete plan can feel like control and protection from mistakes. Trusting someone's presence still leaves uncertainty to face.
+- **Seeking help now:** Pray honestly, talk with a trusted person, gather useful information, and take one responsible next step without waiting for all fear to disappear.
+
+</details>
+
 ## When the water feels high
 
 Isaiah 8:7-8 pictures Assyria's advance as a river overflowing into Judah, reaching even to the neck. The passage ends by addressing Immanuel. Consider the contrast between overwhelming danger and a name that means "God with us."
@@ -47,5 +57,15 @@ The flood describes a national crisis. As a personal comparison, it may also bri
 - How does "God with us" differ from a promise that nothing difficult will happen?
 - What does Matthew tell us Jesus came to save us from?
 - How could remembering the Savior's presence change the way we face one concern this week?
+
+<details>
+<summary>Show example answers</summary>
+
+- **Historical fear:** Judah faces a military threat from Syria and the northern kingdom of Israel. The promise is spoken into actual danger, not an easy situation.
+- **Presence and difficulty:** "God with us" promises someone to turn toward in hardship; it does not mean faithful people never experience hardship.
+- **Matthew's witness:** Matthew 1:21 says Jesus will save His people from their sins.
+- **One concern:** Before a difficult conversation, I could pray for patience and courage, seek wise advice, and remember that the outcome is not entirely mine to control.
+
+</details>
 
 Continue with [Isaiah 9 - The Prince of Peace](old-testament/38-isaiah-1-12/isaiah-9.md).

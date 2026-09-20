@@ -1,5 +1,7 @@
 # Isaiah 11:10-12 - An Ensign for the Nations
 
+Example answers are starting points, not the only right responses. Personal examples are hypothetical.
+
 ## Isaiah 11:12
 
 > 12. And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
@@ -50,6 +52,16 @@ His address moves from the pioneers at Ensign Peak to ordinary people living the
 - What difference does it make that Moroni specifically quoted this chapter?
 - How can we keep invitations centered on Jesus Christ rather than on our own expectations?
 - What could gathering look like through friendship, sharing faith, or temple and family history service this week?
+
+<details>
+<summary>Show example answers</summary>
+
+- **Whom God remembers:** People who are scattered or treated as outsiders are not forgotten. The invitation reaches beyond those who already feel included.
+- **Moroni's quotation:** Joseph Smith-History directly connects Isaiah 11 with the Restoration, rather than leaving that connection as a modern guess.
+- **Christ-centered invitations:** Share what helps us know Christ, listen to the other person's interests, and avoid treating acceptance as a measure of our success.
+- **This week:** Welcome someone sitting alone, share a meaningful scripture when appropriate, or ask a relative about family history. Respect their willingness to participate.
+
+</details>
 
 Respect another person's agency when extending an invitation. Love and friendship should not depend on whether it is accepted.
 

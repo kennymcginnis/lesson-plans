@@ -10,6 +10,13 @@ As you reflect, consider one step toward God you can take now. Personal response
 
 ## What do you expect God to do?
 
+<details>
+<summary>Show an example answer</summary>
+
+A reader might expect Isaiah to be rejected because he acknowledges his uncleanness. Instead, Isaiah 6:6-8 describes cleansing followed by an invitation to serve. This is one possible expectation to compare with the story, not the only right response.
+
+</details>
+
 [Explore Isaiah 6 in the slides](presentations/isaiah-1-12/index.html#/11 ':ignore') or read [Here Am I; Send Me](old-testament/38-isaiah-1-12/isaiah-6.md). Follow the movement from Isaiah's distress to cleansing and willingness, then consider what Isaiah 12 teaches about the Lord's character.
 
 Further slides explore [security in Isaiah 2](presentations/isaiah-1-12/index.html#/16 ':ignore'), [splendor and refuge in Isaiah 3-4](presentations/isaiah-1-12/index.html#/17 ':ignore'), and [a world without hurt in Isaiah 11](presentations/isaiah-1-12/index.html#/18 ':ignore').
