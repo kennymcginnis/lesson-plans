@@ -1,0 +1,27 @@
+.slidev-layout.lesson {
+  --ink: #172c30;
+  --water: #176f78;
+  --clay: #a35d3b;
+  background: #f8f5ef;
+  color: var(--ink);
+  padding: 58px 68px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 29px;
+  line-height: 1.38;
+}
+.slidev-layout.lesson h1 { font-family: Palatino, Georgia, serif; font-size: 60px; line-height: 1.12; font-weight: 400; margin: 18px 0 30px; }
+.slidev-layout.lesson p { margin: 18px 0; }
+.slidev-layout.lesson .eyebrow { color: var(--water); font-size: 21px; font-weight: 700; margin: 0 0 20px; }
+.slidev-layout.lesson .question { color: var(--water); font-size: 29px; font-weight: 700; margin-top: 32px; }
+.slidev-layout.lesson .verse { font-family: Palatino, Georgia, serif; font-size: 36px; line-height: 1.34; }
+.slidev-layout.lesson .verse-number { color: var(--clay); font: 700 22px 'Trebuchet MS', sans-serif; margin-right: 10px; }
+.slidev-layout.lesson.opening { background: var(--water); color: white; display: flex; flex-direction: column; justify-content: center; }
+.slidev-layout.lesson.opening h1 { font-size: 88px; }
+.slidev-layout.lesson.opening .eyebrow { color: white; }
+.slidev-layout.lesson.opening .subtitle { font-size: 35px; }
+.slidev-layout.lesson.clay { background: #eadacc; }
+.slidev-layout.lesson.clay .eyebrow, .slidev-layout.lesson.clay .question { color: #713c25; }
+.slidev-layout.lesson.closing { border-top: 14px solid var(--water); display: flex; flex-direction: column; justify-content: center; }
+.slidev-layout.lesson .small { font-size: 23px; }
+#slidev-goto-dialog:has(#slidev-goto-input:disabled) { visibility: hidden; pointer-events: none; }
+@media (prefers-reduced-motion: reduce) { .slidev-vclick-target, .slidev-layout { transition: none !important; } }

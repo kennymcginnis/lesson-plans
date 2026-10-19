@@ -1,6 +1,6 @@
 # Return to the Fountain of Living Waters
 
-Week 43 - Jeremiah, Part 1
+Week 43 - October 19–25, 2026 - Jeremiah, Part 1
 
 Main reading: Jeremiah 1-3; 7; 16-18; 20, with companion passages in chapters 8 and 11.
 
@@ -8,10 +8,13 @@ Main reading: Jeremiah 1-3; 7; 16-18; 20, with companion passages in chapters 8 
 
 ## Lesson notes
 
-Jeremiah begins with a call he feels unprepared to answer. The Lord promises His presence, then sends him to a people who have turned from their source of life. Warnings about broken covenants stand beside invitations to acknowledge wrongdoing, return, and be reshaped.
+[Open the 25-minute presentation](old-testament/43-jeremiah-part-1/presentation.md), with teaching cues in Slidev presenter notes. The [2026 Come, Follow Me guide](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/43?lang=eng) assigns Jeremiah 1–3; 7; 16–18; 20 this week.
+
+Jeremiah begins with a call he feels unprepared to answer. The Lord promises His presence, then sends him to a people who have turned from their source of life. Jeremiah 7 challenges outward worship without justice. Warnings about broken covenants stand beside invitations to acknowledge wrongdoing, return, and be reshaped. In chapter 20, Jeremiah's honest lament and his sense of God's word as fire belong to the same story.
 
 Follow the images through the lesson: words placed in a prophet's mouth, a fountain exchanged for broken cisterns, a missed harvest, sin engraved on a heart, and clay being worked by a potter. Each image asks for a response, but none makes a person beyond the reach of God's mercy.
 
+- [Presentation - Return to Living Water](old-testament/43-jeremiah-part-1/presentation.md)
 - [Called before Feeling Ready (1)](old-testament/43-jeremiah-part-1/jeremiah-1.md)
 - [Return to the Living Water (2)](old-testament/43-jeremiah-part-1/jeremiah-2.md)
 - [Return, Acknowledge, and Be Healed (3)](old-testament/43-jeremiah-part-1/jeremiah-3.md)
@@ -33,19 +36,20 @@ The topic pages follow selected teaching themes rather than every verse. Keep tw
 
 ## A 25-minute class
 
-1. **Called with help, 3 minutes:** Read Jeremiah 1:6-9. Ask what the Lord offers Jeremiah besides a difficult assignment.
-2. **Return to the source, 8 minutes:** Read Jeremiah 2:13 and 3:12-14. Discuss the difference between relying on a substitute for God and returning honestly to Him.
-3. **Let Him reshape the future, 9 minutes:** Read Jeremiah 18:1-10. Notice the potter's work and the invitation to change in verse 11. Connect this with one action that should not be postponed.
-4. **Choose a response, 5 minutes:** Read Jeremiah 17:7-8. Invite a private decision to return, repair, or seek help, then close with your testimony of Jesus Christ.
+1. **The call, 8 minutes:** Begin with the question of how God's word can stay with us in difficulty. Read Jeremiah 1:5-9 and ask what help the Lord gives Jeremiah.
+2. **The counterfeit, 3 minutes:** Read Jeremiah 7:3-7, 11. What change does the Lord ask for beyond religious words and rituals?
+3. **The choice, 5 minutes:** Compare the fountain and broken cistern in Jeremiah 2:13; then read the invitation to return in 3:12-14, 22.
+4. **The clay, 3 minutes:** Read Jeremiah 18:1-11. Let the passage explain the potter image and the people's opportunity to respond.
+5. **The fire and a response, 6 minutes:** Read Jeremiah 20:1-9. Make room for both Jeremiah's pain and conviction. Invite one private next step, then close with testimony.
 
-The fuller studies of covenant faithfulness, worship, and Jeremiah's lament are available for preparation or follow-up. Preserve the closing time rather than trying to discuss every chapter.
+This path is adapted from the shared video's sequence of the call, counterfeit, choice, and clay, with Jeremiah 20 framing the class. Preserve the closing time rather than trying to discuss every chapter.
 
 ## Scriptures to emphasize
 
-Prioritize Jeremiah 1:6-9; 2:13; 3:12-14; 17:7-8; and 18:1-11. Companion readings include Jeremiah 7:3-7; 8:20-22; 11:4-5; 17:1, 13-14; and 20:7-13.
+Prioritize Jeremiah 1:5-9; 7:3-11; 2:13; 3:12-14, 22; 18:1-11; and 20:1-9. Companion readings include Jeremiah 8:20-22; 11:4-5; 16:14-15; and 17:7-8, 13-14.
 
 ## Reading the images carefully
 
 These studies center on scripture rather than additional conference quotations. Biblical excerpts use the King James Version. Connections to our own worship, repentance, and discipleship are applications, not additional words spoken by Jeremiah or the Lord.
 
-The fountain in Jeremiah 2:13 represents the Lord; the broken cisterns represent inadequate substitutes. The potter's image in chapter 18 addresses God's dealings with a people and explicitly invites their response. Neither image requires us to claim that God causes every painful experience or that human choices do not matter.
+The fountain in Jeremiah 2:13 represents the Lord; the broken cisterns represent inadequate substitutes. The potter's image in chapter 18 addresses God's dealings with a people and explicitly invites their response. The video's opening also recounts the shattered jar in Jeremiah 19; that is a different image from the reworked clay in chapter 18. Neither image requires us to claim that God causes every painful experience or that human choices do not matter.

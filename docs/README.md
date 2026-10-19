@@ -2,7 +2,7 @@
 
 ## This Week
 
-[God Is My Salvation](old-testament/38-isaiah-1-12/README.md)
+[Return to the Fountain of Living Waters](old-testament/43-jeremiah-part-1/README.md)
 
 ## Old Testament
 

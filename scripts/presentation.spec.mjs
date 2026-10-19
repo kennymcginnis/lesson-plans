@@ -101,3 +101,30 @@ test('the lesson sidebar launches the static presentation', async ({ page }) => 
 	await page.goto(url)
 	await expect(page.locator('.slidev-page-1 h1')).toHaveText('Come now.')
 })
+
+test('this week opens the Jeremiah deck and its class path fits', async ({ page }) => {
+	await page.goto('/#/old-testament/43-jeremiah-part-1/presentation')
+	const launch = page.getByRole('link', { name: 'Open the Slidev presentation', exact: true })
+	await expect(launch).toHaveAttribute('href', 'presentations/jeremiah-1-20/index.html')
+	await page.goto(await launch.evaluate(element => element.href))
+	await expect(page.locator('.slidev-page-1 h1')).toContainText('A word like fire.')
+
+	for (let slideNumber = 1; slideNumber <= 11; slideNumber++) {
+		await page.goto(`/presentations/jeremiah-1-20/index.html#/${slideNumber}`)
+		const slide = page.locator(`.slidev-page-${slideNumber} .slidev-layout`)
+		await expect(slide).toBeVisible()
+		const overflow = await slide.evaluate(element => {
+			const bounds = element.getBoundingClientRect()
+			return [...element.querySelectorAll('h1, p')]
+				.filter(child => {
+					const rect = child.getBoundingClientRect()
+					return rect.right > bounds.right + 1 || rect.bottom > bounds.bottom + 1
+				})
+				.map(child => child.textContent)
+		})
+		expect(overflow, `Jeremiah slide ${slideNumber} has clipped text`).toEqual([])
+	}
+
+	await page.goto('/presentations/jeremiah-1-20/index.html#/presenter/1')
+	await expect(page.getByText('0–2 minutes.', { exact: false })).toBeVisible()
+})

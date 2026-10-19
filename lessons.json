@@ -1,5 +1,5 @@
 {
-  "currentLesson": "old-testament/38-isaiah-1-12",
+  "currentLesson": "old-testament/43-jeremiah-part-1",
   "courses": [
     {
       "id": "old-testament",
@@ -172,6 +172,7 @@
           "subject": "Jeremiah, Part 1",
           "title": "Return to the Fountain of Living Waters",
           "pages": [
+            { "file": "presentation.md", "title": "Presentation - Return to Living Water" },
             { "file": "jeremiah-1.md", "title": "Called before Feeling Ready (1)" },
             { "file": "jeremiah-2.md", "title": "Return to the Living Water (2)" },
             { "file": "jeremiah-3.md", "title": "Return, Acknowledge, and Be Healed (3)" },

@@ -96,6 +96,7 @@ window.lessonSearchPaths = [
   "/old-testament/40-isaiah-40-49/not-forgotten",
   "/old-testament/40-isaiah-40-49/closing",
   "/old-testament/43-jeremiah-part-1/README",
+  "/old-testament/43-jeremiah-part-1/presentation",
   "/old-testament/43-jeremiah-part-1/jeremiah-1",
   "/old-testament/43-jeremiah-part-1/jeremiah-2",
   "/old-testament/43-jeremiah-part-1/jeremiah-3",

@@ -11,13 +11,13 @@ npm install
 npm run docs:serve
 ```
 
-Starting the preview rebuilds navigation and the presentation automatically. The site is served at http://localhost:3000.
+Starting the preview rebuilds navigation and both presentations automatically. The site is served at http://localhost:3000.
 
 ## Presentations
 
-This week's sidebar includes **Presentation - Come Now**, a nineteen-slide [Slidev](https://sli.dev) deck arranged in chapter order: Isaiah 1, 2, 3-4, 6, 11, and 12. There are two alternative 25-minute paths: Isaiah 1:16-18 (slides 1-10), or Isaiah 6 (slides 14-17) with an Isaiah 12 reflection (slide 19). Slides 11-13 and 18 offer optional studies of Isaiah 2, 3-4, and 11. The Isaiah 3 clothing and accessories list uses the public-domain World English Bible. Choose one path rather than trying to cover everything. The student-facing presentation page links directly to these sections; timing and discussion guidance remain in Slidev's presenter notes.
+This week's sidebar includes **Presentation - Return to Living Water**, an eleven-slide [Slidev](https://sli.dev) deck for Jeremiah 1–3; 7; 16–18; 20. Slides 1–10 form a 25-minute class; slide 11 is optional follow-up. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Isaiah deck remains in the archive.
 
-Edit [presentations/isaiah-1-12/slides.md](presentations/isaiah-1-12/slides.md) and preview changes live:
+Edit [presentations/jeremiah-1-20/slides.md](presentations/jeremiah-1-20/slides.md) and preview changes live:
 
 ```sh
 npm run slides:dev
@@ -29,13 +29,13 @@ Slidev runs at http://localhost:3030. Use its presenter view to open a separate 
 npm run slides:build
 ```
 
-This produces the static presentation under `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds both navigation and slides. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
+This produces static presentations under `docs/presentations/jeremiah-1-20/` and `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds navigation and both decks. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
 
-Keep the generated presentation with the other generated docs when publishing this static site. Rebuild after source changes; do not hand-edit the compiled assets. The build clears only this deck's output directory, so put source material in `presentations/`, not in its generated directory under `docs/`.
+Keep the generated presentations with the other generated docs when publishing this static site. Rebuild after source changes; do not hand-edit the compiled assets. Each build clears only its own output directory, so put source material in `presentations/`, not in generated directories under `docs/`.
 
-The snow photograph is bundled locally from [Unsplash](https://images.unsplash.com/photo-1454496522488-7a8e488e8606), and the deck uses local system fonts. After building, the slides need no external image or font services. Slidev 51.8.2 is pinned because the configured package registry quarantines a dependency in version 53; do not bypass registry restrictions when upgrading.
+The Isaiah deck's snow photograph is bundled locally from [Unsplash](https://images.unsplash.com/photo-1454496522488-7a8e488e8606). Both decks use local system fonts. After building, the slides need no external image or font services. Slidev 51.8.2 is pinned because the configured package registry quarantines a dependency in version 53; do not bypass registry restrictions when upgrading.
 
-Run `npm run test:slides` for desktop/mobile browser checks. Install the test browser once with `npx playwright install chromium`, or use an installed Chrome with `PLAYWRIGHT_CHANNEL=chrome npm run test:slides`. The check starts its own preview on port 3002, verifies all nineteen slides and their launch links, and saves screenshots in the ignored `test-results/` folder. `npm test` remains the fast navigation and scripture-formatting check.
+Run `npm run test:slides` for desktop/mobile browser checks. Install the test browser once with `npx playwright install chromium`, or use an installed Chrome with `PLAYWRIGHT_CHANNEL=chrome npm run test:slides`. The check starts its own preview on port 3002 and saves screenshots in the ignored `test-results/` folder. `npm test` remains the fast navigation and scripture-formatting check.
 
 ## Select This Week
 
