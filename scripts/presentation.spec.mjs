@@ -102,6 +102,17 @@ test('the lesson sidebar launches the static presentation', async ({ page }) => 
 	await expect(page.locator('.slidev-page-1 h1')).toHaveText('Come now.')
 })
 
+test('mobile lesson navigation has touch-friendly controls and no horizontal overflow', async ({ page }) => {
+	test.skip(page.viewportSize().width > 768, 'Mobile navigation check')
+	await page.goto('/')
+
+	await expect(page.locator('.sidebar-nav li > a').first()).toHaveCSS('min-height', '44px')
+	await expect(page.locator('.sidebar .search input')).toHaveCSS('font-size', '16px')
+	const viewportWidth = page.viewportSize().width
+	const documentWidth = await page.locator('body').evaluate(element => element.scrollWidth)
+	expect(documentWidth).toBeLessThanOrEqual(viewportWidth)
+})
+
 test('this week opens the Jeremiah deck and its class path fits', async ({ page }) => {
 	await page.goto('/#/old-testament/43-jeremiah-part-1/presentation')
 	const launch = page.getByRole('link', { name: 'Open the Slidev presentation', exact: true })

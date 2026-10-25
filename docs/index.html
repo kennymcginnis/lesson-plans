@@ -20,14 +20,29 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 
 		<style>
-			:root {
-				/* Change this value to your preferred width (default is usually 300px) */
-				--sidebar-width: 500px;
-			}
-
 			.sidebar .sidebar-nav li.folder > a:first-child {
 				background-image: none !important;
 				padding-left: 0;
+			}
+
+			@media (max-width: 768px) {
+				.sidebar-nav li > a {
+					min-height: 44px;
+					padding-top: 10px;
+					padding-bottom: 10px;
+					line-height: 1.35;
+					overflow-wrap: anywhere;
+				}
+
+				.sidebar .search input {
+					min-height: 44px;
+					font-size: 16px;
+				}
+
+				.sidebar-toggle {
+					min-width: 44px;
+					min-height: 44px;
+				}
 			}
 		</style>
 	</head>
