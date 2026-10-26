@@ -1,0 +1,27 @@
+.slidev-layout.lesson {
+  --ink: #1d2a35;
+  --night: #293b57;
+  --dawn: #9a5b46;
+  background: #fbf8f2;
+  color: var(--ink);
+  padding: 58px 66px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 29px;
+  line-height: 1.36;
+}
+.slidev-layout.lesson h1 { font-family: Palatino, Georgia, serif; font-size: 60px; line-height: 1.1; font-weight: 400; margin: 18px 0 26px; }
+.slidev-layout.lesson p { margin: 17px 0; }
+.slidev-layout.lesson .eyebrow { color: var(--night); font-size: 20px; font-weight: 700; margin: 0 0 20px; }
+.slidev-layout.lesson .question { color: var(--night); font-size: 28px; font-weight: 700; margin-top: 28px; }
+.slidev-layout.lesson .small { font-size: 23px; }
+.slidev-layout.lesson.opening { background: var(--night); color: white; display: flex; flex-direction: column; justify-content: center; }
+.slidev-layout.lesson.opening h1 { font-size: 82px; }
+.slidev-layout.lesson.opening .eyebrow { color: #f7d7a5; }
+.slidev-layout.lesson.opening .subtitle { font-size: 34px; }
+.slidev-layout.lesson.warning { background: #f1e3d9; }
+.slidev-layout.lesson.warning .eyebrow, .slidev-layout.lesson.warning .question { color: #783e2c; }
+.slidev-layout.lesson.hope { background: #e9f0ec; }
+.slidev-layout.lesson.hope .eyebrow, .slidev-layout.lesson.hope .question { color: #285d55; }
+.slidev-layout.lesson.closing { border-top: 14px solid var(--dawn); display: flex; flex-direction: column; justify-content: center; }
+#slidev-goto-dialog:has(#slidev-goto-input:disabled) { visibility: hidden; pointer-events: none; }
+@media (prefers-reduced-motion: reduce) { .slidev-vclick-target, .slidev-layout { transition: none !important; } }

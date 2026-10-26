@@ -2,7 +2,7 @@
 
 ## This Week
 
-[Return to the Fountain of Living Waters](old-testament/43-jeremiah-part-1/README.md)
+[I Will Turn Their Mourning into Joy](old-testament/44-jeremiah-part-2/README.md)
 
 ## Old Testament
 
@@ -17,6 +17,7 @@
 - [Week 38 - Isaiah 1-12](old-testament/38-isaiah-1-12/README.md)
 - [Week 40 - Isaiah 40-49](old-testament/40-isaiah-40-49/README.md)
 - [Week 43 - Jeremiah, Part 1](old-testament/43-jeremiah-part-1/README.md)
+- [Week 44 - Jeremiah 31-33; 36-39; Lamentations 1; 3](old-testament/44-jeremiah-part-2/README.md)
 - [Week 49 - Nahum; Habakkuk; Zephaniah](old-testament/49-micah-nahum-habakkuk-zephaniah/README.md)
 
 ## Doctrine and Covenants

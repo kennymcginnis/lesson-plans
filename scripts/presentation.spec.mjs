@@ -113,7 +113,7 @@ test('mobile lesson navigation has touch-friendly controls and no horizontal ove
 	expect(documentWidth).toBeLessThanOrEqual(viewportWidth)
 })
 
-test('this week opens the Jeremiah deck and its class path fits', async ({ page }) => {
+test('week 43 opens the Jeremiah deck and its class path fits', async ({ page }) => {
 	await page.goto('/#/old-testament/43-jeremiah-part-1/presentation')
 	const launch = page.getByRole('link', { name: 'Open the Slidev presentation', exact: true })
 	await expect(launch).toHaveAttribute('href', 'presentations/jeremiah-1-20/index.html')
@@ -137,5 +137,32 @@ test('this week opens the Jeremiah deck and its class path fits', async ({ page 
 	}
 
 	await page.goto('/presentations/jeremiah-1-20/index.html#/presenter/1')
+	await expect(page.getByText('0–2 minutes.', { exact: false })).toBeVisible()
+})
+
+test('week 44 launches the new deck and all twelve slides fit', async ({ page }) => {
+	await page.goto('/#/old-testament/44-jeremiah-part-2/presentation')
+	const launch = page.getByRole('link', { name: 'Open the Slidev presentation', exact: true })
+	await expect(launch).toHaveAttribute('href', 'presentations/jeremiah-31-39/index.html')
+	await page.goto(await launch.evaluate(element => element.href))
+	await expect(page.locator('.slidev-page-1 h1')).toHaveText('Hear. Act. Hope.')
+
+	for (let slideNumber = 1; slideNumber <= 12; slideNumber++) {
+		await page.goto(`/presentations/jeremiah-31-39/index.html#/${slideNumber}`)
+		const slide = page.locator(`.slidev-page-${slideNumber} .slidev-layout`)
+		await expect(slide).toBeVisible()
+		const overflow = await slide.evaluate(element => {
+			const bounds = element.getBoundingClientRect()
+			return [...element.querySelectorAll('h1, p')]
+				.filter(child => {
+					const rect = child.getBoundingClientRect()
+					return rect.right > bounds.right + 1 || rect.bottom > bounds.bottom + 1
+				})
+				.map(child => child.textContent)
+		})
+		expect(overflow, `Week 44 slide ${slideNumber} has clipped text`).toEqual([])
+	}
+
+	await page.goto('/presentations/jeremiah-31-39/index.html#/presenter/1')
 	await expect(page.getByText('0–2 minutes.', { exact: false })).toBeVisible()
 })

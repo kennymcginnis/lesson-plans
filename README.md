@@ -11,13 +11,13 @@ npm install
 npm run docs:serve
 ```
 
-Starting the preview rebuilds navigation and both presentations automatically. The site is served at http://localhost:3000.
+Starting the preview rebuilds navigation and the presentations automatically. The site is served at http://localhost:3000.
 
 ## Presentations
 
-This week's sidebar includes **Presentation - Return to Living Water**, an eleven-slide [Slidev](https://sli.dev) deck for Jeremiah 1–3; 7; 16–18; 20. Slides 1–10 form a 25-minute class; slide 11 is optional follow-up. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Isaiah deck remains in the archive.
+This week's sidebar includes **Presentation - Hear, Act, and Hope**, a twelve-slide [Slidev](https://sli.dev) deck for Jeremiah 31–33; 36–39; Lamentations 1; 3. Slides 1–11 form a 25-minute class; slide 12 offers optional transcript background from Jeremiah 27–28 and 40–43. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Jeremiah and Isaiah decks remain in the archive.
 
-Edit [presentations/jeremiah-1-20/slides.md](presentations/jeremiah-1-20/slides.md) and preview changes live:
+Edit [presentations/jeremiah-31-39/slides.md](presentations/jeremiah-31-39/slides.md) and preview changes live:
 
 ```sh
 npm run slides:dev
@@ -29,11 +29,11 @@ Slidev runs at http://localhost:3030. Use its presenter view to open a separate 
 npm run slides:build
 ```
 
-This produces static presentations under `docs/presentations/jeremiah-1-20/` and `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds navigation and both decks. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
+This produces static presentations under `docs/presentations/jeremiah-31-39/`, `docs/presentations/jeremiah-1-20/`, and `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds navigation and all three decks. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
 
 Keep the generated presentations with the other generated docs when publishing this static site. Rebuild after source changes; do not hand-edit the compiled assets. Each build clears only its own output directory, so put source material in `presentations/`, not in generated directories under `docs/`.
 
-The Isaiah deck's snow photograph is bundled locally from [Unsplash](https://images.unsplash.com/photo-1454496522488-7a8e488e8606). Both decks use local system fonts. After building, the slides need no external image or font services. Slidev 51.8.2 is pinned because the configured package registry quarantines a dependency in version 53; do not bypass registry restrictions when upgrading.
+The Isaiah deck's snow photograph is bundled locally from [Unsplash](https://images.unsplash.com/photo-1454496522488-7a8e488e8606). All decks use local system fonts. After building, the slides need no external image or font services. Slidev 51.8.2 is pinned because the configured package registry quarantines a dependency in version 53; do not bypass registry restrictions when upgrading.
 
 Run `npm run test:slides` for desktop/mobile browser checks. Install the test browser once with `npx playwright install chromium`, or use an installed Chrome with `PLAYWRIGHT_CHANNEL=chrome npm run test:slides`. The check starts its own preview on port 3002 and saves screenshots in the ignored `test-results/` folder. `npm test` remains the fast navigation and scripture-formatting check.
 
@@ -42,7 +42,7 @@ Run `npm run test:slides` for desktop/mobile browser checks. Install the test br
 Change `currentLesson` in [lessons.json](lessons.json) to the folder path of a prepared lesson:
 
 ```json
-"currentLesson": "old-testament/37-proverbs-ecclesiastes"
+"currentLesson": "old-testament/44-jeremiah-part-2"
 ```
 
 Then run:
