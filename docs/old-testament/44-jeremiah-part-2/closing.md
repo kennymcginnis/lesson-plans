@@ -13,6 +13,8 @@ Invite students to choose one response they can begin this week:
 - Offer practical help to someone in difficulty, as Ebed-melech did.
 - Bring grief honestly to the Lord while holding to His mercy.
 
+<details><summary>Show a sample response</summary><p>“This week I will read Lamentations 3:21–26 again, then check in on someone who has been grieving and listen without trying to fix everything.”</p></details>
+
 No one needs to share a private decision or explain a painful experience publicly. Close with a brief witness of Jesus Christ, the promised Branch, whose covenant offers forgiveness and renewal.
 
 Return to the [lesson overview](old-testament/44-jeremiah-part-2/README.md).

@@ -15,7 +15,7 @@ Starting the preview rebuilds navigation and the presentations automatically. Th
 
 ## Presentations
 
-This week's sidebar includes **Presentation - Hear, Act, and Hope**, a twelve-slide [Slidev](https://sli.dev) deck for Jeremiah 31–33; 36–39; Lamentations 1; 3. Slides 1–11 form a 25-minute class; slide 12 offers optional transcript background from Jeremiah 27–28 and 40–43. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Jeremiah and Isaiah decks remain in the archive.
+This week's sidebar includes **Presentation - Hear, Act, and Hope**, a twelve-slide [Slidev](https://sli.dev) deck for Jeremiah 31–33; 36–39; Lamentations 1; 3. Slides 1–11 form a 25-minute class; slide 12 offers optional scripture background from Jeremiah 27–28 and 40–43. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Jeremiah and Isaiah decks remain in the archive.
 
 Edit [presentations/jeremiah-31-39/slides.md](presentations/jeremiah-31-39/slides.md) and preview changes live:
 

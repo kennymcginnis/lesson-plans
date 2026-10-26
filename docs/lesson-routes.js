@@ -2,7 +2,8 @@ window.lessonAliases = {
   "/.*/_sidebar.md": "/_sidebar.md",
   "/old-testament/36-psalms-100-150/110-118(\\.md)?$": "/old-testament/36-psalms-100-150/110-and-118.md",
   "/psalms/(.*)": "/old-testament/36-psalms-100-150/$1",
-  "/proverbs-ecclesiastes/(.*)": "/old-testament/37-proverbs-ecclesiastes/$1"
+  "/proverbs-ecclesiastes/(.*)": "/old-testament/37-proverbs-ecclesiastes/$1",
+  "/old-testament/44-jeremiah-part-2/transcript-context(\\.md)?$": "/old-testament/44-jeremiah-part-2/additional-stories.md"
 };
 window.lessonSearchPaths = [
   "/",
@@ -111,7 +112,7 @@ window.lessonSearchPaths = [
   "/old-testament/44-jeremiah-part-2/ebed-melech",
   "/old-testament/44-jeremiah-part-2/covenant-hope",
   "/old-testament/44-jeremiah-part-2/lamentations",
-  "/old-testament/44-jeremiah-part-2/transcript-context",
+  "/old-testament/44-jeremiah-part-2/additional-stories",
   "/old-testament/44-jeremiah-part-2/closing",
   "/old-testament/49-micah-nahum-habakkuk-zephaniah/README",
   "/old-testament/49-micah-nahum-habakkuk-zephaniah/study-method",

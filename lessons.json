@@ -194,7 +194,7 @@
             { "file": "ebed-melech.md", "title": "Courage with Rags and Ropes (38-39)" },
             { "file": "covenant-hope.md", "title": "A Covenant Written on the Heart (31-33)" },
             { "file": "lamentations.md", "title": "Lament and New Mercies (Lamentations 1; 3)" },
-            { "file": "transcript-context.md", "title": "Transcript Context: Competing Voices and a Later Choice" },
+            { "file": "additional-stories.md", "title": "Additional Stories: Competing Voices and a Later Choice", "legacyFiles": ["transcript-context.md"] },
             { "file": "closing.md", "title": "Closing - A Faithful Next Step" }
           ]
         },

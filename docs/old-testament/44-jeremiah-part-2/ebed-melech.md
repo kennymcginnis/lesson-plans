@@ -6,7 +6,7 @@ After officials put Jeremiah into a muddy cistern, Ebed-melech hears what happen
 
 [Read Jeremiah 38:1–13](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/38?lang=eng&id=p1-p13#p1)
 
-The transcript highlights this scene at about 16:49–18:39. Ask students to notice its specific verbs: Ebed-melech **hears**, **speaks**, **gathers helpers**, **lowers rags**, and **pulls**. His action is courageous and practical. The rags protect Jeremiah where the ropes touch him; care appears in small details as well as public words.
+Ask students to notice its specific verbs: Ebed-melech **hears**, **speaks**, **gathers helpers**, **lowers rags**, and **pulls**. His action is courageous and practical. The rags protect Jeremiah where the ropes touch him; care appears in small details as well as public words.
 
 ## Trust and deliverance
 
@@ -19,8 +19,16 @@ The contrast with Zedekiah is worth exploring carefully. The king has a throne b
 ## Questions to sit with
 
 - What risks might Ebed-melech have understood, and what does the text actually tell us?
+
+  <details><summary>Show a sample answer</summary><p>Speaking against the officials before the king could have been risky, though the passage does not describe his inner thoughts. It tells us he spoke up and received permission to help (Jeremiah 38:7–10).</p></details>
 - Why do the rags matter in the rescue?
+
+  <details><summary>Show a sample answer</summary><p>He puts rags under the ropes so they will not hurt Jeremiah as the men lift him. The detail shows practical care (Jeremiah 38:11–13).</p></details>
 - Who can we help with the resources and relationships already within our reach?
+
+  <details><summary>Show a sample answer</summary><p>We might notice someone who is isolated, ask what help they need, and use our time or connections to bring practical support.</p></details>
 - How could courage include asking others to help?
+
+  <details><summary>Show a sample answer</summary><p>Ebed-melech gathers men for the rescue. Courage can mean organizing help when a need is too large for one person (Jeremiah 38:10–13).</p></details>
 
 Continue with [A Covenant Written on the Heart](old-testament/44-jeremiah-part-2/covenant-hope.md).

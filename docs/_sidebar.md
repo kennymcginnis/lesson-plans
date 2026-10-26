@@ -7,7 +7,7 @@
   - [Courage with Rags and Ropes (38-39)](old-testament/44-jeremiah-part-2/ebed-melech.md)
   - [A Covenant Written on the Heart (31-33)](old-testament/44-jeremiah-part-2/covenant-hope.md)
   - [Lament and New Mercies (Lamentations 1; 3)](old-testament/44-jeremiah-part-2/lamentations.md)
-  - [Transcript Context: Competing Voices and a Later Choice](old-testament/44-jeremiah-part-2/transcript-context.md)
+  - [Additional Stories: Competing Voices and a Later Choice](old-testament/44-jeremiah-part-2/additional-stories.md)
   - [Closing - A Faithful Next Step](old-testament/44-jeremiah-part-2/closing.md)
 - Old Testament
   - [Week 05 - Genesis 5; Moses 6](old-testament/05-genesis-5-moses-6/README.md)
@@ -115,7 +115,7 @@
     - [Courage with Rags and Ropes (38-39)](old-testament/44-jeremiah-part-2/ebed-melech.md)
     - [A Covenant Written on the Heart (31-33)](old-testament/44-jeremiah-part-2/covenant-hope.md)
     - [Lament and New Mercies (Lamentations 1; 3)](old-testament/44-jeremiah-part-2/lamentations.md)
-    - [Transcript Context: Competing Voices and a Later Choice](old-testament/44-jeremiah-part-2/transcript-context.md)
+    - [Additional Stories: Competing Voices and a Later Choice](old-testament/44-jeremiah-part-2/additional-stories.md)
     - [Closing - A Faithful Next Step](old-testament/44-jeremiah-part-2/closing.md)
   - [Week 49 - Nahum; Habakkuk; Zephaniah](old-testament/49-micah-nahum-habakkuk-zephaniah/README.md)
     - [Understand, Identify, Apply](old-testament/49-micah-nahum-habakkuk-zephaniah/study-method.md)
