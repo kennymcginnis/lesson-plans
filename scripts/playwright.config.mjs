@@ -8,6 +8,9 @@ export default defineConfig({
 	use: {
 		baseURL: 'http://127.0.0.1:3002',
 		channel: process.env.PLAYWRIGHT_CHANNEL || undefined,
+		launchOptions: process.env.PLAYWRIGHT_EXECUTABLE_PATH
+			? { executablePath: process.env.PLAYWRIGHT_EXECUTABLE_PATH }
+			: undefined,
 		reducedMotion: 'reduce',
 	},
 	projects: [

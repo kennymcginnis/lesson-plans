@@ -166,3 +166,34 @@ test('week 44 launches the new deck and all twelve slides fit', async ({ page })
 	await page.goto('/presentations/jeremiah-31-39/index.html#/presenter/1')
 	await expect(page.getByText('0–2 minutes.', { exact: false })).toBeVisible()
 })
+
+test('week 45 deck reveals answers and all twelve slides fit', async ({ page }) => {
+	await page.goto('/#/old-testament/45-ezekiel-1-3-33-34-36-37-47/presentation')
+	const launch = page.getByRole('link', { name: 'Open the Slidev presentation', exact: true })
+	await expect(launch).toHaveAttribute('href', 'presentations/ezekiel-1-3-33-34-36-37-47/index.html')
+	await page.goto(await launch.evaluate(element => element.href))
+	await expect(page.locator('.slidev-page-1 h1')).toHaveText('The Lord Is There')
+
+	for (let slideNumber = 1; slideNumber <= 12; slideNumber++) {
+		await page.goto(`/presentations/ezekiel-1-3-33-34-36-37-47/index.html#/${slideNumber}`)
+		const slide = page.locator(`.slidev-page-${slideNumber} .slidev-layout`)
+		await expect(slide).toBeVisible()
+		const answer = slide.locator('.sample-answer')
+		await expect(answer).toHaveCount(1)
+		await page.keyboard.press('ArrowRight')
+		await expect(answer).toBeVisible()
+		const overflow = await slide.evaluate(element => {
+			const bounds = element.getBoundingClientRect()
+			return [...element.querySelectorAll('h1, p')]
+				.filter(child => {
+					const rect = child.getBoundingClientRect()
+					return rect.right > bounds.right + 1 || rect.bottom > bounds.bottom + 1
+				})
+				.map(child => child.textContent)
+		})
+		expect(overflow, `Week 45 slide ${slideNumber} has clipped text`).toEqual([])
+	}
+
+	await page.goto('/presentations/ezekiel-1-3-33-34-36-37-47/index.html#/presenter/1')
+	await expect(page.getByText('0–2 minutes.', { exact: false })).toBeVisible()
+})

@@ -5,11 +5,12 @@
   "scripts": {
     "docs:build": "node scripts/build-navigation.mjs && npm run slides:build",
     "predocs:serve": "npm run docs:build",
-    "slides:dev": "slidev presentations/jeremiah-31-39/slides.md --bind 127.0.0.1",
-    "slides:build": "npm run slides:build:isaiah && npm run slides:build:jeremiah && npm run slides:build:jeremiah-31-39",
+    "slides:dev": "slidev presentations/ezekiel-1-3-33-34-36-37-47/slides.md --bind 127.0.0.1",
+    "slides:build": "npm run slides:build:isaiah && npm run slides:build:jeremiah && npm run slides:build:jeremiah-31-39 && npm run slides:build:ezekiel",
     "slides:build:isaiah": "slidev build presentations/isaiah-1-12/slides.md --base ./ --out ../../docs/presentations/isaiah-1-12",
     "slides:build:jeremiah": "slidev build presentations/jeremiah-1-20/slides.md --base ./ --out ../../docs/presentations/jeremiah-1-20",
     "slides:build:jeremiah-31-39": "slidev build presentations/jeremiah-31-39/slides.md --base ./ --out ../../docs/presentations/jeremiah-31-39",
+    "slides:build:ezekiel": "slidev build presentations/ezekiel-1-3-33-34-36-37-47/slides.md --base ./ --out ../../docs/presentations/ezekiel-1-3-33-34-36-37-47",
     "test": "node --test scripts/*.test.mjs",
     "test:slides": "playwright test --config scripts/playwright.config.mjs",
     "docs:serve": "docsify serve docs"

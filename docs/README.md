@@ -2,7 +2,7 @@
 
 ## This Week
 
-[I Will Turn Their Mourning into Joy](old-testament/44-jeremiah-part-2/README.md)
+[A New Spirit Will I Put within You](old-testament/45-ezekiel-1-3-33-34-36-37-47/README.md)
 
 ## Old Testament
 
@@ -18,6 +18,7 @@
 - [Week 40 - Isaiah 40-49](old-testament/40-isaiah-40-49/README.md)
 - [Week 43 - Jeremiah, Part 1](old-testament/43-jeremiah-part-1/README.md)
 - [Week 44 - Jeremiah 31-33; 36-39; Lamentations 1; 3](old-testament/44-jeremiah-part-2/README.md)
+- [Week 45 - Ezekiel 1-3; 33-34; 36-37; 47](old-testament/45-ezekiel-1-3-33-34-36-37-47/README.md)
 - [Week 49 - Nahum; Habakkuk; Zephaniah](old-testament/49-micah-nahum-habakkuk-zephaniah/README.md)
 
 ## Doctrine and Covenants
