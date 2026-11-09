@@ -15,9 +15,9 @@ Starting the preview rebuilds navigation and the presentations automatically. Th
 
 ## Presentations
 
-This week's sidebar includes **Presentation - The Lord Is There**, a twelve-slide [Slidev](https://sli.dev) deck for Ezekiel 1–3; 33–34; 36–37; 47. It forms a 25-minute class. Each question has a sample answer that appears on the next click. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Jeremiah and Isaiah decks remain in the archive.
+This week's sidebar includes **Presentation - Stand, Pray, Trust**, a twelve-slide [Slidev](https://sli.dev) deck for Daniel 1–7. It forms a 25-minute class. Each question has a sample answer that appears on the next click. The presentation page links the deck to the lesson notes, and timing guidance is in Slidev presenter notes. The earlier Ezekiel, Jeremiah, and Isaiah decks remain in the archive.
 
-Edit [presentations/ezekiel-1-3-33-34-36-37-47/slides.md](presentations/ezekiel-1-3-33-34-36-37-47/slides.md) and preview changes live:
+Edit [presentations/daniel-1-7/slides.md](presentations/daniel-1-7/slides.md) and preview changes live:
 
 ```sh
 npm run slides:dev
@@ -29,7 +29,7 @@ Slidev runs at http://localhost:3030. Use its presenter view to open a separate 
 npm run slides:build
 ```
 
-This produces static presentations under `docs/presentations/ezekiel-1-3-33-34-36-37-47/`, `docs/presentations/jeremiah-31-39/`, `docs/presentations/jeremiah-1-20/`, and `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds navigation and all four decks. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
+This produces static presentations under `docs/presentations/daniel-1-7/`, `docs/presentations/ezekiel-1-3-33-34-36-37-47/`, `docs/presentations/jeremiah-31-39/`, `docs/presentations/jeremiah-1-20/`, and `docs/presentations/isaiah-1-12/`. The full `npm run docs:build` command rebuilds navigation and all five decks. Relative asset paths and hash routing support both root hosting and GitHub Pages repository subpaths without server rewrites.
 
 Keep the generated presentations with the other generated docs when publishing this static site. Rebuild after source changes; do not hand-edit the compiled assets. Each build clears only its own output directory, so put source material in `presentations/`, not in generated directories under `docs/`.
 
@@ -42,7 +42,7 @@ Run `npm run test:slides` for desktop/mobile browser checks. Install the test br
 Change `currentLesson` in [lessons.json](lessons.json) to the folder path of a prepared lesson:
 
 ```json
-"currentLesson": "old-testament/45-ezekiel-1-3-33-34-36-37-47"
+"currentLesson": "old-testament/46-daniel-1-7"
 ```
 
 Then run:

@@ -1,5 +1,5 @@
 {
-  "currentLesson": "old-testament/45-ezekiel-1-3-33-34-36-37-47",
+  "currentLesson": "old-testament/46-daniel-1-7",
   "courses": [
     {
       "id": "old-testament",
@@ -211,6 +211,22 @@
             { "file": "new-heart-and-bones.md", "title": "A New Heart and Living Bones (36-37)" },
             { "file": "sticks-and-river.md", "title": "One People and Healing Water (37; 47)" },
             { "file": "closing.md", "title": "Closing - One Act of Care" }
+          ]
+        },
+        {
+          "week": 46,
+          "slug": "daniel-1-7",
+          "subject": "Daniel 1-7",
+          "title": "There Is No Other God That Can Deliver",
+          "pages": [
+            { "file": "presentation.md", "title": "Presentation - Stand, Pray, Trust" },
+            { "file": "resolve.md", "title": "Resolve and Respect (1)" },
+            { "file": "revelation-and-kingdom.md", "title": "Pray, Receive, and Thank (2)" },
+            { "file": "but-if-not.md", "title": "But If Not (3)" },
+            { "file": "humility.md", "title": "Two Kings and Humility (4-5)" },
+            { "file": "prayer-and-lions.md", "title": "Prayer as a Steady Practice (6)" },
+            { "file": "son-of-man.md", "title": "The Son of Man and an Enduring Kingdom (7)" },
+            { "file": "closing.md", "title": "Closing - One Faithful Choice" }
           ]
         },
         {

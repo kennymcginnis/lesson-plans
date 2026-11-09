@@ -2,7 +2,7 @@
 
 ## This Week
 
-[A New Spirit Will I Put within You](old-testament/45-ezekiel-1-3-33-34-36-37-47/README.md)
+[There Is No Other God That Can Deliver](old-testament/46-daniel-1-7/README.md)
 
 ## Old Testament
 
@@ -19,6 +19,7 @@
 - [Week 43 - Jeremiah, Part 1](old-testament/43-jeremiah-part-1/README.md)
 - [Week 44 - Jeremiah 31-33; 36-39; Lamentations 1; 3](old-testament/44-jeremiah-part-2/README.md)
 - [Week 45 - Ezekiel 1-3; 33-34; 36-37; 47](old-testament/45-ezekiel-1-3-33-34-36-37-47/README.md)
+- [Week 46 - Daniel 1-7](old-testament/46-daniel-1-7/README.md)
 - [Week 49 - Nahum; Habakkuk; Zephaniah](old-testament/49-micah-nahum-habakkuk-zephaniah/README.md)
 
 ## Doctrine and Covenants
